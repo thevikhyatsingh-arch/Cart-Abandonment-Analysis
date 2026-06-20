@@ -1,0 +1,1001 @@
+customer_id,session_id,session_date,month,quarter,is_weekend,device_type,traffic_source,city_tier,gender,age,product_category,visited_site,added_to_cart,reached_checkout,entered_payment_details,purchase_completed,funnel_drop_stage,num_items_in_cart,cart_value_inr,time_on_site_min,page_views,page_load_time_sec,is_returning_customer,previous_purchases,payment_method,discount_applied,coupon_code,payment_failed,email_reminder_sent,recovered_after_reminder,day_name
+CUST_56461,SESS_00795,2024-07-26,7,Q3,0,Mobile,Organic,Tier 1,Male,44.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,52.07,6.4,2.0,0.64,1,9.0,net_banking,0,FLASH50,,1,No,Friday
+CUST_48950,SESS_00471,2023-11-17,11,Q4,0,Tablet,Social,Tier 3,Male,47.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,76.07,15.0,10.0,1.49,0,0.0,net_banking,0,,,1,Yes,Friday
+CUST_96442,SESS_00632,2024-03-11,3,Q1,0,Mobile,Direct,Tier 1,Male,36.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,87.62,9.6,6.0,9.19,1,12.0,credit_card,1,SALE20,0,0,No,Monday
+CUST_11315,SESS_00169,2023-05-08,5,Q2,0,Desktop,Organic,Tier 3,Male,37.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,182.78,13.4,18.0,9.65,1,4.0,debit_card,0,,,0,No,Monday
+CUST_15249,SESS_00493,2023-12-04,12,Q4,0,Mobile,Organic,Tier 1,Female,26.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,132.23,9.6,13.0,2.64,0,9.0,credit_card,0,,,0,No,Monday
+CUST_42743,SESS_00069,2023-02-16,2,Q1,0,Desktop,Referral,Tier 1,Female,20.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,58.49,4.5,12.0,2.06,0,6.0,cash_on_delivery,1,SUMMER15,,0,No,Thursday
+CUST_20529,SESS_00963,2024-12-03,12,Q4,0,Tablet,Paid_Ad,Tier 3,Male,26.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,76.07,4.0,8.0,3.55,0,8.0,credit_card,1,FLASH50,,0,No,Tuesday
+CUST_45378,SESS_00099,2023-03-15,3,Q1,0,Mobile,Email,Tier 2,Male,28.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,52.64,24.8,12.0,2.04,0,1.0,debit_card,1,WELCOME,,0,No,Wednesday
+CUST_38835,SESS_00076,2023-02-22,2,Q1,0,Mobile,Organic,Tier 3,Female,46.0,Toys,1,1,1,1,1,Completed_Purchase,4.0,84.71,11.5,2.0,1.31,0,4.0,credit_card,1,SUMMER15,0,0,No,Wednesday
+CUST_39876,SESS_00617,2024-03-02,3,Q1,1,Mobile,Paid_Ad,Tier 1,Female,31.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,34.17,15.5,4.0,2.64,1,6.0,credit_card,1,SAVE10,,0,No,Saturday
+CUST_14002,SESS_00736,2024-06-14,6,Q2,0,Desktop,Social,Tier 1,Male,30.0,Books,1,1,1,1,1,Completed_Purchase,5.0,280.99,11.2,3.0,1.22,0,3.0,cash_on_delivery,1,DIWALI30,0,0,No,Friday
+CUST_75354,SESS_00327,2023-08-12,8,Q3,1,Desktop,Paid_Ad,Tier 3,Female,32.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,86.21,9.2,16.0,0.58,0,0.0,net_banking,0,,,0,No,Saturday
+CUST_45183,SESS_00274,2023-07-09,7,Q3,1,Mobile,Social,Tier 1,Male,32.0,Books,1,1,1,0,0,Checkout_Dropped,1.0,149.62,9.6,10.0,2.64,0,17.0,net_banking,1,,,0,No,Sunday
+CUST_56827,SESS_00978,2024-12-13,12,Q4,0,Tablet,Paid_Ad,Tier 2,Male,33.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,37.63,15.6,6.0,5.83,1,14.0,credit_card,0,,,0,No,Friday
+CUST_43526,SESS_00210,2023-06-02,6,Q2,0,Tablet,Organic,Tier 2,Female,39.0,Books,1,0,0,0,0,Browsed_Only,1.0,0.0,2.8,3.0,0.13,1,6.0,credit_card,0,,,0,No,Friday
+CUST_25389,SESS_00890,2024-10-09,10,Q4,0,Desktop,Referral,Tier 2,Male,17.0,Sports,1,0,0,0,0,Browsed_Only,2.0,91.53,2.6,11.0,1.25,0,12.0,debit_card,0,,,0,No,Wednesday
+CUST_99434,SESS_00346,2023-08-26,8,Q3,1,Tablet,Paid_Ad,Tier 1,Female,51.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,26.15,11.2,17.0,3.65,1,0.0,credit_card,0,,,1,Yes,Saturday
+CUST_30520,SESS_00326,2023-08-12,8,Q3,1,Tablet,Organic,Tier 1,Male,23.0,Sports,1,1,1,0,0,Checkout_Dropped,5.0,31.85,8.6,19.0,1.72,1,15.0,net_banking,0,,,1,,Saturday
+CUST_93336,SESS_00168,2023-05-07,5,Q2,1,Mobile,Paid_Ad,Tier 3,Female,36.0,Toys,1,0,0,0,0,Browsed_Only,7.0,91.21,13.6,12.0,2.64,1,17.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_19455,SESS_00834,2024-08-30,8,Q3,0,Desktop,Organic,Tier 1,Female,25.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,10000.0,9.4,11.0,1.3,1,6.0,upi,1,WELCOME,0,0,No,Friday
+CUST_65765,SESS_00393,2023-09-24,9,Q3,1,Tablet,Organic,Tier 2,Male,28.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,13.67,7.9,10.0,3.44,0,16.0,credit_card,1,SALE20,,1,No,Sunday
+CUST_27231,SESS_00139,2023-04-10,4,Q2,0,Desktop,Paid_Ad,Tier 2,Male,35.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,29.16,15.8,2.0,0.66,0,17.0,credit_card,1,SAVE10,,1,No,Monday
+CUST_96144,SESS_00103,2023-03-17,3,Q1,0,Mobile,Direct,Tier 2,Male,31.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,13.26,17.1,5.0,2.64,0,0.0,credit_card,0,,,0,No,Friday
+CUST_42922,SESS_00200,2023-05-21,5,Q2,1,Mobile,Social,Tier 3,Female,39.0,Books,1,1,1,1,1,Completed_Purchase,6.0,77.97,11.5,9.0,1.42,0,0.0,debit_card,0,,0,0,No,Sunday
+CUST_61983,SESS_00764,2024-07-01,7,Q3,0,Desktop,Organic,Tier 3,Other,41.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,76.07,9.6,13.0,0.07,1,16.0,upi,1,FLASH50,0,0,No,Monday
+CUST_35924,SESS_00176,2023-05-12,5,Q2,0,Desktop,Organic,Tier 1,Female,36.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,76.07,4.7,19.0,4.67,0,0.0,debit_card,1,WELCOME,0,0,No,Friday
+CUST_73221,SESS_00977,2024-12-13,12,Q4,0,Desktop,Organic,Tier 1,Female,34.0,Sports,1,1,0,0,0,Cart_Dropped,7.0,0.0,11.8,3.0,7.72,0,0.0,net_banking,1,DIWALI30,,1,No,Friday
+CUST_68603,SESS_00886,2024-10-05,10,Q4,1,Mobile,Organic,Tier 1,Male,3.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,306.67,7.8,6.0,2.64,0,0.0,upi,1,SALE20,0,0,No,Saturday
+CUST_73370,SESS_00142,2023-04-13,4,Q2,0,Mobile,Organic,Tier 2,Male,22.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,91.47,6.5,16.0,2.64,0,0.0,cash_on_delivery,1,FLASH50,,1,No,Thursday
+CUST_52038,SESS_00123,2023-03-30,3,Q1,0,Tablet,Paid_Ad,Tier 1,Male,32.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,7.0,124.96,8.7,19.0,3.42,1,8.0,upi,0,,,1,No,Thursday
+CUST_61266,SESS_00728,2024-06-06,6,Q2,0,Desktop,Paid_Ad,Tier 1,Male,30.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,3.0,261.42,4.7,13.0,2.02,0,0.0,upi,0,,0,0,No,Thursday
+CUST_84541,SESS_00472,2023-11-17,11,Q4,0,Tablet,Paid_Ad,Tier 1,Male,37.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,10000.0,22.0,6.0,1.6,1,8.0,cash_on_delivery,0,,0,0,No,Friday
+CUST_99885,SESS_00098,2023-03-14,3,Q1,0,Desktop,Email,Tier 2,Male,30.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,91.84,7.5,8.0,4.31,0,15.0,debit_card,0,,,1,Yes,Tuesday
+CUST_82563,SESS_00933,2024-11-13,11,Q4,0,Mobile,Email,Tier 2,Female,41.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,76.07,8.4,11.0,3.25,0,14.0,credit_card,1,DIWALI30,,0,No,Wednesday
+CUST_26004,SESS_00340,2023-08-24,8,Q3,0,Desktop,Organic,Tier 2,Female,26.0,Toys,1,0,0,0,0,Browsed_Only,3.0,260.13,25.4,6.0,4.03,0,0.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_43866,SESS_00410,2023-10-05,10,Q4,0,Mobile,Paid_Ad,Tier 1,Female,28.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,103.45,16.5,10.0,4.05,1,7.0,credit_card,1,,,0,No,Thursday
+CUST_67787,SESS_00343,2023-08-25,8,Q3,0,Desktop,Organic,Tier 1,Female,22.0,Beauty,1,1,1,0,0,Checkout_Dropped,1.0,61.59,14.6,1.0,0.19,0,2.0,debit_card,0,,,0,No,Friday
+CUST_93351,SESS_00111,2023-03-23,3,Q1,0,Tablet,Paid_Ad,Tier 3,Female,24.0,Beauty,1,1,0,0,0,Cart_Dropped,5.0,89.48,5.0,15.0,8.57,0,4.0,upi,0,SUMMER15,,0,No,Thursday
+CUST_26755,SESS_00965,2024-12-04,12,Q4,0,Mobile,Paid_Ad,Tier 1,Male,34.0,Beauty,1,1,0,0,0,Cart_Dropped,2.0,128.38,11.7,16.0,1.63,0,1.0,upi,0,,,0,No,Wednesday
+CUST_15598,SESS_00199,2023-05-20,5,Q2,1,Mobile,Organic,Tier 2,Female,31.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,87.01,7.8,12.0,1.78,1,5.0,upi,0,,0,0,No,Saturday
+CUST_71220,SESS_00924,2024-11-07,11,Q4,0,Desktop,Paid_Ad,Tier 3,Female,30.0,Beauty,1,1,1,1,1,Completed_Purchase,6.0,111.23,12.7,14.0,4.01,0,11.0,credit_card,0,,0,0,No,Thursday
+CUST_88157,SESS_00846,2023-09-14,9,Q3,0,Desktop,Paid_Ad,Tier 2,Male,31.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,44.41,7.3,8.0,7.9,0,0.0,credit_card,1,FLASH50,0,0,No,Thursday
+CUST_55826,SESS_00814,2024-08-09,8,Q3,0,Desktop,Paid_Ad,Tier 2,Male,42.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,440.51,2.4,8.0,0.37,0,0.0,net_banking,0,,,0,No,Friday
+CUST_32834,SESS_00507,2023-12-15,12,Q4,0,Desktop,Organic,Tier 1,Male,31.0,Toys,1,1,0,0,0,Cart_Dropped,6.0,42.82,5.6,11.0,2.81,0,0.0,credit_card,0,,,1,No,Friday
+CUST_55097,SESS_00261,2023-07-01,7,Q3,1,Desktop,Organic,Tier 2,Female,32.0,Toys,1,1,0,0,0,Cart_Dropped,4.0,45.18,22.8,13.0,1.77,0,0.0,upi,0,,,0,No,Saturday
+CUST_61143,SESS_00552,2024-01-18,1,Q1,0,Mobile,Referral,Tier 2,Male,32.0,Beauty,1,1,0,0,0,Cart_Dropped,7.0,55.12,12.1,15.0,2.64,1,12.0,wallet,0,,,1,Yes,Thursday
+CUST_70198,SESS_00847,2024-09-10,9,Q3,0,Desktop,Direct,Tier 2,Male,28.0,Toys,1,0,0,0,0,Browsed_Only,3.0,76.07,12.1,10.0,4.06,0,1.0,wallet,0,,,0,No,Tuesday
+CUST_93230,SESS_00741,2024-06-19,6,Q2,0,Desktop,Organic,Tier 3,Female,24.0,Electronics,1,1,1,1,0,Payment_Dropped,3.0,160.96,6.1,7.0,1.73,1,12.0,cash_on_delivery,0,,1,1,No,Wednesday
+CUST_78674,SESS_00428,2023-10-22,10,Q4,1,Tablet,Email,Tier 2,Female,31.0,Fashion,1,1,1,1,0,Payment_Dropped,7.0,63.79,10.5,7.0,1.43,0,0.0,cash_on_delivery,1,WELCOME,1,0,No,Sunday
+CUST_64683,SESS_00446,2023-10-31,10,Q4,0,Desktop,Referral,Tier 1,Male,27.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,84.86,32.9,17.0,4.46,1,13.0,debit_card,0,,,0,No,Tuesday
+CUST_41168,SESS_00207,2023-05-30,5,Q2,0,Mobile,Paid_Ad,Tier 2,Female,29.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,13.68,12.4,10.0,7.0,1,17.0,credit_card,0,,,1,No,Tuesday
+CUST_80269,SESS_00352,2023-08-29,8,Q3,0,Desktop,Direct,Tier 1,Male,40.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,73.45,4.7,18.0,5.89,1,13.0,credit_card,0,,,0,No,Tuesday
+CUST_62552,SESS_00015,2023-01-11,1,Q1,0,Mobile,Organic,Tier 1,Female,20.0,Sports,1,1,1,1,1,Completed_Purchase,3.0,205.54,12.9,4.0,4.09,1,9.0,upi,0,,0,0,No,Wednesday
+CUST_60244,SESS_00879,2024-10-02,10,Q4,0,Mobile,Organic,Tier 3,Female,13.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,18.87,17.6,9.0,2.64,0,0.0,net_banking,0,,0,0,No,Wednesday
+CUST_79750,SESS_00114,2023-03-24,3,Q1,0,Desktop,Email,Tier 3,Female,30.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,295.22,11.7,9.0,7.25,0,2.0,debit_card,1,SALE20,,0,No,Friday
+CUST_58895,SESS_00078,2023-02-25,2,Q1,1,Tablet,Organic,Tier 1,Male,36.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,120.08,3.6,18.0,9.94,0,13.0,wallet,1,,,1,No,Saturday
+CUST_11686,SESS_00967,2024-12-06,12,Q4,0,Desktop,Organic,Tier 3,Female,35.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,7.0,15.49,22.2,10.0,5.8,1,10.0,debit_card,0,,0,0,No,Friday
+CUST_51748,SESS_00587,2024-02-11,2,Q1,1,Mobile,Organic,Tier 2,Female,31.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,61.9,1.5,12.0,0.13,0,3.0,wallet,0,,,0,No,Sunday
+CUST_10499,SESS_00901,2024-10-18,10,Q4,0,Desktop,Referral,Tier 1,Female,28.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,156.99,9.6,5.0,5.29,0,0.0,credit_card,0,,,0,No,Friday
+CUST_27833,SESS_00461,2023-11-11,11,Q4,1,Desktop,Direct,Tier 1,Female,28.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,131.05,17.1,3.0,3.28,nan,13.0,upi,0,,,0,No,Saturday
+CUST_57349,SESS_00523,2023-12-27,12,Q4,0,Tablet,Social,Tier 2,Male,26.0,Books,1,0,0,0,0,Browsed_Only,6.0,51.93,7.3,12.0,5.06,1,14.0,credit_card,1,WELCOME,,0,No,Wednesday
+CUST_35277,SESS_00495,2023-12-04,12,Q4,0,Desktop,Organic,Tier 3,Male,40.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,207.6,4.1,14.0,6.53,1,16.0,cash_on_delivery,1,SAVE10,,0,No,Monday
+CUST_14183,SESS_00441,2023-10-30,10,Q4,0,Desktop,Email,Tier 3,Male,32.0,Beauty,1,1,0,0,0,Cart_Dropped,7.0,25.6,9.6,13.0,2.31,0,0.0,upi,0,,,0,No,Monday
+CUST_30517,SESS_00702,2024-05-16,5,Q2,0,Desktop,Organic,Tier 1,Male,44.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,32.79,15.9,5.0,4.75,0,10.0,credit_card,0,,,1,No,Thursday
+CUST_43702,SESS_00052,2023-02-03,2,Q1,0,Desktop,Social,Tier 1,Male,35.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,22.47,3.3,1.0,4.74,1,0.0,debit_card,0,,,0,No,Friday
+CUST_28918,SESS_00217,2023-06-06,6,Q2,0,Mobile,Email,Tier 1,Female,29.0,Electronics,1,1,1,1,1,Completed_Purchase,6.0,76.07,3.3,5.0,1.94,0,2.0,credit_card,1,SUMMER15,0,0,No,Tuesday
+CUST_61003,SESS_00293,2023-07-22,7,Q3,1,Desktop,Social,Tier 3,Male,19.0,Beauty,1,1,1,1,0,Payment_Dropped,2.0,65.31,5.9,13.0,2.7,0,14.0,credit_card,0,,1,1,No,Saturday
+CUST_86660,SESS_00810,2024-08-06,8,Q3,0,Desktop,Organic,Tier 2,Female,38.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,19.54,9.6,17.0,2.2,0,0.0,net_banking,0,,,0,No,Tuesday
+CUST_72788,SESS_00606,2024-02-24,2,Q1,1,Desktop,Paid_Ad,Tier 1,Male,24.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,250.48,10.4,4.0,2.7,1,14.0,credit_card,0,,,1,Yes,Saturday
+CUST_41305,SESS_00214,2023-06-04,6,Q2,1,Mobile,Social,Tier 3,Male,17.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,205.34,11.0,10.0,2.64,0,0.0,debit_card,0,WELCOME,0,0,No,Sunday
+CUST_33919,SESS_00800,2024-07-28,7,Q3,1,Mobile,Direct,Tier 2,Male,24.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,13.65,16.2,19.0,2.64,1,6.0,wallet,0,,,0,No,Sunday
+CUST_38949,SESS_00996,2024-12-29,12,Q4,1,Tablet,Organic,Tier 1,Male,19.0,Sports,1,1,1,1,0,Payment_Dropped,0.0,277.14,5.2,16.0,3.32,0,2.0,debit_card,0,,1,0,No,Sunday
+CUST_37491,SESS_00492,2023-12-03,12,Q4,1,Desktop,Social,Tier 3,Male,29.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,270.61,10.7,8.0,1.19,0,0.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_84757,SESS_00521,2023-12-23,12,Q4,1,Desktop,Social,Tier 1,Male,0.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,48.18,2.8,10.0,3.7,1,0.0,upi,1,SUMMER15,,0,No,Saturday
+CUST_21730,SESS_00872,2024-09-25,9,Q3,0,Tablet,Social,Tier 1,Female,31.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,23.49,3.8,6.0,4.33,1,16.0,credit_card,1,SALE20,,0,No,Wednesday
+CUST_80188,SESS_00300,2023-07-26,7,Q3,0,Mobile,Direct,Tier 2,Female,48.0,Sports,1,1,1,1,1,Completed_Purchase,4.0,0.0,14.1,3.0,1.21,1,9.0,credit_card,0,,0,0,No,Wednesday
+CUST_67507,SESS_00336,2023-08-22,8,Q3,0,Desktop,Organic,Tier 3,Female,30.0,Sports,1,0,0,0,0,Browsed_Only,4.0,192.23,13.0,3.0,2.64,0,16.0,debit_card,0,,,0,No,Tuesday
+CUST_38552,SESS_00870,2024-09-23,9,Q3,0,Desktop,Referral,Tier 1,Male,25.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,195.13,10.7,3.0,0.77,0,17.0,cash_on_delivery,1,,,0,No,Monday
+CUST_38727,SESS_00496,2023-12-04,12,Q4,0,Tablet,Social,Tier 3,Female,31.0,Toys,1,0,0,0,0,Browsed_Only,5.0,12.57,19.7,15.0,4.33,1,9.0,upi,1,,,0,No,Monday
+CUST_10145,SESS_00925,2024-11-08,11,Q4,0,Desktop,Referral,Tier 1,Male,32.0,Toys,1,1,0,0,0,Cart_Dropped,4.0,191.43,32.3,10.0,2.93,0,7.0,credit_card,0,,,1,Yes,Friday
+CUST_43536,SESS_00071,2023-02-18,2,Q1,1,Mobile,Direct,Tier 2,Male,35.0,Sports,1,1,1,0,0,Checkout_Dropped,6.0,188.13,2.9,17.0,4.49,1,9.0,debit_card,0,,,0,No,Saturday
+CUST_76276,SESS_00840,2024-09-05,9,Q3,0,Desktop,Paid_Ad,Tier 3,Female,20.0,Beauty,1,1,1,1,0,Payment_Dropped,3.0,80.97,3.0,10.0,1.46,0,6.0,cash_on_delivery,0,,0,1,No,Thursday
+CUST_86185,SESS_00048,2023-02-02,2,Q1,0,Desktop,Email,Tier 3,Female,31.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,49.52,4.8,6.0,0.95,1,14.0,upi,0,,0,0,No,Thursday
+CUST_67124,SESS_00586,2024-02-11,2,Q1,1,Mobile,Paid_Ad,Tier 3,Male,22.0,Electronics,1,1,1,1,1,Completed_Purchase,6.0,147.96,1.7,4.0,8.86,0,12.0,debit_card,0,,0,0,No,Sunday
+CUST_57348,SESS_00994,2024-12-26,12,Q4,0,Desktop,Organic,Tier 2,Male,21.0,Beauty,1,1,1,0,0,Checkout_Dropped,2.0,52.93,13.6,12.0,2.47,0,2.0,credit_card,0,,,0,No,Thursday
+CUST_64150,SESS_00431,2023-10-23,10,Q4,0,Mobile,Organic,Tier 3,Male,40.0,Beauty,1,1,1,0,0,Checkout_Dropped,1.0,87.31,7.4,5.0,3.15,1,7.0,wallet,0,,,1,No,Monday
+CUST_96782,SESS_00280,2023-07-14,7,Q3,0,Tablet,Organic,Tier 2,Male,36.0,Books,1,0,0,0,0,Browsed_Only,2.0,107.12,0.8,5.0,1.01,1,6.0,cash_on_delivery,0,,,0,No,Friday
+CUST_83695,SESS_00804,2024-08-01,8,Q3,0,Mobile,Organic,Tier 2,Male,32.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,147.68,10.0,4.0,2.64,1,3.0,upi,0,,,0,No,Thursday
+CUST_12786,SESS_00191,2023-05-16,5,Q2,0,Mobile,Referral,Tier 3,Male,31.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,20.7,4.6,9.0,2.64,1,15.0,credit_card,0,,,0,No,Tuesday
+CUST_91138,SESS_00894,2024-10-12,10,Q4,1,Desktop,Organic,Tier 3,Male,29.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,3.0,76.07,3.2,3.0,5.03,1,1.0,net_banking,0,,0,0,No,Saturday
+CUST_85641,SESS_00692,2024-05-04,5,Q2,1,Mobile,Organic,Tier 3,Female,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,51.44,5.9,15.0,1.2,1,7.0,nan,0,,,0,No,Saturday
+CUST_74907,SESS_00686,2024-05-01,5,Q2,0,Mobile,Email,Tier 3,Male,23.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,83.56,15.3,3.0,0.26,0,15.0,debit_card,0,,,1,No,Wednesday
+CUST_16338,SESS_00341,2023-08-24,8,Q3,0,Mobile,Referral,Tier 3,Male,38.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,123.04,4.7,5.0,2.64,0,0.0,cash_on_delivery,1,WELCOME,,0,No,Thursday
+CUST_56422,SESS_00732,2024-06-08,6,Q2,1,Desktop,Organic,Tier 3,Male,40.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,137.18,17.2,15.0,2.48,0,0.0,credit_card,1,SUMMER15,,1,No,Saturday
+CUST_93078,SESS_00465,2023-11-14,11,Q4,0,Desktop,Paid_Ad,Tier 3,Male,42.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,102.54,3.1,8.0,4.64,1,9.0,upi,0,,0,0,No,Tuesday
+CUST_58233,SESS_00743,2024-06-19,6,Q2,0,Mobile,Referral,Tier 2,Male,31.0,Sports,1,1,1,1,1,Completed_Purchase,5.0,85.05,4.6,10.0,2.64,0,0.0,cash_on_delivery,1,SALE20,0,0,No,Wednesday
+CUST_66589,SESS_00650,2024-03-23,3,Q1,1,Tablet,Email,Tier 1,Male,33.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,61.16,17.7,12.0,6.61,0,15.0,wallet,1,SALE20,,1,No,Saturday
+CUST_58411,SESS_00580,2024-02-05,2,Q1,0,Mobile,Direct,Tier 2,Male,35.0,Beauty,1,1,0,0,0,Cart_Dropped,2.0,219.34,3.4,6.0,2.64,0,10.0,debit_card,1,SAVE10,,0,No,Monday
+CUST_70902,SESS_00502,2023-12-11,12,Q4,0,Mobile,Referral,Tier 1,Male,25.0,Fashion,1,1,1,0,0,Checkout_Dropped,1.0,69.08,36.3,14.0,3.16,nan,15.0,upi,1,DIWALI30,,1,Yes,Monday
+CUST_24063,SESS_00357,2023-09-04,9,Q3,0,Mobile,Paid_Ad,Tier 2,Female,26.0,Toys,1,1,0,0,0,Cart_Dropped,7.0,232.04,10.7,17.0,1.84,1,9.0,cash_on_delivery,0,,,0,No,Monday
+CUST_48194,SESS_00526,2023-12-29,12,Q4,0,Desktop,Direct,Tier 3,Female,33.0,Toys,1,1,0,0,0,Cart_Dropped,4.0,209.36,11.6,4.0,3.6,0,0.0,credit_card,0,,,0,No,Friday
+CUST_51779,SESS_00402,2023-09-28,9,Q3,0,Desktop,Social,Tier 2,Female,24.0,Beauty,1,1,1,0,0,Checkout_Dropped,4.0,26.38,13.3,2.0,1.14,1,9.0,credit_card,1,DIWALI30,,1,No,Thursday
+CUST_78445,SESS_00876,2023-09-14,9,Q3,1,Desktop,Social,Tier 2,Female,37.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,3.0,282.12,2.6,9.0,3.65,0,4.0,debit_card,0,,,0,No,Thursday
+CUST_84619,SESS_00803,2023-09-14,9,Q3,0,Mobile,Social,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,1.0,70.83,16.1,2.0,2.64,1,3.0,credit_card,0,,1,1,Yes,Thursday
+CUST_69460,SESS_00543,2024-01-14,1,Q1,1,Desktop,Social,Tier 1,Female,25.0,Electronics,1,1,1,1,0,Payment_Dropped,6.0,49.06,5.4,8.0,0.86,nan,6.0,upi,1,DIWALI30,1,0,No,Sunday
+CUST_77083,SESS_00512,2023-12-18,12,Q4,0,Mobile,Social,Tier 1,Male,36.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,1.0,80.06,7.5,11.0,6.52,0,15.0,upi,0,,0,0,No,Monday
+CUST_52055,SESS_00770,2024-07-05,7,Q3,0,Desktop,Paid_Ad,Tier 2,Male,28.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,34.86,11.6,16.0,5.51,0,0.0,credit_card,0,,,0,No,Friday
+CUST_17803,SESS_00054,2023-02-05,2,Q1,1,Desktop,Email,Tier 1,Female,30.0,Sports,1,0,0,0,0,Browsed_Only,6.0,95.85,8.6,10.0,3.48,0,7.0,upi,1,SALE20,,0,No,Sunday
+CUST_13055,SESS_00574,2024-02-02,2,Q1,0,Mobile,Email,Tier 2,Female,35.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,25.84,48.6,10.0,4.26,0,0.0,wallet,0,,,0,No,Friday
+CUST_21741,SESS_00450,2023-11-03,11,Q4,0,Mobile,Referral,Tier 1,Female,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,62.39,3.6,16.0,0.64,0,6.0,upi,0,,,0,No,Friday
+CUST_84937,SESS_00974,2024-12-12,12,Q4,0,Desktop,Direct,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,2.0,59.19,9.6,19.0,2.09,0,17.0,upi,0,,0,0,No,Thursday
+CUST_94356,SESS_00491,2023-12-03,12,Q4,1,Desktop,Organic,Tier 1,Female,33.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,258.32,7.4,7.0,4.66,1,16.0,credit_card,1,SAVE10,,0,No,Sunday
+CUST_34701,SESS_00318,2023-08-10,8,Q3,0,Desktop,Organic,Tier 2,Male,33.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,10000.0,13.5,7.0,8.2,1,13.0,upi,0,,,0,No,Thursday
+CUST_61208,SESS_00917,2024-11-03,11,Q4,1,Desktop,Organic,Tier 2,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,82.67,3.1,5.0,5.07,0,0.0,net_banking,0,,,0,No,Sunday
+CUST_40124,SESS_00636,2024-03-15,3,Q1,0,Desktop,Social,Tier 2,Female,36.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,23.16,7.0,14.0,3.01,0,8.0,upi,1,WELCOME,,0,No,Friday
+CUST_80343,SESS_00626,2024-03-08,3,Q1,0,Mobile,Referral,Tier 2,Other,31.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,32.86,4.8,13.0,2.64,1,2.0,credit_card,0,,0,0,No,Friday
+CUST_38366,SESS_00971,2024-12-10,12,Q4,0,Tablet,Email,Tier 2,Female,38.0,Books,1,1,1,0,0,Checkout_Dropped,2.0,57.67,6.0,12.0,1.93,1,10.0,upi,0,,,1,No,Tuesday
+CUST_42555,SESS_00211,2023-06-02,6,Q2,0,Desktop,Organic,Tier 2,Female,25.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,116.4,13.3,4.0,5.75,0,12.0,upi,0,,,0,No,Friday
+CUST_75858,SESS_00718,2024-05-29,5,Q2,0,Mobile,Organic,Tier 2,Female,41.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,21.81,5.5,12.0,2.64,0,1.0,debit_card,1,WELCOME,,0,No,Wednesday
+CUST_25798,SESS_00314,2023-08-05,8,Q3,1,Desktop,Organic,Tier 2,Female,24.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,49.61,9.4,12.0,1.22,1,17.0,upi,1,,,1,No,Saturday
+CUST_22205,SESS_00848,2024-09-11,9,Q3,0,Mobile,Organic,Tier 2,Female,53.0,Sports,1,1,0,0,0,Cart_Dropped,3.0,38.2,17.3,18.0,1.09,1,10.0,upi,1,DIWALI30,,1,No,Wednesday
+CUST_51489,SESS_00633,2024-03-11,3,Q1,0,Desktop,Email,Tier 3,Male,34.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,12.79,11.7,5.0,0.74,1,4.0,net_banking,1,DIWALI30,,1,No,Monday
+CUST_30167,SESS_00236,2023-06-19,6,Q2,0,Desktop,Direct,Tier 2,Female,36.0,Sports,1,0,0,0,0,Browsed_Only,6.0,85.75,6.8,10.0,2.04,1,15.0,net_banking,0,,,0,No,Monday
+CUST_56391,SESS_00690,2024-05-02,5,Q2,0,Mobile,Paid_Ad,Tier 2,Male,15.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,14.66,5.4,2.0,3.54,1,9.0,net_banking,0,,,1,Yes,Thursday
+CUST_91249,SESS_00417,2023-10-10,10,Q4,0,Desktop,Organic,Tier 2,Male,39.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,163.98,9.6,9.0,7.08,1,11.0,credit_card,0,,,0,No,Tuesday
+CUST_61437,SESS_00151,2023-04-20,4,Q2,0,Desktop,Paid_Ad,Tier 2,Male,34.0,Beauty,1,0,0,0,0,Browsed_Only,3.0,314.24,7.6,13.0,2.15,0,3.0,wallet,1,SUMMER15,,0,No,Thursday
+CUST_22909,SESS_00986,2024-12-19,12,Q4,0,Mobile,Organic,Tier 2,Female,34.0,Sports,1,0,0,0,0,Browsed_Only,3.0,367.27,18.9,12.0,2.21,0,0.0,upi,0,,,0,No,Thursday
+CUST_69226,SESS_00413,2023-10-07,10,Q4,1,Tablet,Referral,Tier 1,Female,25.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,96.66,1.7,4.0,6.43,1,8.0,cash_on_delivery,0,,,0,No,Saturday
+CUST_98709,SESS_00337,2023-08-22,8,Q3,0,Mobile,Email,Tier 1,Female,38.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,7.0,134.01,5.0,4.0,0.72,1,0.0,credit_card,0,,0,0,No,Tuesday
+CUST_38699,SESS_00758,2024-06-28,6,Q2,0,Mobile,Organic,Tier 2,Female,27.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,27.87,6.9,3.0,2.64,1,8.0,credit_card,1,,,0,No,Friday
+CUST_20239,SESS_00380,2023-09-18,9,Q3,0,Mobile,Organic,Tier 3,Male,33.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,57.44,17.6,17.0,5.67,0,0.0,credit_card,0,,,0,No,Monday
+CUST_47486,SESS_00171,2023-05-09,5,Q2,0,Desktop,Paid_Ad,Tier 2,Female,34.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,190.52,4.1,10.0,0.47,0,9.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_60646,SESS_00892,2024-10-11,10,Q4,0,Mobile,Organic,Tier 2,Male,49.0,Toys,1,1,1,1,0,Payment_Dropped,1.0,113.27,10.5,2.0,2.64,1,3.0,credit_card,0,,0,1,No,Friday
+CUST_29620,SESS_00910,2024-10-26,10,Q4,1,Tablet,Direct,Tier 2,Male,27.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,104.03,4.8,17.0,0.98,1,5.0,credit_card,0,,,1,Yes,Saturday
+CUST_80749,SESS_00442,2023-10-30,10,Q4,0,Desktop,Direct,Tier 3,Female,29.0,Sports,1,0,0,0,0,Browsed_Only,6.0,76.07,7.0,18.0,5.02,0,0.0,credit_card,0,,,0,No,Monday
+CUST_63483,SESS_00900,2024-10-18,10,Q4,0,Tablet,Paid_Ad,Tier 1,Female,28.0,Books,1,1,1,1,1,Completed_Purchase,2.0,198.12,25.0,11.0,7.31,0,0.0,credit_card,0,,0,0,No,Friday
+CUST_73964,SESS_00425,2023-10-21,10,Q4,1,Desktop,Paid_Ad,Tier 2,Male,0.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,70.87,9.6,11.0,2.42,1,13.0,credit_card,0,,,1,No,Saturday
+CUST_45544,SESS_00842,2024-09-08,9,Q3,1,Tablet,Paid_Ad,Tier 3,Male,32.0,Sports,1,1,1,0,0,Checkout_Dropped,1.0,24.95,27.7,18.0,2.88,1,10.0,credit_card,0,,,1,No,Sunday
+CUST_57971,SESS_00463,2023-11-11,11,Q4,1,Tablet,Paid_Ad,Tier 2,Other,52.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,12.46,8.2,9.0,1.94,1,16.0,upi,1,DIWALI30,0,0,No,Saturday
+CUST_78184,SESS_00677,2024-04-16,4,Q2,0,Mobile,Paid_Ad,Tier 1,Male,33.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,52.78,2.8,2.0,9.26,1,9.0,credit_card,0,,,0,No,Tuesday
+CUST_92989,SESS_00938,2024-11-14,11,Q4,0,Mobile,Social,Tier 2,Female,33.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,20.74,16.4,7.0,2.98,1,13.0,credit_card,1,,,0,No,Thursday
+CUST_22541,SESS_00188,2023-09-14,9,Q2,0,Tablet,Direct,Tier 1,Female,34.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,6.0,51.53,5.6,16.0,6.64,1,3.0,upi,0,,0,0,No,Thursday
+CUST_80561,SESS_00265,2023-07-03,7,Q3,0,Mobile,Organic,Tier 1,Male,18.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,133.83,19.2,18.0,2.64,0,0.0,net_banking,0,SAVE10,0,0,No,Monday
+CUST_70170,SESS_00408,2023-10-03,10,Q4,0,Desktop,Email,Tier 3,Male,3.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,187.29,13.2,5.0,3.89,1,14.0,credit_card,0,,,0,No,Tuesday
+CUST_57356,SESS_00025,2023-01-18,1,Q1,0,Desktop,Paid_Ad,Tier 2,Male,39.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,1.0,107.81,9.1,1.0,2.71,0,16.0,nan,0,,0,0,No,Wednesday
+CUST_88314,SESS_00975,2024-12-12,12,Q4,0,Desktop,Organic,Tier 1,Male,13.0,Toys,1,1,1,0,0,Checkout_Dropped,6.0,29.28,2.5,16.0,0.73,0,0.0,net_banking,0,,,1,No,Thursday
+CUST_47904,SESS_00678,2024-04-17,4,Q2,0,Desktop,Referral,Tier 2,Male,30.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,134.49,12.3,8.0,0.97,1,6.0,upi,1,FLASH50,,0,No,Wednesday
+CUST_36198,SESS_00216,2023-06-05,6,Q2,0,Desktop,Organic,Tier 3,Female,15.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,160.18,4.6,10.0,2.84,1,15.0,net_banking,1,SAVE10,,0,No,Monday
+CUST_80006,SESS_00448,2023-11-01,11,Q4,0,Mobile,Paid_Ad,Tier 2,Male,14.0,Beauty,1,0,0,0,0,Browsed_Only,5.0,109.11,12.0,10.0,2.64,0,0.0,credit_card,0,,,0,No,Wednesday
+CUST_92327,SESS_00759,2024-06-29,6,Q2,1,Desktop,Paid_Ad,Tier 3,Female,15.0,Electronics,1,1,1,0,0,Checkout_Dropped,6.0,39.06,5.2,1.0,0.84,0,7.0,credit_card,0,,,1,No,Saturday
+CUST_19823,SESS_00531,2023-12-30,12,Q4,1,Mobile,Organic,Tier 3,Male,16.0,Electronics,1,0,0,0,0,Browsed_Only,5.0,84.65,1.8,14.0,5.96,1,6.0,credit_card,0,,,0,No,Saturday
+CUST_97959,SESS_00192,2023-05-17,5,Q2,0,Mobile,Organic,Tier 1,Other,39.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,90.9,5.3,5.0,1.02,1,14.0,debit_card,0,,,1,No,Wednesday
+CUST_63824,SESS_00756,2024-06-27,6,Q2,0,Desktop,Paid_Ad,Tier 3,Male,38.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,59.2,9.2,16.0,5.11,1,12.0,credit_card,1,DIWALI30,,0,No,Thursday
+CUST_92046,SESS_00451,2023-11-03,11,Q4,0,Mobile,Direct,Tier 1,Female,30.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,51.52,9.1,9.0,2.86,1,0.0,credit_card,0,,,0,No,Friday
+CUST_98035,SESS_00824,2024-08-21,8,Q3,0,Desktop,Social,Tier 3,Other,37.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,184.79,4.8,12.0,0.86,1,13.0,upi,1,SAVE10,,0,No,Wednesday
+CUST_52650,SESS_00547,2024-01-16,1,Q1,0,Mobile,Email,Tier 1,Male,35.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,264.76,32.1,11.0,0.93,1,3.0,debit_card,0,,0,1,No,Tuesday
+CUST_90993,SESS_00877,2024-09-30,9,Q3,0,Desktop,Social,Tier 2,Female,21.0,Sports,1,1,0,0,0,Cart_Dropped,2.0,190.22,15.5,9.0,2.4,0,6.0,credit_card,0,,,0,No,Monday
+CUST_51325,SESS_00397,2023-09-26,9,Q3,0,Desktop,Paid_Ad,Tier 3,Male,21.0,Books,1,0,0,0,0,Browsed_Only,4.0,81.43,2.2,2.0,1.66,1,6.0,upi,0,,,0,No,Tuesday
+CUST_50051,SESS_00748,2024-06-21,6,Q2,0,Desktop,Direct,Tier 2,Female,14.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,76.07,24.9,12.0,3.88,1,8.0,upi,0,,,1,No,Friday
+CUST_67860,SESS_00889,2024-10-08,10,Q4,0,Mobile,Referral,Tier 1,Male,29.0,Books,1,0,0,0,0,Browsed_Only,4.0,21.69,1.4,14.0,2.64,1,15.0,upi,1,FLASH50,,0,No,Tuesday
+CUST_19907,SESS_00916,2024-11-01,11,Q4,0,Mobile,Paid_Ad,Tier 3,Female,42.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,61.15,14.3,5.0,2.64,1,12.0,upi,0,,,0,No,Friday
+CUST_49329,SESS_00046,2023-02-01,2,Q1,0,Mobile,Social,Tier 3,Male,42.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,6.0,89.75,3.3,3.0,2.64,1,0.0,cash_on_delivery,0,,1,0,No,Wednesday
+CUST_77837,SESS_00484,2023-11-26,11,Q4,1,Mobile,Email,Tier 3,Female,40.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,292.55,9.6,14.0,1.04,0,0.0,credit_card,1,SUMMER15,,0,No,Sunday
+CUST_81801,SESS_00822,2024-08-17,8,Q3,1,Desktop,Organic,Tier 1,Male,13.0,Beauty,1,1,1,1,1,Completed_Purchase,2.0,101.46,7.6,4.0,4.11,1,7.0,cash_on_delivery,0,,0,0,No,Saturday
+CUST_57047,SESS_00537,2024-01-06,1,Q1,1,Desktop,Paid_Ad,Tier 1,Female,36.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,58.23,3.8,9.0,3.11,0,4.0,credit_card,1,DIWALI30,0,0,No,Saturday
+CUST_30813,SESS_00817,2024-08-12,8,Q3,0,Mobile,Paid_Ad,Tier 2,Male,35.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,280.09,9.6,14.0,4.07,0,13.0,upi,0,,,1,Yes,Monday
+CUST_89677,SESS_00172,2023-05-09,5,Q2,0,Mobile,Organic,Tier 1,Female,31.0,Fashion,1,1,1,0,0,Checkout_Dropped,6.0,36.23,17.1,19.0,2.64,1,3.0,upi,1,WELCOME,,1,No,Tuesday
+CUST_46467,SESS_00663,2024-03-30,3,Q1,1,Desktop,Paid_Ad,Tier 1,Male,31.0,Electronics,1,1,1,1,0,Payment_Dropped,6.0,110.55,5.1,11.0,0.92,0,3.0,cash_on_delivery,1,SAVE10,1,0,No,Saturday
+CUST_25875,SESS_00033,2023-01-21,1,Q1,1,Desktop,Social,Tier 1,Male,35.0,Toys,1,0,0,0,0,Browsed_Only,4.0,403.61,9.6,5.0,2.09,0,5.0,upi,0,,,0,No,Saturday
+CUST_16183,SESS_00434,2023-10-25,10,Q4,0,Desktop,Organic,Tier 2,Male,45.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,83.79,9.9,19.0,4.97,1,6.0,net_banking,0,,,1,Yes,Wednesday
+CUST_97226,SESS_00325,2023-08-12,8,Q3,1,Mobile,Organic,Tier 2,Male,24.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,124.14,9.2,10.0,3.1,0,0.0,net_banking,0,,,1,Yes,Saturday
+CUST_96758,SESS_00147,2023-04-18,4,Q2,0,Desktop,Email,Tier 1,Male,33.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,76.07,11.2,5.0,4.48,1,6.0,debit_card,0,,,0,No,Tuesday
+CUST_91748,SESS_00533,2024-01-02,1,Q1,0,Desktop,Direct,Tier 3,Male,22.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,6.0,285.51,1.4,18.0,2.39,1,16.0,debit_card,1,SUMMER15,1,1,Yes,Tuesday
+CUST_54418,SESS_00668,2024-04-06,4,Q2,1,Mobile,Paid_Ad,Tier 2,Male,52.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,41.36,33.4,7.0,3.63,1,3.0,upi,1,SUMMER15,,0,No,Saturday
+CUST_53686,SESS_00444,2023-10-30,10,Q4,0,Mobile,Direct,Tier 1,Female,39.0,Electronics,1,1,1,0,0,Checkout_Dropped,6.0,79.49,12.4,4.0,1.66,1,2.0,net_banking,0,,,1,Yes,Monday
+CUST_84622,SESS_00993,2024-12-25,12,Q4,0,Desktop,Social,Tier 2,Female,32.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,48.46,7.2,2.0,0.3,1,12.0,upi,0,,,0,No,Wednesday
+CUST_53005,SESS_00419,2023-10-14,10,Q4,1,Tablet,Organic,Tier 1,Male,33.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,234.52,18.1,1.0,1.01,0,0.0,upi,1,WELCOME,,1,No,Saturday
+CUST_51040,SESS_00802,2024-07-29,7,Q3,0,Mobile,Paid_Ad,Tier 3,Male,17.0,Beauty,1,0,0,0,0,Browsed_Only,5.0,0.0,12.2,13.0,2.64,0,17.0,wallet,1,DIWALI30,,0,No,Monday
+CUST_43038,SESS_00189,2023-05-15,5,Q2,0,Mobile,Paid_Ad,Tier 1,Male,50.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,26.55,9.8,10.0,2.64,0,0.0,debit_card,0,,,1,No,Monday
+CUST_73221,SESS_00449,2023-11-02,11,Q4,0,Mobile,Email,Tier 3,Female,50.0,Electronics,1,0,0,0,0,Browsed_Only,2.0,76.07,9.6,4.0,2.35,0,17.0,net_banking,1,FLASH50,,0,No,Thursday
+CUST_36307,SESS_00126,2023-03-31,3,Q1,0,Desktop,Email,Tier 3,Female,42.0,Fashion,1,1,1,1,0,Payment_Dropped,1.0,212.36,9.6,19.0,2.77,1,7.0,credit_card,1,FLASH50,0,1,No,Friday
+CUST_34037,SESS_00203,2023-05-26,5,Q2,0,Mobile,Paid_Ad,Tier 3,Female,51.0,Beauty,1,1,1,0,0,Checkout_Dropped,5.0,114.85,11.6,14.0,4.59,0,12.0,debit_card,0,,,0,No,Friday
+CUST_59108,SESS_00786,2024-07-22,7,Q3,0,Desktop,Referral,Tier 3,Female,35.0,Sports,1,0,0,0,0,Browsed_Only,4.0,34.55,16.0,2.0,8.45,1,14.0,upi,0,,,0,No,Monday
+CUST_79735,SESS_00948,2024-11-23,11,Q4,1,Mobile,Organic,Tier 2,Male,14.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,155.64,4.3,19.0,1.33,1,1.0,nan,1,,,0,No,Saturday
+CUST_48292,SESS_00906,2024-10-22,10,Q4,0,Desktop,Paid_Ad,Tier 1,Female,34.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,30.77,15.5,17.0,2.02,0,11.0,net_banking,0,,,0,No,Tuesday
+CUST_76731,SESS_00505,2023-12-13,12,Q4,0,Desktop,Social,Tier 3,Female,50.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,77.55,8.3,15.0,1.75,0,16.0,cash_on_delivery,0,,0,0,No,Wednesday
+CUST_85336,SESS_00248,2023-06-27,6,Q2,0,Tablet,Organic,Tier 1,Female,33.0,Toys,1,0,0,0,0,Browsed_Only,2.0,130.58,6.9,2.0,1.62,0,1.0,credit_card,1,WELCOME,,0,No,Tuesday
+CUST_68519,SESS_00438,2023-09-14,9,Q4,0,Mobile,Organic,Tier 3,Female,30.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,31.54,7.0,10.0,4.22,0,7.0,credit_card,0,,,0,No,Thursday
+CUST_13956,SESS_00768,2024-07-02,7,Q3,0,Desktop,Social,Tier 3,Male,30.0,Beauty,1,0,0,0,0,Browsed_Only,5.0,53.95,0.7,14.0,2.24,0,0.0,net_banking,0,,,0,No,Tuesday
+CUST_19121,SESS_00896,2024-10-17,10,Q4,0,Desktop,Email,Tier 3,Male,28.0,Books,1,0,0,0,0,Browsed_Only,2.0,145.28,9.8,8.0,1.99,1,4.0,net_banking,1,DIWALI30,,0,No,Thursday
+CUST_66494,SESS_00056,2023-02-06,2,Q1,0,Mobile,Paid_Ad,Tier 3,Female,29.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,76.07,26.0,5.0,14.51,1,2.0,nan,1,DIWALI30,,1,No,Monday
+CUST_80466,SESS_00136,2023-04-09,4,Q2,1,Desktop,Referral,Tier 2,Male,22.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,101.1,9.6,11.0,3.64,1,10.0,cash_on_delivery,0,WELCOME,,0,No,Sunday
+CUST_97662,SESS_00922,2024-11-05,11,Q4,0,Tablet,Organic,Tier 1,Female,30.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,26.43,13.3,18.0,12.43,0,10.0,credit_card,0,,,1,Yes,Tuesday
+CUST_84535,SESS_00749,2024-06-23,6,Q2,1,Tablet,Email,Tier 3,Male,30.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,148.15,5.9,4.0,5.39,1,14.0,upi,0,,,0,No,Sunday
+CUST_63790,SESS_00358,2023-09-05,9,Q3,0,Mobile,Referral,Tier 2,Female,29.0,Books,1,0,0,0,0,Browsed_Only,6.0,97.68,22.7,6.0,2.64,1,0.0,net_banking,1,FLASH50,,0,No,Tuesday
+CUST_15501,SESS_00470,2023-09-14,9,Q4,0,Desktop,Paid_Ad,Tier 1,Female,33.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,99.73,12.6,8.0,2.7,0,0.0,credit_card,0,,,1,No,Thursday
+CUST_95689,SESS_00479,2023-11-23,11,Q4,0,Mobile,Paid_Ad,Tier 2,Female,25.0,Books,1,1,1,1,1,Completed_Purchase,2.0,212.56,4.1,11.0,2.64,1,6.0,upi,0,,0,0,No,Thursday
+CUST_47243,SESS_00625,2024-03-07,3,Q1,0,Desktop,Direct,Tier 3,Female,48.0,Books,1,0,0,0,0,Browsed_Only,3.0,100.34,11.2,19.0,4.03,1,17.0,debit_card,1,SAVE10,,0,No,Thursday
+CUST_85763,SESS_00370,2023-09-14,9,Q3,0,Desktop,Direct,Tier 1,Female,27.0,Beauty,1,1,1,1,1,Completed_Purchase,4.0,206.56,22.0,2.0,5.84,0,0.0,credit_card,1,FLASH50,0,0,No,Thursday
+CUST_53337,SESS_00932,2024-11-12,11,Q4,0,Mobile,Organic,Tier 3,Other,43.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,514.29,5.0,8.0,0.75,0,0.0,cash_on_delivery,1,FLASH50,,0,No,Tuesday
+CUST_33377,SESS_00909,2024-10-25,10,Q4,0,Mobile,Paid_Ad,Tier 3,Female,26.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,58.94,16.9,3.0,1.69,1,12.0,credit_card,0,,,0,No,Friday
+CUST_12058,SESS_00113,2023-03-24,3,Q1,0,Mobile,Organic,Tier 2,Male,27.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,88.09,17.2,19.0,2.64,1,6.0,upi,1,DIWALI30,,1,No,Friday
+CUST_14781,SESS_00564,2023-09-14,9,Q1,0,Mobile,Referral,Tier 1,Male,30.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,64.86,1.2,2.0,4.71,0,5.0,upi,0,,,1,No,Thursday
+CUST_41044,SESS_00427,2023-10-21,10,Q4,1,Mobile,Social,Tier 3,Male,33.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,55.22,3.3,17.0,4.06,0,3.0,debit_card,0,,,1,No,Saturday
+CUST_89488,SESS_00165,2023-05-05,5,Q2,0,Mobile,Paid_Ad,Tier 2,Male,23.0,Electronics,1,0,0,0,0,Browsed_Only,2.0,76.07,2.2,12.0,1.36,0,11.0,net_banking,0,,,0,No,Friday
+CUST_32281,SESS_00725,2024-06-03,6,Q2,0,Mobile,Referral,Tier 1,Female,31.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,140.84,9.4,3.0,2.64,1,12.0,credit_card,0,,,0,No,Monday
+CUST_87033,SESS_00724,2024-05-31,5,Q2,0,Desktop,Paid_Ad,Tier 1,Male,8.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,58.05,8.5,3.0,3.59,0,0.0,debit_card,1,SALE20,,0,No,Friday
+CUST_79687,SESS_00457,2023-11-07,11,Q4,0,Mobile,Organic,Tier 3,Female,23.0,Toys,1,1,1,1,1,Completed_Purchase,4.0,261.21,9.8,7.0,1.22,0,0.0,net_banking,1,SALE20,0,0,No,Tuesday
+CUST_40156,SESS_00735,2024-06-12,6,Q2,0,Mobile,Organic,Tier 2,Male,22.0,Beauty,1,1,1,0,0,Checkout_Dropped,5.0,103.03,20.5,12.0,3.12,1,16.0,cash_on_delivery,0,,,1,No,Wednesday
+CUST_20239,SESS_00579,2024-02-05,2,Q1,0,Mobile,Paid_Ad,Tier 3,Female,22.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,90.33,11.7,13.0,1.34,1,9.0,credit_card,0,,,0,No,Monday
+CUST_78070,SESS_00575,2024-02-03,2,Q1,1,Mobile,Organic,Tier 3,Female,28.0,Sports,1,1,0,0,0,Cart_Dropped,3.0,12.93,1.8,11.0,6.79,1,8.0,credit_card,0,,,0,No,Saturday
+CUST_90529,SESS_00604,2024-02-23,2,Q1,0,Desktop,Direct,Tier 1,Female,14.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,96.76,13.0,19.0,8.5,1,12.0,upi,0,,,0,No,Friday
+CUST_98574,SESS_00498,2023-12-09,12,Q4,1,Mobile,Paid_Ad,Tier 1,Male,10.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,45.79,5.6,19.0,2.64,1,9.0,upi,1,WELCOME,,0,No,Saturday
+CUST_38057,SESS_00783,2024-07-20,7,Q3,1,Tablet,Social,Tier 3,Female,27.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,44.9,6.2,18.0,3.22,nan,10.0,upi,0,,,1,No,Saturday
+CUST_78029,SESS_00898,2024-10-17,10,Q4,0,Desktop,Paid_Ad,Tier 2,Female,25.0,Toys,1,1,0,0,0,Cart_Dropped,5.0,619.99,0.6,17.0,2.45,0,13.0,upi,1,WELCOME,,1,Yes,Thursday
+CUST_66998,SESS_00392,2023-09-24,9,Q3,1,Desktop,Paid_Ad,Tier 2,Male,28.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,4.0,50.91,19.7,10.0,1.94,0,0.0,debit_card,0,,0,0,No,Sunday
+CUST_52055,SESS_00828,2024-08-25,8,Q3,1,Desktop,Paid_Ad,Tier 2,Other,26.0,Electronics,1,0,0,0,0,Browsed_Only,5.0,42.66,3.0,1.0,16.47,1,9.0,wallet,0,,,0,No,Sunday
+CUST_27391,SESS_00115,2023-03-24,3,Q1,0,Desktop,Organic,Tier 2,Male,27.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,147.67,10.2,5.0,7.39,1,10.0,upi,1,WELCOME,,0,No,Friday
+CUST_66346,SESS_00028,2023-01-19,1,Q1,0,Mobile,Paid_Ad,Tier 2,Female,28.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,5.0,95.28,10.4,18.0,2.64,0,11.0,net_banking,1,SUMMER15,1,1,Yes,Thursday
+CUST_86617,SESS_00864,2024-09-18,9,Q3,0,Mobile,Organic,Tier 2,Female,17.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,186.89,6.7,17.0,2.64,1,1.0,upi,0,,,1,Yes,Wednesday
+CUST_82545,SESS_00600,2024-02-19,2,Q1,0,Desktop,Paid_Ad,Tier 1,Male,31.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,91.05,16.6,3.0,2.58,0,17.0,cash_on_delivery,1,SALE20,,0,No,Monday
+CUST_76558,SESS_00105,2023-03-18,3,Q1,1,Desktop,Paid_Ad,Tier 2,Male,33.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,198.05,0.5,13.0,4.1,0,0.0,credit_card,1,DIWALI30,,1,No,Saturday
+CUST_99542,SESS_00518,2023-12-20,12,Q4,0,Mobile,Email,Tier 2,Male,12.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,76.07,18.5,17.0,2.64,1,1.0,credit_card,0,,0,0,No,Wednesday
+CUST_15268,SESS_00447,2023-10-31,10,Q4,0,Desktop,Organic,Tier 1,Male,29.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,39.72,24.1,10.0,2.16,0,3.0,upi,0,,,0,No,Tuesday
+CUST_34604,SESS_00204,2023-05-27,5,Q2,1,Mobile,Organic,Tier 3,Female,36.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,187.68,6.9,7.0,3.44,1,12.0,cash_on_delivery,0,,0,0,No,Saturday
+CUST_15035,SESS_00014,2023-01-11,1,Q1,0,Desktop,Social,Tier 2,Female,31.0,Books,1,1,0,0,0,Cart_Dropped,3.0,12.97,14.2,4.0,7.63,0,0.0,upi,1,SALE20,,1,No,Wednesday
+CUST_24608,SESS_00712,2024-05-26,5,Q2,1,Tablet,Organic,Tier 2,Male,39.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,29.15,9.6,19.0,0.73,1,13.0,cash_on_delivery,1,FLASH50,,0,No,Sunday
+CUST_78029,SESS_00556,2024-01-21,1,Q1,1,Mobile,Email,Tier 1,Female,33.0,Electronics,1,1,1,0,0,Checkout_Dropped,7.0,214.9,1.9,9.0,6.56,0,0.0,net_banking,0,SUMMER15,,1,No,Sunday
+CUST_28440,SESS_00473,2023-11-18,11,Q4,1,Desktop,Paid_Ad,Tier 2,Female,29.0,Sports,1,1,0,0,0,Cart_Dropped,2.0,76.07,9.4,8.0,1.97,0,0.0,net_banking,0,,,1,No,Saturday
+CUST_72425,SESS_00716,2024-05-28,5,Q2,0,Mobile,Email,Tier 1,Male,30.0,Toys,1,1,1,1,1,Completed_Purchase,7.0,13.81,25.0,8.0,2.64,1,14.0,upi,1,WELCOME,0,0,No,Tuesday
+CUST_56802,SESS_00350,2023-08-27,8,Q3,1,Desktop,Email,Tier 2,Female,38.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,393.05,8.6,16.0,2.34,1,8.0,wallet,0,,,1,No,Sunday
+CUST_64944,SESS_00850,2024-09-11,9,Q3,0,Desktop,Paid_Ad,Tier 2,Female,41.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,23.41,9.6,7.0,0.44,1,0.0,upi,1,,,0,No,Wednesday
+CUST_50571,SESS_00134,2023-04-05,4,Q2,0,Desktop,Social,Tier 2,Male,34.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,119.78,17.6,19.0,0.3,1,1.0,net_banking,1,WELCOME,,0,No,Wednesday
+CUST_35889,SESS_00609,2024-02-26,2,Q1,0,Tablet,Social,Tier 3,Male,28.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,248.74,10.0,6.0,1.76,0,0.0,credit_card,1,,,1,No,Monday
+CUST_77971,SESS_00378,2023-09-17,9,Q3,1,Tablet,Paid_Ad,Tier 1,Other,31.0,Toys,1,1,1,0,0,Checkout_Dropped,2.0,30.94,16.8,14.0,4.54,0,5.0,credit_card,1,,,0,No,Sunday
+CUST_37487,SESS_00053,2023-02-04,2,Q1,1,Tablet,Organic,Tier 2,Male,19.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,62.76,23.6,9.0,2.25,1,12.0,upi,0,,,0,No,Saturday
+CUST_18100,SESS_00058,2023-02-07,2,Q1,0,Mobile,Organic,Tier 3,Other,20.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,19.85,14.7,3.0,2.32,0,3.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_51466,SESS_00861,2024-09-16,9,Q3,0,Desktop,Paid_Ad,Tier 3,Male,29.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,103.01,12.0,8.0,3.31,1,12.0,upi,1,SALE20,,1,Yes,Monday
+CUST_33728,SESS_00602,2024-02-21,2,Q1,0,Mobile,Organic,Tier 1,Male,36.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,176.69,6.5,15.0,2.64,0,0.0,cash_on_delivery,1,SAVE10,0,0,No,Wednesday
+CUST_63395,SESS_00647,2024-03-22,3,Q1,0,Mobile,Organic,Tier 2,Female,35.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,4.0,85.42,4.1,14.0,4.99,1,13.0,upi,1,SAVE10,,0,No,Friday
+CUST_60460,SESS_00630,2024-03-10,3,Q1,1,Mobile,Email,Tier 2,Male,38.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,57.64,4.1,18.0,3.02,0,0.0,credit_card,0,,,0,No,Sunday
+CUST_43274,SESS_00366,2023-09-12,9,Q3,0,Mobile,Direct,Tier 3,Female,37.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,39.91,14.6,16.0,2.38,0,0.0,net_banking,0,,,1,Yes,Tuesday
+CUST_37451,SESS_00723,2024-05-31,5,Q2,0,Mobile,Paid_Ad,Tier 3,Female,14.0,Beauty,1,1,1,1,1,Completed_Purchase,3.0,477.4,18.5,19.0,4.63,0,0.0,upi,1,FLASH50,0,0,No,Friday
+CUST_59883,SESS_00928,2024-11-10,11,Q4,1,Mobile,Organic,Tier 2,Male,15.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,45.45,3.2,17.0,2.35,1,14.0,credit_card,0,,,0,No,Sunday
+CUST_73746,SESS_00362,2023-09-06,9,Q3,0,Mobile,Paid_Ad,Tier 2,Female,14.0,Books,1,0,0,0,0,Browsed_Only,7.0,16.66,13.2,9.0,2.64,0,0.0,credit_card,1,WELCOME,,0,No,Wednesday
+CUST_38711,SESS_00972,2024-12-11,12,Q4,0,Desktop,Referral,Tier 2,Female,31.0,Beauty,1,0,0,0,0,Browsed_Only,3.0,39.95,11.3,6.0,0.76,0,12.0,net_banking,0,,,0,No,Wednesday
+CUST_96421,SESS_00710,2024-05-24,5,Q2,0,Mobile,Paid_Ad,Tier 1,Male,28.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,177.13,8.7,10.0,2.64,0,6.0,net_banking,0,FLASH50,,0,No,Friday
+CUST_42493,SESS_00059,2023-02-08,2,Q1,0,Desktop,Paid_Ad,Tier 3,Male,28.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,88.66,7.9,8.0,2.27,1,5.0,upi,1,WELCOME,,1,Yes,Wednesday
+CUST_68725,SESS_00276,2023-07-10,7,Q3,0,Mobile,Paid_Ad,Tier 1,Male,27.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,121.54,10.9,1.0,2.64,1,1.0,wallet,0,,,0,No,Monday
+CUST_21795,SESS_00918,2024-11-03,11,Q4,1,Desktop,Organic,Tier 3,Other,31.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,32.91,3.8,1.0,4.11,1,0.0,upi,1,WELCOME,0,0,No,Sunday
+CUST_78490,SESS_00624,2024-03-07,3,Q1,0,Desktop,Email,Tier 2,Male,43.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,466.49,16.3,4.0,3.29,0,0.0,credit_card,1,SAVE10,1,1,,Thursday
+CUST_64543,SESS_00226,2023-06-13,6,Q2,0,Desktop,Paid_Ad,Tier 3,Male,44.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,69.99,23.5,9.0,8.83,1,14.0,debit_card,0,,,0,No,Tuesday
+CUST_76069,SESS_00565,2024-01-25,1,Q1,0,Mobile,Organic,Tier 2,Male,32.0,Beauty,1,1,1,1,1,Completed_Purchase,1.0,19.25,9.6,14.0,2.64,0,9.0,credit_card,0,,0,0,No,Thursday
+CUST_96760,SESS_00943,2024-11-20,11,Q4,0,Tablet,Email,Tier 1,Male,25.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,102.22,1.1,7.0,2.51,0,16.0,net_banking,1,SALE20,,0,No,Wednesday
+CUST_15498,SESS_00582,2024-02-07,2,Q1,0,Mobile,Referral,Tier 3,Male,22.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,54.26,13.0,19.0,3.38,0,0.0,upi,1,SUMMER15,,1,No,Wednesday
+CUST_29914,SESS_00744,2024-06-20,6,Q2,0,Mobile,Email,Tier 1,Male,35.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,85.61,6.6,7.0,4.29,1,16.0,cash_on_delivery,1,FLASH50,,1,No,Thursday
+CUST_63785,SESS_00144,2023-04-15,4,Q2,1,Desktop,Email,Tier 2,Female,23.0,Electronics,1,1,1,0,0,Checkout_Dropped,5.0,31.81,5.7,10.0,0.89,1,5.0,upi,1,,,1,No,Saturday
+CUST_23535,SESS_00407,2023-10-02,10,Q4,0,Mobile,Email,Tier 3,Female,26.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,48.94,4.6,17.0,2.64,0,0.0,debit_card,0,,,0,No,Monday
+CUST_52400,SESS_00232,2023-06-17,6,Q2,1,Mobile,Organic,Tier 1,Female,25.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,6.0,42.46,7.0,5.0,2.64,1,1.0,credit_card,1,SALE20,,1,No,Saturday
+CUST_73480,SESS_00140,2023-04-11,4,Q2,0,Desktop,Referral,Tier 1,Female,36.0,Beauty,1,1,1,1,1,Completed_Purchase,7.0,388.94,2.4,10.0,1.97,0,13.0,cash_on_delivery,0,,0,0,No,Tuesday
+CUST_28474,SESS_00923,2024-11-07,11,Q4,0,Desktop,Organic,Tier 1,Female,34.0,Electronics,1,1,1,1,1,Completed_Purchase,5.0,132.53,14.3,11.0,1.95,1,5.0,debit_card,0,,0,0,No,Thursday
+CUST_35015,SESS_00242,2023-06-25,6,Q2,1,Mobile,Organic,Tier 2,Female,15.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,111.39,4.9,5.0,2.2,0,11.0,net_banking,0,,,0,No,Sunday
+CUST_59333,SESS_00726,2024-06-04,6,Q2,0,Desktop,Social,Tier 2,Other,45.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,123.27,9.7,3.0,1.85,1,3.0,upi,1,SALE20,,1,Yes,Tuesday
+CUST_63571,SESS_00640,2024-03-17,3,Q1,1,Mobile,Organic,Tier 1,Female,17.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,13.84,6.9,16.0,0.91,0,8.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_53659,SESS_00628,2024-03-09,3,Q1,1,Desktop,Paid_Ad,Tier 2,Male,35.0,Electronics,1,1,1,1,0,Payment_Dropped,4.0,195.66,5.6,7.0,5.95,1,12.0,upi,1,WELCOME,1,0,No,Saturday
+CUST_21488,SESS_00068,2023-02-15,2,Q1,0,Mobile,Organic,Tier 2,Female,27.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,54.66,13.3,15.0,2.95,1,5.0,credit_card,1,DIWALI30,,1,No,Wednesday
+CUST_24069,SESS_00426,2023-10-21,10,Q4,1,Mobile,Social,Tier 2,Male,16.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,29.86,13.4,6.0,3.73,1,5.0,debit_card,1,FLASH50,,1,No,Saturday
+CUST_91654,SESS_00878,2024-10-01,10,Q4,0,Mobile,Paid_Ad,Tier 3,Female,33.0,Beauty,1,0,0,0,0,Browsed_Only,1.0,67.66,29.1,8.0,1.46,1,10.0,upi,1,SUMMER15,,0,No,Tuesday
+CUST_67457,SESS_00738,2024-06-17,6,Q2,0,Tablet,Referral,Tier 1,Male,26.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,78.04,25.1,14.0,0.15,0,0.0,credit_card,1,WELCOME,,1,No,Monday
+CUST_64507,SESS_00513,2023-12-19,12,Q4,0,Desktop,Referral,Tier 2,Female,28.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,88.73,3.4,19.0,0.65,1,5.0,credit_card,0,,,1,Yes,Tuesday
+CUST_27916,SESS_00841,2024-09-06,9,Q3,0,Mobile,Email,Tier 1,Male,43.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,47.65,22.1,1.0,4.97,0,11.0,upi,0,,,0,No,Friday
+CUST_79457,SESS_00167,2023-05-07,5,Q2,1,Desktop,Organic,Tier 3,Female,31.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,54.74,16.1,8.0,7.82,1,10.0,cash_on_delivery,0,,0,0,No,Sunday
+CUST_50846,SESS_00588,2024-02-12,2,Q1,0,Mobile,Paid_Ad,Tier 2,Female,25.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,28.9,2.9,6.0,0.72,1,3.0,upi,0,,,0,No,Monday
+CUST_30443,SESS_00664,2024-03-31,3,Q1,1,Mobile,Email,Tier 3,Male,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,79.8,4.1,5.0,8.77,1,17.0,debit_card,0,,,1,No,Sunday
+CUST_90261,SESS_00506,2023-12-13,12,Q4,0,Desktop,Paid_Ad,Tier 3,Female,46.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,28.13,13.7,5.0,5.54,0,3.0,net_banking,1,FLASH50,0,0,No,Wednesday
+CUST_84561,SESS_00784,2024-07-20,7,Q3,1,Desktop,Email,Tier 2,Female,28.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,3.0,33.06,10.7,4.0,10.52,0,0.0,net_banking,1,,0,0,No,Saturday
+CUST_38287,SESS_00855,2024-09-13,9,Q3,0,Mobile,Social,Tier 2,Female,38.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,18.76,4.0,10.0,2.39,1,15.0,upi,0,,,1,No,Friday
+CUST_46308,SESS_00132,2023-04-05,4,Q2,0,Desktop,Paid_Ad,Tier 1,Male,25.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,48.87,3.6,9.0,3.35,1,4.0,credit_card,1,WELCOME,,0,No,Wednesday
+CUST_20529,SESS_00884,2024-10-04,10,Q4,0,Desktop,Email,Tier 1,Male,41.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,140.65,18.3,6.0,6.42,1,5.0,credit_card,1,SAVE10,,1,No,Friday
+CUST_61132,SESS_00284,2023-07-16,7,Q3,1,Mobile,Organic,Tier 3,Female,46.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,261.16,5.8,18.0,8.25,1,1.0,net_banking,0,,,0,No,Sunday
+CUST_24813,SESS_00396,2023-09-25,9,Q3,0,Desktop,Direct,Tier 2,Male,34.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,13.91,11.0,5.0,4.51,0,0.0,upi,1,SAVE10,,0,No,Monday
+CUST_18188,SESS_00585,2024-02-10,2,Q1,1,Tablet,Social,Tier 2,Male,32.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,60.82,2.2,1.0,5.25,1,6.0,credit_card,0,,,0,No,Saturday
+CUST_47543,SESS_00019,2023-01-13,1,Q1,0,Desktop,Direct,Tier 2,Female,19.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,27.93,12.3,13.0,1.19,1,1.0,net_banking,0,,0,0,No,Friday
+CUST_64281,SESS_00180,2023-05-12,5,Q2,0,Tablet,Paid_Ad,Tier 3,Male,43.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,159.38,25.3,12.0,1.76,nan,4.0,upi,0,,0,0,No,Friday
+CUST_49260,SESS_00277,2023-07-12,7,Q3,0,Mobile,Paid_Ad,Tier 3,Female,26.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,18.73,4.2,14.0,5.41,1,4.0,net_banking,0,,,0,No,Wednesday
+CUST_89547,SESS_00094,2023-09-14,9,Q1,0,Tablet,Email,Tier 3,Male,40.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,5.0,107.19,9.6,16.0,10.43,0,0.0,net_banking,0,,1,0,No,Thursday
+CUST_26889,SESS_00179,2023-05-12,5,Q2,0,Desktop,Direct,Tier 2,Female,31.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,41.12,37.5,18.0,1.29,0,0.0,debit_card,0,,,0,No,Friday
+CUST_53379,SESS_00779,2024-07-15,7,Q3,0,Desktop,Email,Tier 3,Male,16.0,Books,1,1,1,0,0,Checkout_Dropped,3.0,65.34,14.7,17.0,4.36,0,0.0,credit_card,0,,,1,,Monday
+CUST_20324,SESS_00201,2023-05-25,5,Q2,0,Mobile,Organic,Tier 3,Female,31.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,391.0,26.1,10.0,2.64,nan,13.0,debit_card,0,,,0,No,Thursday
+CUST_94947,SESS_00957,2024-11-29,11,Q4,0,Desktop,Organic,Tier 3,Other,11.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,61.85,4.6,11.0,2.18,1,15.0,upi,0,,,0,No,Friday
+CUST_10070,SESS_00646,2024-03-22,3,Q1,0,Tablet,Paid_Ad,Tier 2,Male,13.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,146.86,16.4,9.0,3.94,0,9.0,cash_on_delivery,1,,,1,No,Friday
+CUST_19668,SESS_00857,2024-09-14,9,Q3,1,Desktop,Paid_Ad,Tier 2,Female,30.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,132.17,11.4,14.0,2.92,0,0.0,cash_on_delivery,1,,0,0,No,Saturday
+CUST_65012,SESS_00590,2024-02-13,2,Q1,0,Mobile,Organic,Tier 1,Other,25.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,22.31,5.7,10.0,2.35,0,0.0,net_banking,1,SALE20,,1,No,Tuesday
+CUST_35551,SESS_00464,2023-11-11,11,Q4,1,Desktop,Email,Tier 1,Male,42.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,80.33,8.4,5.0,2.69,1,10.0,upi,0,,,0,No,Saturday
+CUST_81743,SESS_00286,2023-07-18,7,Q3,0,Mobile,Paid_Ad,Tier 3,Male,31.0,Sports,1,1,0,0,0,Cart_Dropped,2.0,76.07,5.2,19.0,2.64,0,15.0,upi,1,,,1,No,Tuesday
+CUST_57542,SESS_00936,2024-11-14,11,Q4,0,Tablet,Social,Tier 2,Male,30.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,41.31,7.5,4.0,2.36,1,9.0,net_banking,1,WELCOME,0,0,No,Thursday
+CUST_43768,SESS_00859,2024-09-14,9,Q3,1,Desktop,Email,Tier 2,Male,28.0,Beauty,1,1,1,0,0,Checkout_Dropped,3.0,28.9,2.7,10.0,0.69,0,8.0,upi,0,,,0,No,Saturday
+CUST_92147,SESS_00458,2023-11-08,11,Q4,0,Desktop,Organic,Tier 3,Male,40.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,368.97,18.6,18.0,2.45,0,0.0,wallet,1,,,1,No,Wednesday
+CUST_43237,SESS_00045,2023-01-31,1,Q1,0,Desktop,Organic,Tier 3,Female,31.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,6.0,76.07,7.8,1.0,3.46,0,16.0,nan,1,SUMMER15,0,0,No,Tuesday
+CUST_35499,SESS_00988,2024-12-20,12,Q4,0,Desktop,Organic,Tier 3,Female,18.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,174.88,8.2,8.0,3.75,0,0.0,credit_card,0,,,0,No,Friday
+CUST_73090,SESS_00509,2023-12-17,12,Q4,1,Mobile,Organic,Tier 1,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,94.62,7.7,12.0,2.64,1,5.0,upi,1,,,0,No,Sunday
+CUST_78112,SESS_00844,2024-09-08,9,Q3,1,Tablet,Social,Tier 1,Female,31.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,102.5,5.3,12.0,1.15,1,15.0,credit_card,0,,,0,No,Sunday
+CUST_56858,SESS_00467,2023-11-14,11,Q4,0,Mobile,Email,Tier 1,Female,31.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,51.98,18.6,1.0,2.64,1,1.0,credit_card,0,,,0,No,Tuesday
+CUST_51289,SESS_00288,2023-07-19,7,Q3,0,Tablet,Paid_Ad,Tier 2,Female,31.0,Books,1,1,0,0,0,Cart_Dropped,7.0,305.69,29.5,13.0,1.47,1,7.0,net_banking,1,SAVE10,,1,No,Wednesday
+CUST_53063,SESS_00607,2024-02-24,2,Q1,1,Desktop,Social,Tier 1,Male,15.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,300.25,9.6,10.0,2.7,0,10.0,credit_card,0,,,0,No,Saturday
+CUST_17949,SESS_00235,2023-09-14,9,Q2,0,Tablet,Paid_Ad,Tier 3,Male,23.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,2.0,66.03,10.1,5.0,2.07,1,8.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_33919,SESS_00639,2024-03-17,3,Q1,1,Desktop,Organic,Tier 1,Female,34.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,94.33,9.4,2.0,1.33,1,4.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_93298,SESS_00310,2023-08-02,8,Q3,0,Desktop,Social,Tier 2,Male,22.0,Sports,1,1,1,1,1,Completed_Purchase,3.0,583.58,2.4,3.0,3.98,0,0.0,cash_on_delivery,0,,0,0,No,Wednesday
+CUST_60956,SESS_00483,2023-11-25,11,Q4,1,Desktop,Paid_Ad,Tier 2,Female,43.0,Books,1,1,0,0,0,Cart_Dropped,6.0,97.27,2.6,15.0,2.03,1,12.0,credit_card,0,,,1,No,Saturday
+CUST_96267,SESS_00135,2023-04-07,4,Q2,0,Desktop,Email,Tier 3,Male,21.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,68.41,13.6,11.0,5.05,1,2.0,credit_card,0,,,1,No,Friday
+CUST_18978,SESS_00798,2024-07-27,7,Q3,1,Mobile,Organic,Tier 2,Male,31.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,20.21,14.3,19.0,2.64,1,11.0,wallet,1,,,0,No,Saturday
+CUST_52750,SESS_00583,2024-02-09,2,Q1,0,Desktop,Paid_Ad,Tier 2,Male,25.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,1.0,55.09,23.9,8.0,12.9,1,14.0,cash_on_delivery,1,SUMMER15,0,0,No,Friday
+CUST_10906,SESS_00560,2024-01-24,1,Q1,0,Mobile,Email,Tier 1,Male,29.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,56.73,8.5,11.0,2.64,0,0.0,debit_card,1,,,1,No,Wednesday
+CUST_58410,SESS_00381,2023-09-18,9,Q3,0,Mobile,Social,Tier 2,Female,31.0,Sports,1,1,1,1,1,Completed_Purchase,5.0,129.27,16.0,5.0,5.13,1,10.0,upi,1,WELCOME,0,0,No,Monday
+CUST_71674,SESS_00808,2024-08-03,8,Q3,1,Mobile,Social,Tier 2,Male,45.0,Beauty,1,1,1,0,0,Checkout_Dropped,2.0,23.35,9.9,16.0,2.64,0,8.0,net_banking,0,,,1,No,Saturday
+CUST_65853,SESS_00106,2023-03-19,3,Q1,1,Mobile,Direct,Tier 1,Female,31.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,7.0,119.9,21.7,17.0,2.64,1,0.0,upi,1,DIWALI30,0,0,No,Sunday
+CUST_23395,SESS_00787,2024-07-23,7,Q3,0,Mobile,Paid_Ad,Tier 2,Female,31.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,76.07,3.6,2.0,2.64,1,1.0,net_banking,0,,0,0,No,Tuesday
+CUST_41949,SESS_00205,2023-05-28,5,Q2,1,Desktop,Direct,Tier 2,Female,30.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,12.49,7.1,3.0,1.98,1,1.0,upi,1,SUMMER15,,1,No,Sunday
+CUST_68499,SESS_00238,2023-06-20,6,Q2,0,Tablet,Referral,Tier 2,Male,41.0,Sports,1,1,1,1,1,Completed_Purchase,4.0,26.69,8.0,4.0,4.75,0,0.0,credit_card,1,FLASH50,0,0,No,Tuesday
+CUST_89042,SESS_00107,2023-03-21,3,Q1,0,Mobile,Organic,Tier 1,Male,31.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,21.15,0.9,9.0,0.4,1,10.0,credit_card,1,DIWALI30,0,0,No,Tuesday
+CUST_47256,SESS_00209,2023-05-31,5,Q2,0,Desktop,Paid_Ad,Tier 2,Female,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,76.91,4.5,12.0,2.7,1,9.0,credit_card,1,FLASH50,,0,No,Wednesday
+CUST_45229,SESS_00666,2024-04-02,4,Q2,0,Desktop,Direct,Tier 2,Female,46.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,6.0,79.13,16.2,13.0,5.2,1,4.0,credit_card,0,,0,0,No,Tuesday
+CUST_79251,SESS_00061,2023-02-09,2,Q1,0,Desktop,Paid_Ad,Tier 1,Male,23.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,49.61,6.9,6.0,5.07,1,9.0,debit_card,0,,,1,Yes,Thursday
+CUST_64471,SESS_00345,2023-08-26,8,Q3,1,Desktop,Organic,Tier 3,Male,8.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,406.15,42.4,3.0,2.85,0,0.0,upi,1,,,1,No,Saturday
+CUST_37300,SESS_00196,2023-05-19,5,Q2,0,Desktop,Paid_Ad,Tier 3,Female,41.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,29.55,5.1,3.0,6.25,0,2.0,upi,0,SUMMER15,,1,No,Friday
+CUST_67613,SESS_00081,2023-02-27,2,Q1,0,Desktop,Email,Tier 2,Female,39.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,7.0,44.38,3.6,12.0,0.8,1,3.0,credit_card,0,,0,0,No,Monday
+CUST_55611,SESS_00763,2024-07-01,7,Q3,0,Tablet,Paid_Ad,Tier 1,Male,31.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,224.71,17.0,10.0,0.25,1,4.0,credit_card,0,,0,0,No,Monday
+CUST_23893,SESS_00854,2024-09-12,9,Q3,0,Desktop,Email,Tier 1,Female,27.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,348.31,7.3,10.0,0.51,1,17.0,credit_card,1,DIWALI30,,1,Yes,Thursday
+CUST_52485,SESS_00594,2024-02-14,2,Q1,0,Tablet,Paid_Ad,Tier 3,Female,33.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,99.48,22.9,11.0,3.09,0,9.0,credit_card,0,,0,0,No,Wednesday
+CUST_12213,SESS_00150,2023-04-20,4,Q2,0,Tablet,Organic,Tier 1,Male,39.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,1.0,116.34,25.5,6.0,3.22,1,13.0,cash_on_delivery,0,,0,0,No,Thursday
+CUST_19049,SESS_00401,2023-09-28,9,Q3,0,Mobile,Referral,Tier 3,Female,0.0,Electronics,1,1,1,1,1,Completed_Purchase,2.0,147.6,13.6,9.0,2.64,1,13.0,credit_card,1,WELCOME,0,0,No,Thursday
+CUST_11104,SESS_00007,2023-01-05,1,Q1,0,Mobile,Paid_Ad,Tier 1,Male,33.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,14.54,10.2,9.0,2.64,1,13.0,upi,0,,,1,No,Thursday
+CUST_90766,SESS_00835,2024-08-30,8,Q3,0,Mobile,Email,Tier 3,Male,38.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,65.45,14.8,10.0,5.98,1,3.0,upi,0,,0,0,No,Friday
+CUST_31174,SESS_00034,2023-01-22,1,Q1,1,Desktop,Organic,Tier 2,Male,25.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,192.45,3.4,17.0,1.77,0,0.0,upi,0,,0,0,No,Sunday
+CUST_96872,SESS_00066,2023-02-13,2,Q1,0,Mobile,Social,Tier 1,Male,18.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,143.82,17.0,6.0,11.77,1,14.0,nan,0,,,0,No,Monday
+CUST_78995,SESS_00296,2023-07-24,7,Q3,0,Mobile,Social,Tier 2,Female,19.0,Books,1,1,0,0,0,Cart_Dropped,7.0,48.16,16.0,5.0,2.64,0,0.0,upi,0,,,0,No,Monday
+CUST_59366,SESS_00416,2023-10-09,10,Q4,0,Mobile,Social,Tier 3,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,42.04,11.6,12.0,1.28,1,11.0,cash_on_delivery,0,,,0,No,Monday
+CUST_43179,SESS_00700,2024-05-11,5,Q2,1,Mobile,Direct,Tier 3,Other,36.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,39.96,29.9,16.0,0.57,1,1.0,upi,0,,,1,No,Saturday
+CUST_53073,SESS_00223,2023-06-12,6,Q2,0,Mobile,Organic,Tier 2,Male,24.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,105.78,25.7,10.0,3.17,0,1.0,upi,0,,,1,No,Monday
+CUST_29017,SESS_00369,2023-09-13,9,Q3,0,Mobile,Paid_Ad,Tier 2,Female,17.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,107.73,11.5,5.0,2.64,1,5.0,cash_on_delivery,0,,,0,No,Wednesday
+CUST_84550,SESS_00671,2024-04-09,4,Q2,0,Mobile,Organic,Tier 1,Male,13.0,Beauty,1,1,1,0,0,Checkout_Dropped,1.0,0.0,3.3,10.0,2.64,1,9.0,net_banking,1,,,1,No,Tuesday
+CUST_15527,SESS_00553,2024-01-19,1,Q1,0,Tablet,Paid_Ad,Tier 1,Female,16.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,31.9,15.5,16.0,3.55,1,17.0,net_banking,0,,,1,Yes,Friday
+CUST_95510,SESS_00421,2023-10-17,10,Q4,0,Mobile,Organic,Tier 1,Female,25.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,26.81,23.3,10.0,3.21,1,8.0,credit_card,1,FLASH50,,1,No,Tuesday
+CUST_99651,SESS_00603,2024-02-22,2,Q1,0,Desktop,Organic,Tier 2,Male,30.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,14.24,3.5,14.0,1.2,1,2.0,credit_card,1,,,1,No,Thursday
+CUST_33129,SESS_00987,2023-09-14,9,Q4,0,Tablet,Referral,Tier 2,Female,42.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,36.98,5.3,7.0,0.71,nan,7.0,debit_card,1,,,0,No,Thursday
+CUST_40642,SESS_00613,2024-02-29,2,Q1,0,Desktop,Email,Tier 1,Female,29.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,53.25,23.8,9.0,3.33,0,10.0,upi,0,,,0,No,Thursday
+CUST_29710,SESS_00961,2024-12-01,12,Q4,1,Desktop,Email,Tier 2,Other,31.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,6.0,151.38,20.7,16.0,1.62,0,3.0,upi,0,FLASH50,1,1,,Sunday
+CUST_11076,SESS_00805,2024-08-02,8,Q3,0,Desktop,Social,Tier 3,Male,34.0,Toys,1,0,0,0,0,Browsed_Only,6.0,159.92,4.9,10.0,2.44,1,2.0,net_banking,1,SUMMER15,,0,No,Friday
+CUST_36110,SESS_00611,2023-09-14,9,Q1,0,Mobile,Social,Tier 2,Female,39.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,76.07,18.2,4.0,4.37,1,10.0,credit_card,0,,,1,Yes,Thursday
+CUST_71988,SESS_00812,2024-08-09,8,Q3,0,Desktop,Referral,Tier 1,Female,39.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,111.12,9.6,4.0,4.03,0,6.0,credit_card,0,,,0,No,Friday
+CUST_83218,SESS_00525,2023-12-29,12,Q4,0,Tablet,Social,Tier 2,Male,30.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,131.7,15.1,15.0,8.12,1,3.0,net_banking,0,,,0,No,Friday
+CUST_24640,SESS_00156,2023-04-27,4,Q2,0,Desktop,Email,Tier 3,Female,30.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,90.2,43.2,18.0,0.98,0,0.0,upi,1,SALE20,,0,No,Thursday
+CUST_30463,SESS_00354,2023-08-30,8,Q3,0,Desktop,Email,Tier 1,Male,28.0,Books,1,1,0,0,0,Cart_Dropped,1.0,17.05,10.5,15.0,1.07,0,17.0,upi,0,,,1,No,Wednesday
+CUST_25621,SESS_00620,2024-03-04,3,Q1,0,Desktop,Social,Tier 1,Male,42.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,42.68,0.0,18.0,1.24,0,4.0,credit_card,0,,,0,No,Monday
+CUST_72996,SESS_00122,2023-03-29,3,Q1,0,Mobile,Direct,Tier 2,Female,37.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,32.14,28.9,7.0,2.64,0,0.0,cash_on_delivery,1,DIWALI30,,0,No,Wednesday
+CUST_64857,SESS_00945,2024-11-21,11,Q4,0,Desktop,Paid_Ad,Tier 1,Female,14.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,84.19,11.7,18.0,0.43,0,12.0,net_banking,0,,,1,No,Thursday
+CUST_63078,SESS_00348,2023-08-26,8,Q3,1,Mobile,Email,Tier 2,Female,35.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,38.0,3.8,5.0,2.64,1,14.0,net_banking,0,,,0,No,Saturday
+CUST_27398,SESS_00006,2023-01-04,1,Q1,0,Mobile,Paid_Ad,Tier 1,Male,35.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,47.81,12.8,11.0,2.75,0,0.0,upi,1,FLASH50,1,1,No,Wednesday
+CUST_51610,SESS_00112,2023-03-24,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,27.74,18.9,11.0,1.36,0,0.0,debit_card,0,,,1,Yes,Friday
+CUST_79490,SESS_00481,2023-11-25,11,Q4,1,Desktop,Organic,Tier 2,Other,31.0,Beauty,1,0,0,0,0,Browsed_Only,1.0,17.36,17.5,12.0,0.44,0,11.0,wallet,0,,,0,No,Saturday
+CUST_95978,SESS_00865,2024-09-18,9,Q3,0,Tablet,Email,Tier 2,Male,23.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,102.23,26.0,3.0,10.72,1,17.0,upi,0,,,1,No,Wednesday
+CUST_86155,SESS_00070,2023-02-16,2,Q1,0,Mobile,Referral,Tier 3,Female,31.0,Fashion,1,1,1,1,0,Payment_Dropped,6.0,169.0,4.3,19.0,4.17,1,11.0,cash_on_delivery,0,,1,1,No,Thursday
+CUST_39723,SESS_00003,2023-01-02,1,Q1,0,Desktop,Referral,Tier 2,Male,36.0,Beauty,1,1,0,0,0,Cart_Dropped,5.0,68.62,16.8,17.0,1.21,0,0.0,credit_card,1,DIWALI30,,1,Yes,Monday
+CUST_21730,SESS_00868,2024-09-21,9,Q3,1,Mobile,Paid_Ad,Tier 2,Male,29.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,15.18,8.1,6.0,9.27,1,1.0,upi,0,,,0,No,Saturday
+CUST_18619,SESS_00121,2023-03-27,3,Q1,0,Desktop,Organic,Tier 1,Male,22.0,Toys,1,1,1,1,1,Completed_Purchase,2.0,153.88,9.4,13.0,10.43,0,0.0,debit_card,0,,0,0,No,Monday
+CUST_39184,SESS_00863,2024-09-17,9,Q3,0,Desktop,Social,Tier 3,Female,18.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,185.7,7.8,10.0,4.58,0,8.0,credit_card,0,,,1,No,Tuesday
+CUST_10463,SESS_00856,2024-09-13,9,Q3,0,Desktop,Paid_Ad,Tier 1,Female,44.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,82.65,12.0,4.0,1.91,0,16.0,upi,0,,,0,No,Friday
+CUST_71220,SESS_00958,2024-11-29,11,Q4,0,Desktop,Email,Tier 1,Male,42.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,76.07,15.8,3.0,1.69,1,9.0,credit_card,0,,,1,No,Friday
+CUST_84950,SESS_00422,2023-10-18,10,Q4,0,Desktop,Paid_Ad,Tier 2,Male,28.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,15.01,4.2,17.0,0.93,1,11.0,credit_card,0,,,0,No,Wednesday
+CUST_55480,SESS_00371,2023-09-14,9,Q3,0,Desktop,Paid_Ad,Tier 1,Female,44.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,26.69,9.6,6.0,4.04,0,0.0,debit_card,1,SALE20,,0,No,Thursday
+CUST_72811,SESS_00193,2023-05-18,5,Q2,0,Desktop,Paid_Ad,Tier 3,Female,21.0,Sports,1,0,0,0,0,Browsed_Only,2.0,88.21,3.3,9.0,3.79,1,2.0,upi,0,,,0,No,Thursday
+CUST_82109,SESS_00213,2023-06-03,6,Q2,1,Desktop,Email,Tier 3,Male,27.0,Sports,1,1,1,0,0,Checkout_Dropped,1.0,31.81,6.9,15.0,3.73,1,5.0,credit_card,1,,,1,No,Saturday
+CUST_60010,SESS_00701,2024-05-16,5,Q2,0,Mobile,Organic,Tier 3,Other,40.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,14.29,3.5,12.0,3.54,0,0.0,upi,0,,0,0,No,Thursday
+CUST_81227,SESS_00093,2023-03-13,3,Q1,0,Mobile,Social,Tier 1,Male,27.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,56.86,12.4,3.0,0.3,0,4.0,upi,0,,,0,No,Monday
+CUST_28512,SESS_00013,2023-01-08,1,Q1,1,Desktop,Paid_Ad,Tier 1,Female,27.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,136.63,29.7,14.0,2.0,0,9.0,credit_card,1,SUMMER15,,0,No,Sunday
+CUST_67929,SESS_00754,2024-06-27,6,Q2,0,Mobile,Paid_Ad,Tier 1,Female,44.0,Beauty,1,0,0,0,0,Browsed_Only,3.0,76.07,9.8,10.0,2.84,1,1.0,upi,0,,,0,No,Thursday
+CUST_92595,SESS_00375,2023-09-14,9,Q3,0,Desktop,Paid_Ad,Tier 1,Female,19.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,76.07,21.8,9.0,14.97,0,0.0,upi,0,,,0,No,Thursday
+CUST_53492,SESS_00913,2024-10-30,10,Q4,0,Desktop,Paid_Ad,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,2.0,15.97,15.2,1.0,2.83,1,15.0,net_banking,0,,0,1,No,Wednesday
+CUST_39639,SESS_00146,2023-09-14,9,Q2,0,Mobile,Social,Tier 1,Male,38.0,Toys,1,1,0,0,0,Cart_Dropped,1.0,191.22,27.9,14.0,3.74,1,9.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_67592,SESS_00742,2024-06-19,6,Q2,0,Mobile,Organic,Tier 2,Male,40.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,16.52,20.2,11.0,2.64,0,0.0,upi,0,,,0,No,Wednesday
+CUST_94202,SESS_00845,2024-09-10,9,Q3,0,Mobile,Paid_Ad,Tier 3,Male,38.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,265.13,6.2,10.0,0.64,1,8.0,wallet,1,FLASH50,0,0,No,Tuesday
+CUST_14956,SESS_00499,2023-12-09,12,Q4,1,Mobile,Email,Tier 2,Female,42.0,Books,1,0,0,0,0,Browsed_Only,4.0,76.07,7.5,5.0,1.09,0,0.0,net_banking,0,,,0,No,Saturday
+CUST_55822,SESS_00160,2023-04-28,4,Q2,0,Desktop,Email,Tier 3,Male,24.0,Sports,1,1,0,0,0,Cart_Dropped,6.0,163.43,1.8,8.0,3.33,1,15.0,credit_card,0,,,0,No,Friday
+CUST_69460,SESS_00272,2023-07-08,7,Q3,1,Tablet,Organic,Tier 1,Female,27.0,Electronics,1,0,0,0,0,Browsed_Only,5.0,40.21,11.8,12.0,3.22,1,10.0,upi,0,,,0,No,Saturday
+CUST_59699,SESS_00009,2023-01-05,1,Q1,0,Desktop,Direct,Tier 3,Male,18.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,3.0,19.13,9.6,10.0,2.39,1,16.0,upi,0,,,0,No,Thursday
+CUST_93595,SESS_00715,2024-05-28,5,Q2,0,Tablet,Organic,Tier 2,Female,36.0,Books,1,1,1,1,1,Completed_Purchase,2.0,102.44,13.7,12.0,3.96,1,1.0,net_banking,0,,0,0,No,Tuesday
+CUST_52523,SESS_00181,2023-05-13,5,Q2,1,Tablet,Organic,Tier 2,Male,35.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,2.0,53.12,9.4,2.0,2.48,1,0.0,upi,1,WELCOME,,0,No,Saturday
+CUST_95402,SESS_00250,2023-06-27,6,Q2,0,Mobile,Organic,Tier 3,Female,31.0,Sports,1,1,1,0,0,Checkout_Dropped,4.0,57.07,3.8,16.0,2.64,0,11.0,debit_card,0,,,1,No,Tuesday
+CUST_52445,SESS_00125,2023-03-30,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,38.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,157.77,4.5,4.0,0.08,nan,9.0,debit_card,0,DIWALI30,0,0,No,Thursday
+CUST_56188,SESS_00619,2024-03-04,3,Q1,0,Desktop,Direct,Tier 1,Male,28.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,265.22,5.0,15.0,3.04,0,6.0,cash_on_delivery,0,,0,0,No,Monday
+CUST_96989,SESS_00080,2023-02-27,2,Q1,0,Mobile,Organic,Tier 2,Female,28.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,95.23,9.9,4.0,2.57,0,4.0,wallet,1,SAVE10,,0,No,Monday
+CUST_68860,SESS_00042,2023-01-30,1,Q1,0,Mobile,Organic,Tier 2,Female,31.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,30.55,18.5,13.0,2.64,1,5.0,credit_card,0,,,1,No,Monday
+CUST_73346,SESS_00721,2024-05-30,5,Q2,0,Mobile,Referral,Tier 1,Female,20.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,36.77,8.6,4.0,3.45,0,5.0,cash_on_delivery,0,,,1,No,Thursday
+CUST_31930,SESS_00500,2023-12-10,12,Q4,1,Tablet,Organic,Tier 2,Female,33.0,Books,1,1,1,0,0,Checkout_Dropped,4.0,50.52,9.6,12.0,3.54,1,13.0,cash_on_delivery,1,,,1,No,Sunday
+CUST_72395,SESS_00333,2023-08-21,8,Q3,0,Mobile,Direct,Tier 2,Female,38.0,Sports,1,1,1,1,0,Payment_Dropped,6.0,175.49,5.9,15.0,2.35,1,4.0,wallet,0,,0,0,No,Monday
+CUST_97799,SESS_00655,2024-03-28,3,Q1,0,Desktop,Organic,Tier 1,Female,28.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,69.53,26.8,6.0,4.16,1,9.0,upi,1,FLASH50,,1,No,Thursday
+CUST_68500,SESS_00247,2023-06-26,6,Q2,0,Desktop,Social,Tier 2,Female,41.0,Books,1,0,0,0,0,Browsed_Only,1.0,83.06,12.4,15.0,1.7,0,0.0,upi,0,,,0,No,Monday
+CUST_57806,SESS_00753,2024-06-27,6,Q2,0,Mobile,Social,Tier 2,Male,30.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,20.01,12.0,12.0,2.81,0,0.0,net_banking,0,,0,0,No,Thursday
+CUST_81425,SESS_00819,2024-08-15,8,Q3,0,Mobile,Social,Tier 1,Male,19.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,77.94,10.8,6.0,2.44,1,16.0,credit_card,0,,,1,,Thursday
+CUST_17217,SESS_00202,2023-05-26,5,Q2,0,Desktop,Social,Tier 2,Male,38.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,76.07,1.7,19.0,1.51,1,9.0,upi,0,,,0,No,Friday
+CUST_12647,SESS_00881,2024-10-02,10,Q4,0,Desktop,Direct,Tier 2,Female,20.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,166.56,1.6,6.0,4.03,0,0.0,credit_card,0,,0,0,No,Wednesday
+CUST_24915,SESS_00384,2023-09-20,9,Q3,0,Desktop,Organic,Tier 1,Male,38.0,Electronics,1,1,1,0,0,Checkout_Dropped,7.0,92.52,5.1,10.0,3.81,1,9.0,upi,1,DIWALI30,,0,No,Wednesday
+CUST_80222,SESS_00791,2024-07-24,7,Q3,0,Desktop,Paid_Ad,Tier 1,Male,33.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,117.09,4.2,19.0,4.29,0,12.0,net_banking,0,,,0,No,Wednesday
+CUST_30093,SESS_00170,2023-05-08,5,Q2,0,Desktop,Paid_Ad,Tier 2,Male,20.0,Toys,1,1,0,0,0,Cart_Dropped,1.0,233.77,2.0,14.0,1.83,0,16.0,wallet,0,,,1,No,Monday
+CUST_15976,SESS_00682,2024-04-24,4,Q2,0,Mobile,Direct,Tier 1,Other,30.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,133.53,20.8,12.0,0.93,0,0.0,upi,1,SALE20,,0,No,Wednesday
+CUST_43941,SESS_00027,2023-01-19,1,Q1,0,Mobile,Organic,Tier 1,Male,35.0,Sports,1,0,0,0,0,Browsed_Only,3.0,48.47,19.0,18.0,0.36,0,16.0,net_banking,0,,,0,No,Thursday
+CUST_56461,SESS_00992,2024-12-24,12,Q4,0,Mobile,Organic,Tier 1,Female,34.0,Sports,1,1,0,0,0,Cart_Dropped,3.0,19.81,8.5,18.0,0.89,0,0.0,debit_card,1,DIWALI30,,1,No,Tuesday
+CUST_18100,SESS_00339,2023-08-24,8,Q3,0,Tablet,Social,Tier 1,Male,41.0,Fashion,1,1,1,1,0,Payment_Dropped,6.0,35.54,8.3,4.0,8.04,1,15.0,debit_card,0,,,1,Yes,Thursday
+CUST_50777,SESS_00755,2024-06-27,6,Q2,0,Desktop,Social,Tier 1,Male,26.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,127.81,15.5,17.0,3.33,1,12.0,net_banking,1,WELCOME,,0,No,Thursday
+CUST_62692,SESS_00342,2023-08-24,8,Q3,0,Mobile,Organic,Tier 1,Male,36.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,39.33,11.9,11.0,1.91,1,10.0,net_banking,0,,,1,No,Thursday
+CUST_91412,SESS_00825,2024-08-22,8,Q3,0,Mobile,Email,Tier 1,Other,29.0,Fashion,1,1,1,0,0,Checkout_Dropped,7.0,55.77,10.4,7.0,5.23,0,1.0,net_banking,1,SALE20,,1,No,Thursday
+CUST_46842,SESS_00285,2023-07-17,7,Q3,0,Desktop,Email,Tier 1,Male,35.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,5.0,75.69,23.0,15.0,0.72,1,17.0,credit_card,1,DIWALI30,,0,No,Monday
+CUST_89659,SESS_00649,2024-03-22,3,Q1,0,Mobile,Social,Tier 1,Male,32.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,6.0,54.79,4.1,11.0,0.75,1,2.0,upi,1,WELCOME,,0,No,Friday
+CUST_29886,SESS_00595,2024-02-14,2,Q1,0,Tablet,Direct,Tier 2,Other,31.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,64.78,8.3,6.0,4.75,1,9.0,debit_card,1,FLASH50,,1,Yes,Wednesday
+CUST_67631,SESS_00529,2023-12-30,12,Q4,1,Mobile,Organic,Tier 1,Other,32.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,67.44,11.8,17.0,2.64,1,11.0,cash_on_delivery,1,,,1,No,Saturday
+CUST_40224,SESS_00766,2024-07-01,7,Q3,0,Mobile,Direct,Tier 2,Male,39.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,12.63,13.8,11.0,2.64,0,0.0,credit_card,1,WELCOME,,1,No,Monday
+CUST_87785,SESS_00338,2023-08-24,8,Q3,0,Tablet,Referral,Tier 1,Male,38.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,133.07,6.6,16.0,2.27,1,9.0,upi,0,,,0,No,Thursday
+CUST_63046,SESS_00983,2024-12-18,12,Q4,0,Desktop,Organic,Tier 2,Female,31.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,4.0,110.48,23.9,10.0,0.19,1,17.0,cash_on_delivery,0,,,0,No,Wednesday
+CUST_30247,SESS_00645,2024-03-21,3,Q1,0,Desktop,Paid_Ad,Tier 1,Male,31.0,Electronics,1,0,0,0,0,Browsed_Only,5.0,36.5,9.6,4.0,4.56,1,3.0,net_banking,0,,,0,No,Thursday
+CUST_37965,SESS_00344,2023-08-25,8,Q3,0,Mobile,Paid_Ad,Tier 1,Male,37.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,34.62,4.3,10.0,2.64,1,7.0,upi,0,,,0,No,Friday
+CUST_49754,SESS_00914,2024-10-31,10,Q4,0,Desktop,Email,Tier 1,Male,20.0,Toys,1,1,0,0,0,Cart_Dropped,5.0,112.57,11.2,3.0,5.61,0,8.0,wallet,1,SAVE10,,0,No,Thursday
+CUST_96853,SESS_00239,2023-06-21,6,Q2,0,Desktop,Social,Tier 1,Other,22.0,Toys,1,1,1,1,0,Payment_Dropped,7.0,41.41,27.5,15.0,1.41,1,6.0,credit_card,1,SALE20,1,0,No,Wednesday
+CUST_66245,SESS_00138,2023-04-10,4,Q2,0,Mobile,Social,Tier 1,Male,27.0,Sports,1,1,1,0,0,Checkout_Dropped,1.0,59.81,9.2,16.0,0.51,1,9.0,upi,0,,,0,No,Monday
+CUST_52114,SESS_00970,2024-12-09,12,Q4,0,Desktop,Social,Tier 1,Male,43.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,76.07,12.2,16.0,2.7,1,9.0,credit_card,0,,0,0,No,Monday
+CUST_62013,SESS_00332,2023-08-20,8,Q3,1,Mobile,Paid_Ad,Tier 3,Female,31.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,29.61,16.5,19.0,1.59,0,9.0,credit_card,1,SAVE10,0,0,No,Sunday
+CUST_70247,SESS_00159,2023-04-28,4,Q2,0,Mobile,Email,Tier 2,Female,33.0,Toys,1,1,0,0,0,Cart_Dropped,2.0,88.28,5.9,19.0,1.78,0,0.0,wallet,0,,,0,No,Friday
+CUST_74147,SESS_00644,2024-03-21,3,Q1,0,Desktop,Social,Tier 2,Female,31.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,53.24,5.2,7.0,3.66,0,6.0,credit_card,1,SAVE10,,0,No,Thursday
+CUST_59009,SESS_00254,2023-06-28,6,Q2,0,Mobile,Social,Tier 2,Male,13.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,165.25,31.8,11.0,1.88,0,9.0,cash_on_delivery,1,,,0,No,Wednesday
+CUST_16844,SESS_00133,2023-04-05,4,Q2,0,Desktop,Organic,Tier 2,Female,35.0,Electronics,1,1,1,0,0,Checkout_Dropped,6.0,115.43,4.5,14.0,0.75,1,8.0,credit_card,0,,,1,No,Wednesday
+CUST_12446,SESS_00379,2023-09-17,9,Q3,1,Tablet,Direct,Tier 2,Male,38.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,19.83,13.0,16.0,3.05,0,0.0,credit_card,1,FLASH50,0,0,No,Sunday
+CUST_49676,SESS_00542,2024-01-12,1,Q1,0,Mobile,Paid_Ad,Tier 1,Female,31.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,0.01,14.0,6.0,1.28,1,14.0,credit_card,1,SUMMER15,0,0,No,Friday
+CUST_32332,SESS_00709,2024-05-23,5,Q2,0,Mobile,Paid_Ad,Tier 2,Male,37.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,27.57,23.9,2.0,0.29,0,0.0,credit_card,0,,,0,No,Thursday
+CUST_36254,SESS_00541,2024-01-09,1,Q1,0,Desktop,Direct,Tier 1,Male,34.0,Toys,1,1,0,0,0,Cart_Dropped,2.0,450.65,9.6,13.0,8.46,0,8.0,net_banking,0,,,0,No,Tuesday
+CUST_14075,SESS_00294,2023-07-23,7,Q3,1,Desktop,Paid_Ad,Tier 1,Male,24.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,2.0,78.73,13.0,10.0,4.19,0,15.0,credit_card,1,SUMMER15,0,1,No,Sunday
+CUST_52957,SESS_00654,2024-03-26,3,Q1,0,Desktop,Email,Tier 2,Female,39.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,2.0,59.44,2.0,15.0,14.03,1,10.0,net_banking,0,,1,1,,Tuesday
+CUST_54218,SESS_00773,2024-07-10,7,Q3,0,Mobile,Paid_Ad,Tier 1,Female,33.0,Electronics,1,1,1,0,0,Checkout_Dropped,5.0,27.81,3.3,10.0,2.64,0,0.0,credit_card,1,WELCOME,,0,No,Wednesday
+CUST_94485,SESS_00689,2024-05-02,5,Q2,0,Mobile,Email,Tier 2,Female,38.0,Electronics,1,1,1,0,0,Checkout_Dropped,0.0,204.65,9.4,4.0,0.57,1,1.0,debit_card,1,DIWALI30,,0,No,Thursday
+CUST_61925,SESS_00775,2024-07-11,7,Q3,0,Mobile,Social,Tier 2,Female,38.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,168.3,26.8,13.0,0.25,1,11.0,cash_on_delivery,1,FLASH50,0,0,No,Thursday
+CUST_18571,SESS_00535,2024-01-03,1,Q1,0,Desktop,Paid_Ad,Tier 2,Female,38.0,Sports,1,0,0,0,0,Browsed_Only,2.0,30.3,19.5,18.0,2.16,0,0.0,credit_card,0,,,0,No,Wednesday
+CUST_31510,SESS_00012,2023-01-06,1,Q1,0,Tablet,Paid_Ad,Tier 1,Female,31.0,Books,1,1,1,0,0,Checkout_Dropped,2.0,10000.0,4.0,11.0,1.35,0,0.0,upi,0,,,1,No,Friday
+CUST_91328,SESS_00311,2023-08-02,8,Q3,0,Tablet,Organic,Tier 2,Male,40.0,Fashion,1,1,1,0,0,Checkout_Dropped,1.0,55.75,4.2,18.0,1.4,1,0.0,credit_card,1,WELCOME,,1,No,Wednesday
+CUST_18827,SESS_00035,2023-01-22,1,Q1,1,Desktop,Social,Tier 2,Male,21.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,114.8,21.9,3.0,1.95,0,11.0,wallet,0,,,1,No,Sunday
+CUST_78724,SESS_00361,2023-09-05,9,Q3,0,Desktop,Social,Tier 1,Male,41.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,49.55,3.8,5.0,1.17,1,9.0,upi,1,SAVE10,,1,Yes,Tuesday
+CUST_32280,SESS_00927,2024-11-09,11,Q4,1,Desktop,Email,Tier 2,Male,39.0,Fashion,1,1,1,1,0,Payment_Dropped,7.0,22.07,15.0,19.0,5.06,0,8.0,credit_card,1,FLASH50,1,0,No,Saturday
+CUST_35601,SESS_00982,2024-12-17,12,Q4,0,Mobile,Referral,Tier 1,Female,27.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,34.99,10.9,18.0,1.7,1,4.0,credit_card,1,DIWALI30,,0,No,Tuesday
+CUST_11192,SESS_00874,2024-09-27,9,Q3,0,Mobile,Direct,Tier 1,Female,36.0,Books,1,1,1,0,0,Checkout_Dropped,7.0,53.03,4.0,18.0,5.65,1,2.0,upi,0,,,1,No,Friday
+CUST_11809,SESS_00566,2024-01-26,1,Q1,0,Desktop,Organic,Tier 3,Female,36.0,Sports,1,0,0,0,0,Browsed_Only,1.0,46.31,13.1,8.0,3.86,0,0.0,credit_card,0,,,0,No,Friday
+CUST_66717,SESS_00771,2024-07-05,7,Q3,0,Desktop,Organic,Tier 1,Male,33.0,Books,1,1,1,1,0,Payment_Dropped,7.0,61.97,3.9,10.0,1.19,1,11.0,wallet,0,,0,1,No,Friday
+CUST_68499,SESS_00403,2023-09-29,9,Q3,0,Mobile,Social,Tier 2,Female,34.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,131.19,11.0,6.0,8.16,1,3.0,cash_on_delivery,0,,,1,No,Friday
+CUST_61301,SESS_00260,2023-07-01,7,Q3,1,Desktop,Email,Tier 3,Female,17.0,Beauty,1,1,0,0,0,Cart_Dropped,2.0,214.58,9.8,3.0,0.71,0,4.0,upi,1,SALE20,,0,No,Saturday
+CUST_69460,SESS_00545,2024-01-14,1,Q1,1,Desktop,Direct,Tier 2,Female,49.0,Toys,1,1,0,0,0,Cart_Dropped,2.0,79.42,6.1,9.0,1.23,1,1.0,upi,0,,,0,No,Sunday
+CUST_94711,SESS_00902,2024-10-20,10,Q4,1,Desktop,Paid_Ad,Tier 3,Male,31.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,83.14,9.4,13.0,2.51,1,4.0,credit_card,0,,,0,No,Sunday
+CUST_27735,SESS_00511,2023-09-14,9,Q4,0,Mobile,Organic,Tier 2,Female,29.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,33.8,17.3,11.0,3.62,1,14.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_33962,SESS_00383,2023-09-19,9,Q3,0,Tablet,Referral,Tier 1,Female,39.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,2.0,25.61,8.8,14.0,4.47,1,14.0,net_banking,1,WELCOME,0,0,No,Tuesday
+CUST_84156,SESS_00858,2024-09-14,9,Q3,1,Desktop,Paid_Ad,Tier 1,Female,21.0,Toys,1,1,0,0,0,Cart_Dropped,6.0,23.99,2.9,11.0,1.55,1,13.0,debit_card,1,DIWALI30,,0,No,Saturday
+CUST_27027,SESS_00503,2023-12-12,12,Q4,0,Desktop,Paid_Ad,Tier 2,Male,32.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,5.0,19.94,5.3,17.0,2.82,0,0.0,credit_card,0,,,1,No,Tuesday
+CUST_72082,SESS_00399,2023-09-26,9,Q3,0,Tablet,Organic,Tier 3,Female,35.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,58.29,16.1,17.0,0.8,0,7.0,credit_card,1,DIWALI30,,1,Yes,Tuesday
+CUST_93069,SESS_00563,2024-01-24,1,Q1,0,Desktop,Organic,Tier 2,Female,32.0,Toys,1,1,0,0,0,Cart_Dropped,3.0,41.7,5.1,7.0,0.16,1,14.0,upi,1,SALE20,,0,No,Wednesday
+CUST_38489,SESS_00290,2023-07-22,7,Q3,1,Desktop,Paid_Ad,Tier 2,Other,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,40.01,3.8,10.0,7.19,0,0.0,upi,0,,,0,No,Saturday
+CUST_42372,SESS_00781,2024-07-16,7,Q3,0,Mobile,Paid_Ad,Tier 1,Female,37.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,151.79,9.5,6.0,2.72,1,11.0,upi,1,SUMMER15,,1,Yes,Tuesday
+CUST_42083,SESS_00018,2023-01-13,1,Q1,0,Mobile,Email,Tier 1,Male,24.0,Books,1,0,0,0,0,Browsed_Only,6.0,56.69,22.9,10.0,2.6,nan,13.0,net_banking,0,,,0,No,Friday
+CUST_67272,SESS_00694,2024-05-05,5,Q2,1,Mobile,Paid_Ad,Tier 1,Female,27.0,Electronics,1,1,1,1,0,Payment_Dropped,2.0,139.36,15.2,4.0,2.64,1,13.0,net_banking,0,,0,0,No,Sunday
+CUST_23085,SESS_00569,2024-01-28,1,Q1,1,Mobile,Paid_Ad,Tier 1,Male,30.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,27.84,6.2,14.0,1.61,0,0.0,credit_card,0,,,0,No,Sunday
+CUST_43396,SESS_00445,2023-10-30,10,Q4,0,Mobile,Paid_Ad,Tier 2,Male,27.0,Electronics,1,1,1,1,1,Completed_Purchase,2.0,316.91,9.6,16.0,2.64,0,15.0,credit_card,1,SUMMER15,0,0,No,Monday
+CUST_69331,SESS_00436,2023-10-25,10,Q4,0,Mobile,Email,Tier 3,Female,25.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,12.77,3.6,2.0,2.35,1,15.0,cash_on_delivery,0,,,0,No,Wednesday
+CUST_67352,SESS_00264,2023-07-03,7,Q3,0,Mobile,Social,Tier 1,Male,37.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,3.0,278.9,5.2,18.0,3.93,0,2.0,upi,0,,,0,No,Monday
+CUST_33244,SESS_00960,2024-12-01,12,Q4,1,Desktop,Paid_Ad,Tier 2,Female,28.0,Electronics,1,1,1,0,0,Checkout_Dropped,6.0,33.31,10.4,8.0,2.7,1,1.0,cash_on_delivery,0,,,1,No,Sunday
+CUST_47355,SESS_00937,2024-11-14,11,Q4,0,Tablet,Organic,Tier 1,Female,28.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,448.94,15.6,10.0,0.73,0,2.0,credit_card,0,,,0,No,Thursday
+CUST_48093,SESS_00727,2024-06-05,6,Q2,0,Mobile,Email,Tier 2,Female,17.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,35.08,18.5,5.0,1.6,0,13.0,cash_on_delivery,0,,,0,No,Wednesday
+CUST_55451,SESS_00173,2023-05-10,5,Q2,0,Desktop,Email,Tier 2,Female,24.0,Electronics,1,1,1,1,0,Payment_Dropped,3.0,94.71,4.1,16.0,5.14,1,9.0,nan,0,,1,0,No,Wednesday
+CUST_36832,SESS_00688,2024-05-02,5,Q2,0,Desktop,Paid_Ad,Tier 2,Female,18.0,Sports,1,1,1,1,1,Completed_Purchase,3.0,185.07,10.6,2.0,8.42,1,4.0,cash_on_delivery,1,,0,0,No,Thursday
+CUST_67662,SESS_00227,2023-06-13,6,Q2,0,Mobile,Paid_Ad,Tier 2,Female,8.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,10000.0,28.3,11.0,1.99,1,2.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_10959,SESS_00153,2023-04-24,4,Q2,0,Mobile,Paid_Ad,Tier 2,Male,30.0,Beauty,1,1,1,1,1,Completed_Purchase,7.0,363.95,8.8,14.0,2.64,0,16.0,upi,0,,0,0,No,Monday
+CUST_24156,SESS_00667,2024-04-03,4,Q2,0,Mobile,Paid_Ad,Tier 3,Female,24.0,Books,1,1,1,1,1,Completed_Purchase,7.0,75.49,11.5,4.0,3.58,0,1.0,upi,0,,0,0,No,Wednesday
+CUST_96468,SESS_00911,2024-10-28,10,Q4,0,Tablet,Paid_Ad,Tier 3,Female,25.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,17.49,10.6,15.0,3.27,0,3.0,credit_card,0,,,1,Yes,Monday
+CUST_41096,SESS_00593,2024-02-14,2,Q1,0,Mobile,Organic,Tier 2,Male,48.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,76.07,3.9,4.0,1.39,0,0.0,credit_card,0,,0,0,No,Wednesday
+CUST_28939,SESS_00365,2023-09-14,9,Q3,1,Mobile,Referral,Tier 1,Female,38.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,36.14,15.7,10.0,6.58,0,4.0,cash_on_delivery,1,SALE20,,0,No,Thursday
+CUST_66314,SESS_00062,2023-02-11,2,Q1,1,Desktop,Organic,Tier 2,Male,30.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,0.0,9.0,18.0,2.7,1,17.0,upi,0,,,0,No,Saturday
+CUST_43371,SESS_00347,2023-08-26,8,Q3,1,Mobile,Email,Tier 2,Male,34.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,44.85,8.3,4.0,1.15,0,12.0,credit_card,0,,,0,No,Saturday
+CUST_84896,SESS_00050,2023-02-03,2,Q1,0,Desktop,Paid_Ad,Tier 2,Female,8.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,152.84,5.2,8.0,2.7,0,10.0,credit_card,0,,,0,No,Friday
+CUST_44173,SESS_00275,2023-07-09,7,Q3,1,Desktop,Organic,Tier 2,Female,52.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,139.08,9.5,2.0,3.05,1,8.0,cash_on_delivery,1,SAVE10,,0,No,Sunday
+CUST_34135,SESS_00739,2024-06-18,6,Q2,0,Mobile,Organic,Tier 1,Female,31.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,94.87,17.7,12.0,3.28,0,11.0,nan,1,WELCOME,0,0,No,Tuesday
+CUST_77458,SESS_00570,2024-01-28,1,Q1,1,Desktop,Direct,Tier 2,Male,43.0,Electronics,1,1,1,0,0,Checkout_Dropped,2.0,76.07,23.4,10.0,1.84,1,1.0,upi,0,,,0,No,Sunday
+CUST_20350,SESS_00695,2024-05-05,5,Q2,1,Desktop,Social,Tier 1,Female,32.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,6.0,19.44,27.4,9.0,3.04,0,9.0,debit_card,1,WELCOME,0,0,No,Sunday
+CUST_35276,SESS_00873,2024-09-26,9,Q3,0,Tablet,Email,Tier 2,Female,31.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,167.07,6.8,7.0,0.49,0,0.0,debit_card,0,,,0,No,Thursday
+CUST_48584,SESS_00577,2024-02-03,2,Q1,1,Desktop,Organic,Tier 1,Female,28.0,Electronics,1,1,1,1,0,Payment_Dropped,1.0,74.35,26.8,17.0,2.82,1,11.0,credit_card,0,,0,1,No,Saturday
+CUST_78095,SESS_00860,2024-09-15,9,Q3,1,Tablet,Social,Tier 1,Male,34.0,Toys,1,0,0,0,0,Browsed_Only,7.0,14.48,7.5,19.0,3.95,1,9.0,nan,0,,,0,No,Sunday
+CUST_56809,SESS_00946,2024-11-21,11,Q4,0,Mobile,Direct,Tier 2,Male,18.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,0.01,14.8,8.0,3.21,1,15.0,debit_card,0,DIWALI30,0,0,No,Thursday
+CUST_62739,SESS_00614,2024-03-01,3,Q1,0,Desktop,Organic,Tier 3,Female,35.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,76.0,9.0,18.0,3.29,0,2.0,upi,0,,,0,No,Friday
+CUST_29018,SESS_00462,2023-11-11,11,Q4,1,Mobile,Social,Tier 1,Male,28.0,Books,1,1,1,1,1,Completed_Purchase,6.0,162.33,5.3,7.0,0.87,1,15.0,upi,0,,0,0,No,Saturday
+CUST_57457,SESS_00991,2024-12-23,12,Q4,0,Desktop,Organic,Tier 2,Female,26.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,126.24,6.8,17.0,1.77,1,12.0,cash_on_delivery,1,DIWALI30,,0,No,Monday
+CUST_88243,SESS_00064,2023-02-11,2,Q1,1,Tablet,Organic,Tier 3,Male,37.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,177.55,7.4,11.0,1.75,0,14.0,upi,0,WELCOME,,0,No,Saturday
+CUST_17886,SESS_00382,2023-09-19,9,Q3,0,Desktop,Paid_Ad,Tier 3,Female,50.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,21.7,4.4,4.0,1.68,0,13.0,credit_card,1,,0,0,No,Tuesday
+CUST_14103,SESS_00670,2024-04-09,4,Q2,0,Mobile,Social,Tier 2,Male,39.0,Toys,1,1,1,0,0,Checkout_Dropped,3.0,184.05,6.8,11.0,2.64,0,12.0,upi,1,,,1,Yes,Tuesday
+CUST_83762,SESS_00096,2023-03-14,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,28.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,94.71,9.6,10.0,2.64,1,10.0,credit_card,1,DIWALI30,,0,No,Tuesday
+CUST_60057,SESS_00548,2024-01-17,1,Q1,0,Desktop,Organic,Tier 2,Male,31.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,22.58,12.2,2.0,5.3,1,9.0,credit_card,1,SUMMER15,,0,No,Wednesday
+CUST_64944,SESS_00301,2023-07-26,7,Q3,0,Mobile,Paid_Ad,Tier 1,Male,34.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,168.66,7.9,16.0,2.64,1,15.0,credit_card,1,WELCOME,,0,No,Wednesday
+CUST_93580,SESS_00939,2024-11-14,11,Q4,0,Mobile,Paid_Ad,Tier 1,Female,31.0,Books,1,1,1,1,0,Payment_Dropped,3.0,68.01,19.2,17.0,2.64,1,11.0,cash_on_delivery,0,,1,0,No,Thursday
+CUST_22185,SESS_00299,2023-07-25,7,Q3,0,Desktop,Paid_Ad,Tier 1,Male,31.0,Fashion,1,1,1,0,0,Checkout_Dropped,1.0,50.13,9.6,15.0,1.33,1,17.0,debit_card,1,FLASH50,,1,No,Tuesday
+CUST_87477,SESS_00292,2023-09-14,9,Q3,1,Desktop,Organic,Tier 2,Male,37.0,Beauty,1,1,1,1,0,Payment_Dropped,6.0,19.18,4.8,4.0,3.08,1,1.0,debit_card,1,DIWALI30,0,0,No,Thursday
+CUST_48456,SESS_00429,2023-10-22,10,Q4,1,Mobile,Paid_Ad,Tier 2,Female,39.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,118.11,0.1,3.0,2.64,1,12.0,cash_on_delivery,1,FLASH50,,0,No,Sunday
+CUST_18625,SESS_00629,2024-03-09,3,Q1,1,Tablet,Organic,Tier 3,Female,20.0,Beauty,1,1,1,0,0,Checkout_Dropped,4.0,73.66,10.2,9.0,5.38,1,6.0,debit_card,0,,,1,No,Saturday
+CUST_50714,SESS_00592,2024-02-13,2,Q1,0,Mobile,Social,Tier 1,Male,40.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,16.41,10.9,17.0,0.99,1,13.0,cash_on_delivery,1,SUMMER15,,0,No,Tuesday
+CUST_71497,SESS_00880,2024-10-02,10,Q4,0,Mobile,Paid_Ad,Tier 3,Male,36.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,18.13,9.5,2.0,7.39,1,2.0,credit_card,0,,,0,No,Wednesday
+CUST_90563,SESS_00386,2023-09-20,9,Q3,0,Desktop,Direct,Tier 1,Female,26.0,Toys,1,0,0,0,0,Browsed_Only,4.0,149.37,4.0,18.0,6.07,1,13.0,credit_card,0,,,0,No,Wednesday
+CUST_24289,SESS_00190,2023-05-16,5,Q2,0,Mobile,Email,Tier 1,Male,40.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,31.35,7.8,10.0,0.47,1,7.0,credit_card,1,WELCOME,,0,No,Tuesday
+CUST_65457,SESS_00240,2023-06-21,6,Q2,0,Desktop,Organic,Tier 2,Other,20.0,Beauty,1,1,0,0,0,Cart_Dropped,5.0,106.47,18.0,11.0,2.7,1,16.0,credit_card,0,,,1,No,Wednesday
+CUST_54256,SESS_00024,2023-01-17,1,Q1,0,Mobile,Paid_Ad,Tier 1,Female,38.0,Beauty,1,1,1,1,1,Completed_Purchase,5.0,55.7,5.0,6.0,0.9,1,2.0,net_banking,0,,0,0,No,Tuesday
+CUST_25833,SESS_00149,2023-04-19,4,Q2,0,Desktop,Paid_Ad,Tier 1,Female,19.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,236.18,10.9,6.0,3.4,0,11.0,credit_card,1,SALE20,0,0,No,Wednesday
+CUST_48973,SESS_00485,2023-11-28,11,Q4,0,Mobile,Paid_Ad,Tier 2,Male,26.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,21.73,9.4,10.0,2.64,1,0.0,upi,1,SALE20,,1,No,Tuesday
+CUST_23197,SESS_00331,2023-08-16,8,Q3,0,Mobile,Referral,Tier 1,Male,20.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,64.33,17.8,5.0,2.17,1,1.0,cash_on_delivery,0,,,1,Yes,Wednesday
+CUST_69885,SESS_00073,2023-09-14,9,Q1,1,Tablet,Email,Tier 2,Male,33.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,93.55,4.3,7.0,2.44,0,0.0,net_banking,0,,,1,Yes,Thursday
+CUST_53445,SESS_00414,2023-10-08,10,Q4,1,Mobile,Organic,Tier 1,Female,35.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,106.82,13.5,16.0,5.24,0,1.0,upi,0,,1,1,No,Sunday
+CUST_79831,SESS_00813,2024-08-09,8,Q3,0,Desktop,Email,Tier 2,Female,36.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,35.71,3.2,10.0,2.83,0,0.0,upi,0,,,0,No,Friday
+CUST_85921,SESS_00947,2024-11-21,11,Q4,0,Desktop,Social,Tier 3,Female,17.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,3.0,65.69,14.7,12.0,2.0,nan,6.0,upi,0,,,1,No,Thursday
+CUST_26028,SESS_00790,2024-07-24,7,Q3,0,Mobile,Social,Tier 1,Female,37.0,Books,1,1,0,0,0,Cart_Dropped,3.0,97.92,4.9,11.0,2.13,1,0.0,credit_card,0,,,1,No,Wednesday
+CUST_61983,SESS_00681,2024-04-19,4,Q2,0,Desktop,Email,Tier 2,Male,46.0,Electronics,1,1,1,1,1,Completed_Purchase,7.0,119.52,17.7,13.0,2.88,1,0.0,debit_card,0,,0,0,No,Friday
+CUST_46443,SESS_00148,2023-04-19,4,Q2,0,Tablet,Social,Tier 1,Male,34.0,Toys,1,1,0,0,0,Cart_Dropped,7.0,65.77,9.2,2.0,6.68,1,5.0,credit_card,1,SALE20,,1,Yes,Wednesday
+CUST_32570,SESS_00183,2023-05-13,5,Q2,1,Tablet,Organic,Tier 2,Female,36.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,31.5,3.3,18.0,3.14,0,1.0,net_banking,1,DIWALI30,,0,No,Saturday
+CUST_84942,SESS_00651,2024-03-24,3,Q1,1,Desktop,Direct,Tier 2,Female,23.0,Beauty,1,1,0,0,0,Cart_Dropped,7.0,280.95,17.9,0.0,2.35,0,0.0,upi,0,,,1,No,Sunday
+CUST_46753,SESS_00747,2024-06-21,6,Q2,0,Tablet,Organic,Tier 1,Male,38.0,Books,1,1,1,1,1,Completed_Purchase,2.0,89.48,18.4,18.0,1.68,0,0.0,cash_on_delivery,1,FLASH50,0,0,No,Friday
+CUST_19214,SESS_00219,2023-09-14,9,Q2,0,Mobile,Organic,Tier 2,Other,29.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,44.07,6.9,7.0,1.46,0,13.0,upi,1,SALE20,,1,No,Thursday
+CUST_82563,SESS_00685,2024-04-30,4,Q2,0,Desktop,Referral,Tier 1,Female,42.0,Toys,1,1,1,1,1,Completed_Purchase,4.0,13.59,0.7,10.0,5.56,0,4.0,upi,1,SUMMER15,0,0,No,Tuesday
+CUST_60287,SESS_00039,2023-01-26,1,Q1,0,Desktop,Email,Tier 1,Female,39.0,Fashion,1,1,1,0,0,Checkout_Dropped,6.0,119.52,15.9,10.0,1.67,0,12.0,credit_card,0,,,1,Yes,Thursday
+CUST_35979,SESS_00796,2024-07-26,7,Q3,0,Desktop,Social,Tier 1,Male,45.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,64.67,27.2,13.0,1.85,0,12.0,net_banking,0,,,1,,Friday
+CUST_44781,SESS_00109,2023-03-21,3,Q1,0,Desktop,Organic,Tier 1,Female,21.0,Beauty,1,1,1,1,1,Completed_Purchase,4.0,22.49,5.9,7.0,1.3,0,0.0,upi,0,,0,0,No,Tuesday
+CUST_87000,SESS_00154,2023-04-25,4,Q2,0,Mobile,Direct,Tier 1,Male,34.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,13.11,5.3,8.0,1.83,1,17.0,net_banking,0,,,1,No,Tuesday
+CUST_87741,SESS_00097,2023-03-14,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,31.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,102.12,12.1,5.0,2.64,0,0.0,credit_card,1,FLASH50,,1,No,Tuesday
+CUST_20882,SESS_00297,2023-07-25,7,Q3,0,Desktop,Direct,Tier 1,Male,24.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,111.83,6.7,7.0,3.2,1,10.0,net_banking,0,,,1,No,Tuesday
+CUST_85207,SESS_00504,2023-12-12,12,Q4,0,Desktop,Referral,Tier 3,Male,29.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,147.7,26.6,10.0,1.32,nan,8.0,credit_card,0,SAVE10,0,0,No,Tuesday
+CUST_73640,SESS_00962,2024-12-02,12,Q4,0,Desktop,Paid_Ad,Tier 3,Female,8.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,43.6,41.7,10.0,8.12,0,11.0,upi,1,WELCOME,,0,No,Monday
+CUST_95221,SESS_00029,2023-01-19,1,Q1,0,Desktop,Email,Tier 3,Male,29.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,34.53,16.0,9.0,1.63,1,9.0,credit_card,1,DIWALI30,,1,No,Thursday
+CUST_11354,SESS_00882,2024-10-03,10,Q4,0,Mobile,Email,Tier 2,Female,43.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,7.0,131.59,3.4,4.0,6.98,1,4.0,credit_card,1,DIWALI30,0,1,No,Thursday
+CUST_32773,SESS_00953,2024-11-25,11,Q4,0,Tablet,Organic,Tier 1,Male,34.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,32.99,12.2,10.0,3.4,1,3.0,cash_on_delivery,0,,0,0,No,Monday
+CUST_18813,SESS_00011,2023-01-05,1,Q1,0,Mobile,Organic,Tier 1,Male,31.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,21.1,2.7,14.0,2.64,1,12.0,wallet,0,,1,0,No,Thursday
+CUST_70305,SESS_00642,2024-03-20,3,Q1,0,Mobile,Organic,Tier 3,Female,31.0,Fashion,1,1,1,1,0,Payment_Dropped,7.0,43.57,8.7,16.0,2.64,1,9.0,cash_on_delivery,0,,1,0,No,Wednesday
+CUST_68013,SESS_00662,2024-03-30,3,Q1,1,Mobile,Direct,Tier 3,Female,49.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,75.56,11.4,11.0,0.98,0,16.0,credit_card,0,,,1,Yes,Saturday
+CUST_35713,SESS_00904,2024-10-20,10,Q4,1,Tablet,Organic,Tier 1,Female,31.0,Fashion,1,1,1,1,0,Payment_Dropped,3.0,108.87,5.1,6.0,3.73,0,7.0,credit_card,0,,1,0,No,Sunday
+CUST_88529,SESS_00656,2024-03-28,3,Q1,0,Desktop,Referral,Tier 2,Male,19.0,Toys,1,0,0,0,0,Browsed_Only,4.0,23.72,9.6,13.0,0.39,1,13.0,credit_card,0,,,0,No,Thursday
+CUST_86055,SESS_00060,2023-02-08,2,Q1,0,Desktop,Social,Tier 3,Female,44.0,Toys,1,1,1,0,0,Checkout_Dropped,4.0,271.78,4.5,7.0,2.17,1,17.0,upi,0,,,1,Yes,Wednesday
+CUST_81390,SESS_00598,2024-02-18,2,Q1,1,Desktop,Direct,Tier 1,Female,31.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,3.0,76.07,6.7,18.0,0.96,0,12.0,upi,1,DIWALI30,,0,No,Sunday
+CUST_79954,SESS_00621,2024-03-05,3,Q1,0,Desktop,Referral,Tier 3,Female,21.0,Books,1,1,0,0,0,Cart_Dropped,7.0,35.94,4.6,17.0,8.12,0,15.0,cash_on_delivery,0,,,1,No,Tuesday
+CUST_83035,SESS_00356,2023-09-03,9,Q3,1,Desktop,Email,Tier 1,Female,35.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,76.07,10.1,13.0,0.13,1,16.0,credit_card,0,,,0,No,Sunday
+CUST_44075,SESS_00907,2024-10-22,10,Q4,0,Desktop,Email,Tier 1,Male,31.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,99.64,9.2,11.0,4.44,0,0.0,credit_card,0,,,1,No,Tuesday
+CUST_38188,SESS_00888,2024-10-08,10,Q4,0,Desktop,Social,Tier 1,Female,21.0,Electronics,1,0,0,0,0,Browsed_Only,2.0,55.78,3.9,5.0,5.16,1,9.0,net_banking,0,,,0,No,Tuesday
+CUST_75070,SESS_00673,2024-04-13,4,Q2,1,Desktop,Referral,Tier 2,Male,41.0,Sports,1,0,0,0,0,Browsed_Only,1.0,36.03,8.3,12.0,3.86,1,8.0,net_banking,1,SAVE10,,0,No,Saturday
+CUST_94044,SESS_00251,2023-06-27,6,Q2,0,Desktop,Referral,Tier 2,Female,39.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,101.05,7.1,10.0,1.34,1,13.0,debit_card,0,,,0,No,Tuesday
+CUST_10785,SESS_00981,2024-12-15,12,Q4,1,Desktop,Referral,Tier 3,Female,23.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,44.64,10.4,4.0,4.15,1,1.0,debit_card,1,SAVE10,,0,No,Sunday
+CUST_57891,SESS_00843,2024-09-08,9,Q3,1,Desktop,Paid_Ad,Tier 2,Female,32.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,91.52,12.4,7.0,1.88,0,0.0,upi,0,,0,0,No,Sunday
+CUST_15858,SESS_00298,2023-07-25,7,Q3,0,Mobile,Direct,Tier 2,Female,31.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,98.47,6.5,15.0,1.93,1,11.0,net_banking,1,SUMMER15,,0,No,Tuesday
+CUST_32089,SESS_00289,2023-07-20,7,Q3,0,Mobile,Organic,Tier 3,Female,34.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,165.86,11.0,12.0,2.64,0,0.0,upi,0,,,0,No,Thursday
+CUST_25349,SESS_00355,2023-08-31,8,Q3,0,Mobile,Referral,Tier 2,Male,50.0,Fashion,1,1,1,0,0,Checkout_Dropped,5.0,182.13,13.1,18.0,2.0,0,2.0,credit_card,0,,,0,No,Thursday
+CUST_49314,SESS_00020,2023-01-14,1,Q1,1,Desktop,Email,Tier 2,Male,28.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,108.82,3.6,14.0,6.27,1,1.0,cash_on_delivery,0,WELCOME,,0,No,Saturday
+CUST_26770,SESS_00004,2023-01-04,1,Q1,0,Tablet,Organic,Tier 3,Female,37.0,Sports,1,0,0,0,0,Browsed_Only,7.0,26.69,15.5,19.0,4.28,0,13.0,debit_card,1,DIWALI30,,0,No,Wednesday
+CUST_58095,SESS_00323,2023-08-11,8,Q3,0,Tablet,Organic,Tier 3,Male,29.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,144.16,11.2,19.0,0.45,0,10.0,debit_card,1,DIWALI30,0,0,No,Friday
+CUST_36726,SESS_00102,2023-03-16,3,Q1,0,Desktop,Social,Tier 3,Female,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,205.51,8.8,4.0,6.92,1,8.0,net_banking,0,,,1,No,Thursday
+CUST_40421,SESS_00225,2023-06-13,6,Q2,0,Mobile,Social,Tier 1,Female,21.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,153.66,9.2,10.0,4.88,1,10.0,debit_card,0,,,0,No,Tuesday
+CUST_23875,SESS_00722,2024-05-30,5,Q2,0,Mobile,Social,Tier 1,Male,28.0,Sports,1,1,1,1,0,Payment_Dropped,1.0,89.89,5.3,14.0,2.64,0,0.0,credit_card,1,SUMMER15,1,0,No,Thursday
+CUST_89205,SESS_00532,2023-12-30,12,Q4,1,Mobile,Paid_Ad,Tier 3,Female,20.0,Toys,1,1,1,0,0,Checkout_Dropped,1.0,145.48,19.4,19.0,2.64,1,15.0,upi,1,SAVE10,,0,No,Saturday
+CUST_52495,SESS_00269,2023-07-07,7,Q3,0,Mobile,Email,Tier 3,Female,20.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,69.7,9.6,5.0,2.19,0,0.0,wallet,0,,,0,No,Friday
+CUST_83477,SESS_00820,2024-08-16,8,Q3,0,Desktop,Organic,Tier 2,Female,38.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,81.04,9.6,7.0,9.88,1,16.0,credit_card,0,,,1,Yes,Friday
+CUST_13379,SESS_00108,2023-03-21,3,Q1,0,Mobile,Social,Tier 1,Female,24.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,54.98,18.2,8.0,1.48,0,0.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_92147,SESS_00550,2024-01-17,1,Q1,0,Mobile,Paid_Ad,Tier 3,Male,20.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,54.16,17.4,5.0,1.53,0,0.0,credit_card,1,DIWALI30,,0,No,Wednesday
+CUST_71117,SESS_00554,2024-01-20,1,Q1,1,Desktop,Direct,Tier 2,Female,59.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,35.05,9.6,10.0,1.34,0,0.0,cash_on_delivery,1,SAVE10,0,0,No,Saturday
+CUST_35471,SESS_00351,2023-08-28,8,Q3,0,Tablet,Organic,Tier 3,Male,48.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,139.01,2.7,4.0,3.29,0,14.0,credit_card,0,,,0,No,Monday
+CUST_20719,SESS_00979,2024-12-14,12,Q4,1,Desktop,Organic,Tier 3,Other,26.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,47.71,15.6,15.0,1.52,1,9.0,upi,1,DIWALI30,,0,No,Saturday
+CUST_64937,SESS_00194,2023-05-18,5,Q2,0,Desktop,Organic,Tier 2,Female,24.0,Electronics,1,0,0,0,0,Browsed_Only,5.0,16.07,7.8,18.0,10.04,nan,5.0,credit_card,0,,,0,No,Thursday
+CUST_12443,SESS_00679,2024-04-18,4,Q2,0,Mobile,Paid_Ad,Tier 2,Female,27.0,Electronics,1,0,0,0,0,Browsed_Only,2.0,16.15,10.3,13.0,2.64,1,4.0,upi,0,,,0,No,Thursday
+CUST_25373,SESS_00130,2023-04-02,4,Q2,1,Mobile,Organic,Tier 1,Male,43.0,Beauty,1,1,0,0,0,Cart_Dropped,2.0,20.75,4.6,5.0,1.23,0,0.0,wallet,0,,,1,No,Sunday
+CUST_70838,SESS_00562,2024-01-24,1,Q1,0,Mobile,Direct,Tier 2,Female,33.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,57.23,4.8,12.0,1.09,1,11.0,debit_card,0,,,0,No,Wednesday
+CUST_30180,SESS_00956,2024-11-28,11,Q4,0,Desktop,Direct,Tier 3,Male,33.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,115.2,6.4,3.0,1.07,1,1.0,net_banking,0,,,0,No,Thursday
+CUST_66314,SESS_00095,2023-03-13,3,Q1,0,Desktop,Paid_Ad,Tier 2,Male,33.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,204.89,14.2,16.0,0.3,1,3.0,upi,0,,,1,No,Monday
+CUST_78135,SESS_00528,2023-12-30,12,Q4,1,Mobile,Direct,Tier 3,Male,25.0,Sports,1,1,1,1,0,Payment_Dropped,6.0,22.02,0.1,7.0,2.64,1,10.0,upi,0,,1,0,No,Saturday
+CUST_25039,SESS_00185,2023-05-13,5,Q2,1,Desktop,Organic,Tier 3,Male,21.0,Books,1,0,0,0,0,Browsed_Only,3.0,29.1,1.5,9.0,2.32,1,2.0,cash_on_delivery,0,,,0,No,Saturday
+CUST_73393,SESS_00418,2023-10-10,10,Q4,0,Mobile,Direct,Tier 2,Male,40.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,2.0,54.81,10.6,4.0,4.4,1,9.0,cash_on_delivery,1,FLASH50,1,1,No,Tuesday
+CUST_43038,SESS_00955,2024-11-27,11,Q4,0,Mobile,Email,Tier 2,Female,24.0,Books,1,1,1,1,1,Completed_Purchase,6.0,152.43,5.8,10.0,5.76,0,15.0,debit_card,0,,0,0,No,Wednesday
+CUST_95221,SESS_00038,2023-01-24,1,Q1,0,Desktop,Email,Tier 1,Male,23.0,Sports,1,0,0,0,0,Browsed_Only,7.0,104.99,13.6,18.0,2.94,1,16.0,upi,0,,,0,No,Tuesday
+CUST_52985,SESS_00780,2024-07-16,7,Q3,0,Mobile,Direct,Tier 3,Male,23.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,110.0,6.9,9.0,2.35,0,0.0,cash_on_delivery,1,SUMMER15,1,1,Yes,Tuesday
+CUST_30287,SESS_00420,2023-10-17,10,Q4,0,Desktop,Organic,Tier 2,Female,28.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,71.36,17.0,16.0,0.69,1,11.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_37049,SESS_00905,2024-10-21,10,Q4,0,Mobile,Direct,Tier 2,Male,6.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,22.45,4.4,6.0,7.91,0,16.0,upi,1,FLASH50,,1,No,Monday
+CUST_90947,SESS_00687,2024-05-01,5,Q2,0,Mobile,Organic,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,2.0,296.11,3.0,4.0,5.07,0,0.0,upi,1,WELCOME,0,0,No,Wednesday
+CUST_92962,SESS_00510,2023-12-17,12,Q4,1,Desktop,Paid_Ad,Tier 1,Male,27.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,25.12,12.7,1.0,2.11,0,0.0,credit_card,1,SAVE10,0,0,No,Sunday
+CUST_35580,SESS_00051,2023-02-03,2,Q1,0,Mobile,Social,Tier 1,Female,24.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,130.93,8.7,14.0,3.11,0,16.0,debit_card,0,,,0,No,Friday
+CUST_63235,SESS_00359,2023-09-05,9,Q3,0,Mobile,Paid_Ad,Tier 2,Female,10.0,Beauty,1,1,0,0,0,Cart_Dropped,4.0,30.06,10.5,10.0,2.25,1,15.0,upi,0,,,0,No,Tuesday
+CUST_81402,SESS_00452,2023-11-04,11,Q4,1,Desktop,Direct,Tier 2,Female,24.0,Books,1,1,0,0,0,Cart_Dropped,7.0,121.32,9.0,7.0,3.4,nan,3.0,upi,1,SALE20,,0,No,Saturday
+CUST_88656,SESS_00720,2024-05-30,5,Q2,0,Mobile,Paid_Ad,Tier 1,Male,47.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,197.32,3.4,15.0,0.68,0,15.0,net_banking,0,,,1,No,Thursday
+CUST_94828,SESS_00597,2024-02-17,2,Q1,1,Desktop,Organic,Tier 2,Male,40.0,Books,1,0,0,0,0,Browsed_Only,4.0,28.91,21.7,7.0,2.08,1,15.0,debit_card,1,SUMMER15,,0,No,Saturday
+CUST_29063,SESS_00517,2023-09-14,9,Q4,0,Mobile,Social,Tier 3,Female,24.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,10000.0,12.1,12.0,2.64,1,9.0,credit_card,0,,0,0,No,Thursday
+CUST_49390,SESS_00082,2023-02-27,2,Q1,0,Mobile,Referral,Tier 1,Female,25.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,15.1,21.0,4.0,2.64,0,4.0,credit_card,0,,,0,No,Monday
+CUST_35369,SESS_00087,2023-03-06,3,Q1,0,Desktop,Email,Tier 2,Male,35.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,89.39,17.3,19.0,1.03,0,14.0,upi,0,,0,0,No,Monday
+CUST_58445,SESS_00862,2024-09-17,9,Q3,0,Mobile,Organic,Tier 1,Female,37.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,147.86,7.0,6.0,12.14,1,9.0,net_banking,0,,,1,No,Tuesday
+CUST_42613,SESS_00016,2023-01-12,1,Q1,0,Mobile,Organic,Tier 2,Male,11.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,24.7,17.3,4.0,4.22,1,8.0,upi,1,WELCOME,0,0,No,Thursday
+CUST_15108,SESS_00693,2024-05-04,5,Q2,1,Mobile,Email,Tier 2,Female,32.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,75.3,19.8,8.0,2.64,1,13.0,credit_card,0,,,0,No,Saturday
+CUST_91305,SESS_00520,2023-12-23,12,Q4,1,Tablet,Direct,Tier 3,Female,31.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,88.11,9.8,10.0,3.22,0,0.0,cash_on_delivery,1,SUMMER15,,0,No,Saturday
+CUST_47009,SESS_00785,2024-07-22,7,Q3,0,Desktop,Social,Tier 3,Male,35.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,205.69,10.2,6.0,0.63,0,0.0,wallet,1,DIWALI30,0,0,No,Monday
+CUST_96803,SESS_00489,2023-12-01,12,Q4,0,Mobile,Email,Tier 2,Female,46.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,2.0,22.51,19.1,19.0,11.22,1,17.0,net_banking,0,,0,0,No,Friday
+CUST_25876,SESS_00637,2024-03-16,3,Q1,1,Desktop,Paid_Ad,Tier 1,Female,33.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,35.06,3.0,11.0,0.47,0,0.0,net_banking,1,SALE20,,0,No,Saturday
+CUST_49094,SESS_00676,2024-04-15,4,Q2,0,Desktop,Email,Tier 1,Female,40.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,32.98,12.4,2.0,2.94,1,2.0,credit_card,0,,,1,No,Monday
+CUST_51250,SESS_00576,2024-02-03,2,Q1,1,Tablet,Email,Tier 1,Male,24.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,20.99,14.3,11.0,1.67,1,16.0,debit_card,1,WELCOME,,1,Yes,Saturday
+CUST_68746,SESS_00072,2023-02-18,2,Q1,1,Mobile,Organic,Tier 1,Female,23.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,67.53,8.9,12.0,2.42,1,15.0,net_banking,0,,0,0,No,Saturday
+CUST_14890,SESS_00995,2024-12-28,12,Q4,1,Mobile,Organic,Tier 3,Male,36.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,377.59,4.5,12.0,5.55,1,4.0,credit_card,0,,,1,No,Saturday
+CUST_12647,SESS_00475,2023-11-20,11,Q4,0,Mobile,Organic,Tier 1,Male,48.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,372.08,32.5,19.0,2.64,1,8.0,credit_card,0,,0,0,No,Monday
+CUST_15349,SESS_00197,2023-05-20,5,Q2,1,Mobile,Social,Tier 1,Female,40.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,241.1,7.1,3.0,1.37,1,11.0,upi,0,,,0,No,Saturday
+CUST_62933,SESS_00648,2024-03-22,3,Q1,0,Mobile,Social,Tier 1,Female,16.0,Sports,1,0,0,0,0,Browsed_Only,3.0,72.18,3.0,19.0,3.42,nan,15.0,cash_on_delivery,1,DIWALI30,,0,No,Friday
+CUST_67218,SESS_00124,2023-03-30,3,Q1,0,Mobile,Paid_Ad,Tier 1,Male,43.0,Sports,1,0,0,0,0,Browsed_Only,1.0,98.96,10.2,5.0,2.64,1,16.0,net_banking,1,,,0,No,Thursday
+CUST_24608,SESS_00432,2023-10-23,10,Q4,0,Mobile,Social,Tier 1,Female,44.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,88.66,8.5,10.0,2.46,1,4.0,wallet,0,,,0,No,Monday
+CUST_12321,SESS_00591,2024-02-13,2,Q1,0,Desktop,Organic,Tier 2,Female,31.0,Beauty,1,1,1,0,0,Checkout_Dropped,1.0,100.33,7.4,1.0,6.08,0,0.0,upi,0,,,0,No,Tuesday
+CUST_56905,SESS_00459,2023-11-09,11,Q4,0,Mobile,Direct,Tier 1,Male,43.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,76.07,2.0,6.0,3.77,1,1.0,upi,0,,0,0,No,Thursday
+CUST_29538,SESS_00540,2024-01-09,1,Q1,0,Mobile,Organic,Tier 2,Male,27.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,44.09,9.1,4.0,2.64,1,1.0,cash_on_delivery,1,SAVE10,,1,No,Tuesday
+CUST_18914,SESS_00439,2023-10-27,10,Q4,0,Mobile,Paid_Ad,Tier 1,Male,34.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,113.96,16.9,17.0,1.91,1,3.0,credit_card,0,,0,1,Yes,Friday
+CUST_73945,SESS_00641,2024-03-20,3,Q1,0,Desktop,Paid_Ad,Tier 2,Male,42.0,Sports,1,0,0,0,0,Browsed_Only,4.0,76.07,6.0,3.0,1.29,0,16.0,upi,1,WELCOME,,0,No,Wednesday
+CUST_35259,SESS_00561,2024-01-24,1,Q1,0,Mobile,Paid_Ad,Tier 1,Male,37.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,73.18,4.7,2.0,6.64,0,15.0,nan,0,,,0,No,Wednesday
+CUST_66276,SESS_00255,2023-06-29,6,Q2,0,Mobile,Social,Tier 3,Female,21.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,84.34,9.7,19.0,2.64,0,4.0,net_banking,0,,,1,Yes,Thursday
+CUST_56704,SESS_00221,2023-06-12,6,Q2,0,Desktop,Social,Tier 1,Male,41.0,Beauty,1,0,0,0,0,Browsed_Only,5.0,89.8,8.9,14.0,3.05,0,15.0,credit_card,0,,,0,No,Monday
+CUST_78135,SESS_00079,2023-02-26,2,Q1,1,Desktop,Organic,Tier 3,Female,37.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,100.18,11.7,4.0,1.7,1,15.0,upi,0,,0,0,No,Sunday
+CUST_14729,SESS_00267,2023-07-04,7,Q3,0,Desktop,Social,Tier 1,Male,42.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,42.67,4.4,8.0,0.48,1,0.0,upi,0,,,1,No,Tuesday
+CUST_77892,SESS_00187,2023-05-14,5,Q2,1,Mobile,Referral,Tier 1,Male,22.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,0.0,3.9,4.0,0.19,0,11.0,upi,1,SALE20,,0,No,Sunday
+CUST_21862,SESS_00320,2023-08-10,8,Q3,0,Mobile,Organic,Tier 2,Male,40.0,Books,1,1,1,0,0,Checkout_Dropped,6.0,41.97,7.5,11.0,0.02,1,12.0,net_banking,1,SALE20,,1,No,Thursday
+CUST_99346,SESS_00515,2023-12-20,12,Q4,0,Desktop,Email,Tier 3,Female,45.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,7.0,117.26,27.9,5.0,5.67,0,0.0,upi,1,FLASH50,,1,No,Wednesday
+CUST_23549,SESS_00478,2023-11-23,11,Q4,0,Mobile,Social,Tier 2,Female,13.0,Sports,1,0,0,0,0,Browsed_Only,1.0,84.0,17.7,15.0,0.6,1,6.0,upi,1,SALE20,,0,No,Thursday
+CUST_35265,SESS_00699,2024-05-11,5,Q2,1,Mobile,Direct,Tier 2,Female,36.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,93.32,8.0,15.0,2.64,0,3.0,credit_card,0,,,1,Yes,Saturday
+CUST_68068,SESS_00372,2023-09-14,9,Q3,0,Desktop,Paid_Ad,Tier 2,Female,15.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,13.82,11.4,1.0,2.7,0,0.0,credit_card,0,,,1,No,Thursday
+CUST_40633,SESS_00837,2024-09-01,9,Q3,1,Tablet,Social,Tier 2,Male,38.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,25.23,13.1,16.0,2.95,1,9.0,upi,0,,,1,No,Sunday
+CUST_75354,SESS_00368,2023-09-13,9,Q3,0,Mobile,Email,Tier 2,Female,32.0,Fashion,1,1,1,1,1,Completed_Purchase,5.0,44.77,9.6,1.0,2.64,0,0.0,credit_card,0,,0,0,No,Wednesday
+CUST_41193,SESS_00367,2023-09-12,9,Q3,0,Mobile,Referral,Tier 2,Female,35.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,76.46,9.5,12.0,2.64,1,0.0,upi,0,,,0,No,Tuesday
+CUST_84215,SESS_00612,2024-02-29,2,Q1,0,Desktop,Email,Tier 3,Female,41.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,25.54,7.5,1.0,3.84,1,3.0,debit_card,0,,,0,No,Thursday
+CUST_48269,SESS_00634,2024-03-12,3,Q1,0,Desktop,Social,Tier 2,Other,19.0,Books,1,1,1,1,0,Payment_Dropped,1.0,84.6,9.8,8.0,6.04,0,6.0,credit_card,0,,1,1,No,Tuesday
+CUST_91230,SESS_00259,2023-07-01,7,Q3,1,Desktop,Referral,Tier 1,Other,34.0,Books,1,0,0,0,0,Browsed_Only,3.0,76.07,9.6,8.0,2.44,1,12.0,credit_card,0,SALE20,,0,No,Saturday
+CUST_44732,SESS_00256,2023-06-30,6,Q2,0,Mobile,Organic,Tier 1,Male,40.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,85.16,1.2,2.0,2.67,0,0.0,credit_card,0,,,1,No,Friday
+CUST_46467,SESS_00086,2023-03-05,3,Q1,1,Mobile,Social,Tier 2,Male,35.0,Fashion,1,1,1,1,0,Payment_Dropped,1.0,16.16,17.1,10.0,1.85,0,13.0,credit_card,1,SALE20,1,0,No,Sunday
+CUST_21410,SESS_00222,2023-06-12,6,Q2,0,Mobile,Organic,Tier 3,Male,27.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,14.24,9.8,7.0,0.91,1,16.0,upi,1,DIWALI30,,1,No,Monday
+CUST_33350,SESS_00516,2023-12-20,12,Q4,0,Mobile,Paid_Ad,Tier 3,Female,26.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,82.46,6.6,2.0,6.17,0,0.0,credit_card,1,SALE20,,0,No,Wednesday
+CUST_35768,SESS_00316,2023-08-06,8,Q3,1,Mobile,Direct,Tier 1,Female,32.0,Books,1,1,0,0,0,Cart_Dropped,2.0,78.98,29.6,1.0,1.7,1,4.0,net_banking,0,,,1,No,Sunday
+CUST_14680,SESS_00411,2023-10-05,10,Q4,0,Desktop,Organic,Tier 1,Female,21.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,3.0,92.79,9.6,1.0,9.41,1,9.0,net_banking,0,,,1,No,Thursday
+CUST_59517,SESS_00665,2024-04-01,4,Q2,0,Tablet,Social,Tier 2,Male,46.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,65.64,0.6,18.0,2.26,1,2.0,wallet,1,DIWALI30,,1,No,Monday
+CUST_20805,SESS_00215,2023-06-04,6,Q2,1,Desktop,Referral,Tier 1,Female,36.0,Sports,1,0,0,0,0,Browsed_Only,3.0,65.52,4.0,15.0,2.69,1,17.0,credit_card,0,,,0,No,Sunday
+CUST_63715,SESS_00806,2024-08-03,8,Q3,1,Mobile,Organic,Tier 1,Male,26.0,Beauty,1,1,1,0,0,Checkout_Dropped,4.0,123.88,13.3,3.0,2.67,0,0.0,credit_card,0,,,0,No,Saturday
+CUST_70198,SESS_00657,2023-09-14,9,Q1,0,Desktop,Organic,Tier 1,Male,24.0,Books,1,1,0,0,0,Cart_Dropped,7.0,66.92,12.8,11.0,1.09,1,12.0,credit_card,1,WELCOME,,0,No,Thursday
+CUST_71734,SESS_00412,2023-10-07,10,Q4,1,Mobile,Direct,Tier 3,Female,23.0,Toys,1,1,1,1,1,Completed_Purchase,7.0,34.55,9.3,15.0,2.64,1,3.0,credit_card,1,FLASH50,0,0,No,Saturday
+CUST_45332,SESS_00912,2024-10-29,10,Q4,0,Desktop,Organic,Tier 3,Male,23.0,Toys,1,0,0,0,0,Browsed_Only,6.0,98.36,8.0,3.0,1.9,0,11.0,upi,0,,,0,No,Tuesday
+CUST_28793,SESS_00364,2023-09-08,9,Q3,0,Mobile,Social,Tier 2,Male,32.0,Toys,1,1,1,0,0,Checkout_Dropped,5.0,49.13,5.9,17.0,0.13,0,13.0,credit_card,0,,,1,No,Friday
+CUST_49381,SESS_00703,2024-05-18,5,Q2,1,Desktop,Email,Tier 2,Female,18.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,128.93,8.4,7.0,1.04,0,1.0,credit_card,0,,,1,No,Saturday
+CUST_63910,SESS_00437,2023-10-27,10,Q4,0,Desktop,Email,Tier 1,Female,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,128.21,9.6,19.0,3.07,1,12.0,net_banking,0,,,0,No,Friday
+CUST_64568,SESS_00334,2023-08-21,8,Q3,0,Desktop,Paid_Ad,Tier 2,Female,9.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,16.68,38.8,19.0,9.05,0,0.0,credit_card,0,,,1,Yes,Monday
+CUST_45332,SESS_00816,2024-08-11,8,Q3,1,Mobile,Organic,Tier 2,Male,22.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,76.07,13.2,9.0,1.8,0,16.0,wallet,0,,,0,No,Sunday
+CUST_33388,SESS_00321,2023-08-10,8,Q3,0,Desktop,Social,Tier 3,Male,25.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,39.79,5.0,10.0,1.2,1,10.0,upi,0,,,0,No,Thursday
+CUST_20150,SESS_00799,2023-09-14,9,Q3,1,Mobile,Organic,Tier 2,Male,31.0,Fashion,1,1,1,1,0,Payment_Dropped,1.0,0.0,45.1,3.0,4.65,1,0.0,upi,0,,1,1,No,Thursday
+CUST_89726,SESS_00980,2024-12-14,12,Q4,1,Tablet,Social,Tier 3,Female,35.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,40.84,10.2,1.0,1.64,1,13.0,net_banking,0,,0,0,No,Saturday
+CUST_36307,SESS_00101,2023-03-16,3,Q1,0,Desktop,Organic,Tier 1,Female,32.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,41.55,8.1,18.0,2.71,0,5.0,wallet,1,DIWALI30,,0,No,Thursday
+CUST_73705,SESS_00777,2024-07-12,7,Q3,0,Desktop,Referral,Tier 2,Female,25.0,Toys,1,1,0,0,0,Cart_Dropped,3.0,55.74,2.2,8.0,2.97,1,4.0,net_banking,0,,,0,No,Friday
+CUST_37377,SESS_00631,2024-03-11,3,Q1,0,Mobile,Social,Tier 1,Female,51.0,Toys,1,1,1,0,0,Checkout_Dropped,3.0,54.92,17.0,4.0,2.64,0,0.0,net_banking,0,,,1,No,Monday
+CUST_67272,SESS_00734,2024-06-12,6,Q2,0,Desktop,Paid_Ad,Tier 2,Female,26.0,Sports,1,1,0,0,0,Cart_Dropped,6.0,96.98,1.4,6.0,8.98,1,1.0,upi,0,,,0,No,Wednesday
+CUST_73427,SESS_00951,2024-11-25,11,Q4,0,Mobile,Organic,Tier 2,Female,36.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,23.04,15.1,19.0,5.67,1,17.0,credit_card,0,,,0,No,Monday
+CUST_74310,SESS_00976,2024-12-12,12,Q4,0,Mobile,Paid_Ad,Tier 2,Other,39.0,Beauty,1,1,1,0,0,Checkout_Dropped,2.0,312.77,6.3,13.0,4.28,1,1.0,debit_card,1,SALE20,,0,No,Thursday
+CUST_74325,SESS_00182,2023-05-13,5,Q2,1,Desktop,Referral,Tier 3,Male,27.0,Books,1,1,0,0,0,Cart_Dropped,5.0,98.78,9.6,10.0,2.98,0,0.0,debit_card,0,,,1,Yes,Saturday
+CUST_69195,SESS_00549,2024-01-17,1,Q1,0,Desktop,Social,Tier 3,Other,24.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,175.16,7.1,14.0,4.49,1,10.0,cash_on_delivery,0,,0,0,No,Wednesday
+CUST_13559,SESS_00161,2023-04-30,4,Q2,1,Mobile,Paid_Ad,Tier 1,Female,36.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,37.16,13.1,9.0,12.76,1,4.0,net_banking,1,SAVE10,,1,No,Sunday
+CUST_97151,SESS_00762,2024-06-30,6,Q2,1,Desktop,Direct,Tier 2,Female,31.0,Sports,1,1,0,0,0,Cart_Dropped,3.0,50.42,14.4,8.0,4.04,1,2.0,debit_card,1,SAVE10,,1,No,Sunday
+CUST_79479,SESS_00395,2023-09-25,9,Q3,0,Tablet,Direct,Tier 2,Female,37.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,4.0,190.34,5.5,4.0,1.9,0,16.0,net_banking,0,,,0,No,Monday
+CUST_52027,SESS_00258,2023-06-30,6,Q2,0,Desktop,Organic,Tier 3,Female,30.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,29.21,27.9,16.0,0.43,0,0.0,upi,0,,,0,No,Friday
+CUST_39855,SESS_00839,2024-09-04,9,Q3,0,Desktop,Organic,Tier 1,Male,20.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,33.7,8.0,13.0,5.91,0,0.0,upi,0,,,0,No,Wednesday
+CUST_67053,SESS_00488,2023-11-30,11,Q4,0,Mobile,Organic,Tier 2,Female,29.0,Books,1,1,1,1,0,Payment_Dropped,4.0,25.83,13.2,4.0,3.07,1,4.0,upi,1,SALE20,1,1,No,Thursday
+CUST_49874,SESS_00263,2023-07-03,7,Q3,0,Desktop,Paid_Ad,Tier 2,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,99.58,18.6,11.0,2.28,1,9.0,upi,1,FLASH50,,0,No,Monday
+CUST_17005,SESS_00245,2023-06-26,6,Q2,0,Mobile,Organic,Tier 3,Female,29.0,Toys,1,1,0,0,0,Cart_Dropped,3.0,19.03,1.3,12.0,2.99,0,0.0,upi,0,,,0,No,Monday
+CUST_35682,SESS_00797,2024-07-27,7,Q3,1,Desktop,Paid_Ad,Tier 3,Female,36.0,Electronics,1,1,1,1,1,Completed_Purchase,2.0,116.56,2.3,8.0,2.22,0,1.0,debit_card,0,,0,0,No,Saturday
+CUST_24920,SESS_00883,2024-10-03,10,Q4,0,Mobile,Email,Tier 3,Female,27.0,Beauty,1,1,1,1,1,Completed_Purchase,1.0,206.88,5.9,9.0,2.64,1,5.0,debit_card,0,,0,0,No,Thursday
+CUST_81639,SESS_00669,2024-04-08,4,Q2,0,Desktop,Paid_Ad,Tier 1,Male,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,94.04,9.6,17.0,0.82,0,0.0,upi,1,SALE20,,1,Yes,Monday
+CUST_39339,SESS_00769,2024-07-03,7,Q3,0,Desktop,Direct,Tier 1,Female,31.0,Electronics,1,1,1,1,0,Payment_Dropped,5.0,219.9,22.5,16.0,6.12,0,14.0,net_banking,0,,1,0,No,Wednesday
+CUST_21289,SESS_00385,2023-09-20,9,Q3,0,Mobile,Paid_Ad,Tier 1,Female,35.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,166.49,11.6,14.0,1.25,1,6.0,cash_on_delivery,0,,,1,Yes,Wednesday
+CUST_57865,SESS_00266,2023-07-03,7,Q3,0,Desktop,Email,Tier 3,Male,32.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,13.13,9.6,19.0,4.42,1,12.0,net_banking,1,SALE20,,0,No,Monday
+CUST_23729,SESS_00118,2023-03-26,3,Q1,1,Mobile,Organic,Tier 1,Male,34.0,Beauty,1,0,0,0,0,Browsed_Only,3.0,272.67,8.1,12.0,16.42,nan,17.0,cash_on_delivery,1,SUMMER15,,0,No,Sunday
+CUST_69222,SESS_00268,2023-07-05,7,Q3,0,Tablet,Email,Tier 2,Male,28.0,Toys,1,0,0,0,0,Browsed_Only,1.0,87.88,7.6,12.0,2.41,0,12.0,net_banking,0,,,0,No,Wednesday
+CUST_99131,SESS_00573,2024-01-31,1,Q1,0,Mobile,Organic,Tier 3,Male,31.0,Books,1,0,0,0,0,Browsed_Only,6.0,60.71,17.5,5.0,1.75,0,0.0,upi,1,DIWALI30,,0,No,Wednesday
+CUST_64060,SESS_00827,2024-08-25,8,Q3,1,Mobile,Social,Tier 3,Male,42.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,164.14,1.8,14.0,0.61,1,13.0,credit_card,1,,,0,No,Sunday
+CUST_94424,SESS_00234,2023-06-17,6,Q2,1,Desktop,Email,Tier 1,Other,31.0,Fashion,1,1,1,1,0,Payment_Dropped,5.0,123.27,8.8,10.0,5.51,0,8.0,cash_on_delivery,0,,0,0,No,Saturday
+CUST_12814,SESS_00092,2023-03-11,3,Q1,1,Desktop,Paid_Ad,Tier 3,Male,29.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,146.49,5.1,9.0,12.46,0,17.0,credit_card,0,,,0,No,Saturday
+CUST_55278,SESS_00287,2023-07-19,7,Q3,0,Desktop,Email,Tier 1,Female,26.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,91.74,6.0,5.0,2.97,0,11.0,credit_card,0,,,1,No,Wednesday
+CUST_37983,SESS_00394,2023-09-24,9,Q3,1,Tablet,Paid_Ad,Tier 2,Male,21.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,91.67,5.5,13.0,1.23,0,16.0,upi,0,,,0,No,Sunday
+CUST_58846,SESS_00084,2023-03-01,3,Q1,0,Desktop,Social,Tier 1,Male,26.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,17.44,23.8,9.0,3.01,0,7.0,upi,0,,,0,No,Wednesday
+CUST_94540,SESS_00243,2023-06-25,6,Q2,1,Mobile,Email,Tier 1,Male,43.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,165.34,9.7,3.0,2.64,1,0.0,credit_card,0,,,0,No,Sunday
+CUST_32211,SESS_00908,2024-10-24,10,Q4,0,Desktop,Social,Tier 2,Male,32.0,Books,1,1,1,1,1,Completed_Purchase,2.0,14.3,10.7,2.0,1.87,1,12.0,cash_on_delivery,1,SAVE10,0,0,No,Thursday
+CUST_85646,SESS_00534,2024-01-03,1,Q1,0,Mobile,Paid_Ad,Tier 2,Female,31.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,84.9,7.8,14.0,0.64,1,1.0,upi,0,,,0,No,Wednesday
+CUST_26598,SESS_00997,2024-12-29,12,Q4,1,Desktop,Email,Tier 2,Female,31.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,23.73,8.5,1.0,1.97,0,0.0,credit_card,0,,,0,No,Sunday
+CUST_15791,SESS_00487,2023-11-29,11,Q4,0,Mobile,Social,Tier 3,Male,35.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,69.8,33.1,10.0,1.71,1,4.0,wallet,1,SALE20,,1,No,Wednesday
+CUST_32875,SESS_00683,2024-04-25,4,Q2,0,Desktop,Direct,Tier 2,Female,34.0,Sports,1,0,0,0,0,Browsed_Only,1.0,18.28,9.6,4.0,2.23,1,12.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_77984,SESS_00985,2024-12-19,12,Q4,0,Desktop,Direct,Tier 1,Male,21.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,85.67,3.0,10.0,1.02,1,7.0,upi,0,,,0,No,Thursday
+CUST_86895,SESS_00218,2023-06-07,6,Q2,0,Desktop,Organic,Tier 3,Female,35.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,103.03,1.9,18.0,5.7,0,0.0,wallet,1,DIWALI30,,0,No,Wednesday
+CUST_56697,SESS_00869,2024-09-23,9,Q3,0,Desktop,Paid_Ad,Tier 2,Female,22.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,371.47,8.0,9.0,0.77,1,12.0,upi,1,SAVE10,,0,No,Monday
+CUST_67630,SESS_00137,2023-04-09,4,Q2,1,Desktop,Organic,Tier 1,Male,27.0,Sports,1,1,1,1,1,Completed_Purchase,7.0,91.05,0.0,19.0,1.91,0,5.0,upi,1,DIWALI30,0,0,No,Sunday
+CUST_15943,SESS_00733,2024-06-09,6,Q2,1,Desktop,Paid_Ad,Tier 1,Female,26.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,20.94,17.0,2.0,1.24,0,1.0,net_banking,1,SUMMER15,,0,No,Sunday
+CUST_92493,SESS_00684,2024-04-29,4,Q2,0,Desktop,Social,Tier 3,Male,38.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,34.44,14.3,14.0,1.31,1,10.0,upi,1,SUMMER15,,0,No,Monday
+CUST_46595,SESS_00065,2023-02-13,2,Q1,0,Desktop,Referral,Tier 2,Male,32.0,Sports,1,0,0,0,0,Browsed_Only,1.0,19.16,11.7,11.0,8.36,0,1.0,upi,1,FLASH50,,0,No,Monday
+CUST_89081,SESS_00374,2023-09-14,9,Q3,0,Mobile,Organic,Tier 3,Female,40.0,Sports,1,0,0,0,0,Browsed_Only,7.0,76.07,9.6,10.0,2.64,1,5.0,wallet,1,SUMMER15,,0,No,Thursday
+CUST_77017,SESS_00792,2024-07-25,7,Q3,0,Desktop,Organic,Tier 3,Male,20.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,76.07,15.1,15.0,7.23,1,1.0,net_banking,0,,,0,No,Thursday
+CUST_84445,SESS_00711,2024-05-25,5,Q2,1,Mobile,Referral,Tier 1,Male,32.0,Fashion,1,1,1,1,1,Completed_Purchase,7.0,519.62,3.7,12.0,1.86,1,4.0,credit_card,1,WELCOME,0,0,No,Saturday
+CUST_48127,SESS_00713,2024-05-26,5,Q2,1,Mobile,Organic,Tier 3,Female,32.0,Electronics,1,1,1,1,0,Payment_Dropped,2.0,20.57,10.7,7.0,5.15,1,17.0,upi,0,,1,0,No,Sunday
+CUST_78875,SESS_00037,2023-01-23,1,Q1,0,Desktop,Organic,Tier 2,Female,44.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,28.05,4.1,16.0,2.58,0,0.0,net_banking,1,SALE20,,0,No,Monday
+CUST_42372,SESS_00661,2024-03-30,3,Q1,1,Desktop,Referral,Tier 2,Female,31.0,Beauty,1,1,1,1,0,Payment_Dropped,7.0,290.88,9.6,9.0,5.99,0,0.0,debit_card,0,,1,1,No,Saturday
+CUST_92427,SESS_00476,2023-11-21,11,Q4,0,Desktop,Paid_Ad,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,5.0,37.59,6.2,18.0,2.78,1,7.0,credit_card,0,,,1,No,Tuesday
+CUST_92643,SESS_00527,2023-12-29,12,Q4,0,Desktop,Email,Tier 2,Female,20.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,24.77,16.7,18.0,0.67,0,0.0,debit_card,1,DIWALI30,0,0,No,Friday
+CUST_81620,SESS_00409,2023-10-03,10,Q4,0,Desktop,Social,Tier 2,Female,55.0,Sports,1,1,0,0,0,Cart_Dropped,5.0,78.69,1.9,19.0,1.48,1,5.0,net_banking,0,,,1,No,Tuesday
+CUST_27496,SESS_00376,2023-09-14,9,Q3,0,Mobile,Organic,Tier 1,Female,44.0,Fashion,1,1,1,1,0,Payment_Dropped,7.0,44.74,9.1,16.0,1.24,1,11.0,net_banking,1,SAVE10,1,0,No,Thursday
+CUST_61568,SESS_00100,2023-03-16,3,Q1,0,Desktop,Organic,Tier 2,Male,31.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,92.7,0.8,9.0,2.43,1,8.0,net_banking,0,,,0,No,Thursday
+CUST_33064,SESS_00162,2023-04-30,4,Q2,1,Desktop,Direct,Tier 3,Female,27.0,Fashion,1,1,1,0,0,Checkout_Dropped,1.0,24.98,7.1,17.0,1.64,1,6.0,debit_card,0,WELCOME,,0,No,Sunday
+CUST_12786,SESS_00328,2023-08-13,8,Q3,1,Desktop,Social,Tier 1,Female,25.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,58.95,21.9,13.0,1.48,1,8.0,upi,0,,,0,No,Sunday
+CUST_32546,SESS_00719,2024-05-29,5,Q2,0,Tablet,Paid_Ad,Tier 2,Female,25.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,2.0,385.26,11.4,9.0,2.29,1,3.0,debit_card,1,DIWALI30,,0,No,Wednesday
+CUST_36668,SESS_00453,2023-11-04,11,Q4,1,Desktop,Email,Tier 2,Female,27.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,117.28,8.7,11.0,3.11,1,9.0,debit_card,1,DIWALI30,,0,No,Saturday
+CUST_20998,SESS_00794,2024-07-25,7,Q3,0,Desktop,Organic,Tier 2,Male,41.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,23.16,10.4,3.0,1.64,0,0.0,debit_card,0,,,0,No,Thursday
+CUST_90606,SESS_00455,2023-11-05,11,Q4,1,Mobile,Organic,Tier 2,Female,18.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,212.22,5.3,8.0,5.77,0,9.0,upi,1,,,0,No,Sunday
+CUST_97611,SESS_00832,2024-08-28,8,Q3,0,Mobile,Organic,Tier 1,Male,39.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,50.88,15.2,12.0,2.31,0,14.0,upi,1,FLASH50,,0,No,Wednesday
+CUST_97697,SESS_00596,2024-02-15,2,Q1,0,Desktop,Paid_Ad,Tier 2,Male,15.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,250.41,9.4,10.0,1.37,1,1.0,upi,0,,,0,No,Thursday
+CUST_70587,SESS_00295,2023-07-24,7,Q3,0,Mobile,Email,Tier 1,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,127.04,16.4,4.0,3.43,1,9.0,credit_card,0,,,1,No,Monday
+CUST_53993,SESS_00116,2023-03-25,3,Q1,1,Tablet,Social,Tier 1,Male,26.0,Electronics,1,0,0,0,0,Browsed_Only,2.0,84.68,6.2,5.0,4.64,1,9.0,credit_card,0,,,0,No,Saturday
+CUST_33777,SESS_00155,2023-04-26,4,Q2,0,Mobile,Direct,Tier 2,Female,31.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,44.11,12.5,4.0,3.76,0,0.0,nan,1,,,0,No,Wednesday
+CUST_20054,SESS_00158,2023-04-27,4,Q2,0,Mobile,Email,Tier 1,Female,27.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,103.14,2.4,7.0,1.33,1,10.0,upi,0,,,0,No,Thursday
+CUST_89392,SESS_00920,2024-11-04,11,Q4,0,Mobile,Email,Tier 3,Female,31.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,48.45,19.6,1.0,2.64,1,7.0,credit_card,0,,,0,No,Monday
+CUST_67219,SESS_00558,2024-01-22,1,Q1,0,Mobile,Organic,Tier 1,Male,37.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,62.97,20.1,12.0,2.64,1,16.0,credit_card,1,DIWALI30,,1,No,Monday
+CUST_37258,SESS_00930,2024-11-11,11,Q4,0,Mobile,Social,Tier 1,Male,23.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,5.0,26.81,17.8,13.0,1.92,0,0.0,credit_card,0,,,0,No,Monday
+CUST_25044,SESS_00836,2024-08-30,8,Q3,0,Desktop,Organic,Tier 3,Female,34.0,Books,1,0,0,0,0,Browsed_Only,6.0,13.48,3.7,12.0,1.59,0,0.0,credit_card,1,FLASH50,,0,No,Friday
+CUST_35491,SESS_00559,2024-01-22,1,Q1,0,Mobile,Direct,Tier 2,Female,34.0,Beauty,1,1,1,1,1,Completed_Purchase,4.0,10000.0,16.3,13.0,2.64,1,11.0,credit_card,1,FLASH50,0,0,No,Monday
+CUST_91729,SESS_00821,2024-08-17,8,Q3,1,Desktop,Direct,Tier 1,Female,34.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,12.2,7.3,7.0,2.45,0,11.0,debit_card,0,,,0,No,Saturday
+CUST_70606,SESS_00023,2023-01-16,1,Q1,0,Desktop,Email,Tier 3,Female,32.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,19.03,1.4,1.0,4.32,0,0.0,upi,1,SAVE10,0,0,No,Monday
+CUST_21877,SESS_00047,2023-09-14,9,Q1,0,Desktop,Social,Tier 3,Male,30.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,27.68,5.2,9.0,3.53,1,16.0,net_banking,1,SAVE10,,0,No,Thursday
+CUST_73728,SESS_00304,2023-07-28,7,Q3,0,Desktop,Organic,Tier 3,Female,42.0,Beauty,1,1,1,0,0,Checkout_Dropped,5.0,175.58,11.5,14.0,14.84,1,6.0,net_banking,0,,,1,No,Friday
+CUST_29438,SESS_00387,2023-09-20,9,Q3,0,Mobile,Organic,Tier 2,Male,22.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,46.61,8.7,17.0,2.64,1,10.0,net_banking,0,,,0,No,Wednesday
+CUST_26047,SESS_00088,2023-03-07,3,Q1,0,Desktop,Direct,Tier 2,Female,17.0,Electronics,1,1,1,0,0,Checkout_Dropped,5.0,97.86,11.2,11.0,0.42,1,4.0,net_banking,0,,,1,No,Tuesday
+CUST_27555,SESS_00208,2023-05-31,5,Q2,0,Tablet,Organic,Tier 2,Male,43.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,48.83,9.2,10.0,2.1,1,12.0,wallet,0,,,1,No,Wednesday
+CUST_32065,SESS_00737,2024-06-15,6,Q2,1,Desktop,Referral,Tier 1,Female,32.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,150.21,20.6,4.0,1.89,1,12.0,upi,0,,,1,No,Saturday
+CUST_75978,SESS_00708,2024-05-23,5,Q2,0,Desktop,Organic,Tier 2,Male,31.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,84.02,4.9,3.0,2.87,0,0.0,credit_card,0,,,1,No,Thursday
+CUST_18178,SESS_00659,2024-03-29,3,Q1,0,Mobile,Paid_Ad,Tier 1,Male,31.0,Sports,1,1,1,1,0,Payment_Dropped,1.0,299.53,10.3,6.0,2.64,0,0.0,cash_on_delivery,0,,0,1,Yes,Friday
+CUST_50700,SESS_00000,2023-09-14,9,Q1,1,Tablet,Direct,Tier 2,Female,23.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,39.91,6.9,13.0,1.71,0,11.0,upi,0,,,0,No,Thursday
+CUST_48612,SESS_00128,2023-04-01,4,Q2,1,Mobile,Paid_Ad,Tier 2,Female,31.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,114.76,3.3,15.0,1.68,0,5.0,upi,0,,,1,No,Saturday
+CUST_72833,SESS_00731,2024-06-08,6,Q2,1,Tablet,Organic,Tier 2,Female,20.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,15.37,9.7,2.0,1.47,1,3.0,wallet,0,,0,0,No,Saturday
+CUST_49423,SESS_00973,2024-12-11,12,Q4,0,Mobile,Organic,Tier 2,Male,20.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,56.22,23.3,19.0,9.95,0,0.0,credit_card,0,,,0,No,Wednesday
+CUST_78512,SESS_00538,2024-01-07,1,Q1,1,Desktop,Organic,Tier 2,Male,35.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,4.0,85.18,26.0,5.0,1.71,0,2.0,net_banking,0,,0,0,No,Sunday
+CUST_58649,SESS_00010,2023-01-05,1,Q1,0,Mobile,Direct,Tier 1,Male,32.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,56.76,11.8,2.0,2.83,1,0.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_54976,SESS_00660,2024-03-30,3,Q1,1,Mobile,Paid_Ad,Tier 2,Male,32.0,Books,1,1,0,0,0,Cart_Dropped,3.0,164.98,7.7,8.0,2.64,0,7.0,debit_card,0,,,1,No,Saturday
+CUST_39475,SESS_00555,2024-01-20,1,Q1,1,Mobile,Referral,Tier 1,Female,20.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,25.32,10.9,8.0,2.64,1,11.0,wallet,1,DIWALI30,0,0,No,Saturday
+CUST_98655,SESS_00959,2024-11-30,11,Q4,1,Desktop,Organic,Tier 1,Female,32.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,27.65,8.2,11.0,3.65,0,2.0,debit_card,1,SALE20,,1,No,Saturday
+CUST_26856,SESS_00415,2023-10-08,10,Q4,1,Desktop,Email,Tier 3,Female,40.0,Books,1,1,1,0,0,Checkout_Dropped,7.0,0.0,24.2,15.0,0.51,1,9.0,cash_on_delivery,1,SAVE10,,1,Yes,Sunday
+CUST_30539,SESS_00807,2024-08-03,8,Q3,1,Mobile,Organic,Tier 1,Other,30.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,119.76,2.6,19.0,2.54,1,10.0,wallet,1,WELCOME,,1,No,Saturday
+CUST_87066,SESS_00306,2023-07-28,7,Q3,0,Mobile,Paid_Ad,Tier 2,Female,37.0,Beauty,1,1,0,0,0,Cart_Dropped,7.0,76.07,12.3,16.0,2.64,1,12.0,debit_card,0,,,0,No,Friday
+CUST_76541,SESS_00934,2024-11-13,11,Q4,0,Desktop,Social,Tier 3,Female,29.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,205.61,6.5,8.0,2.75,0,14.0,wallet,1,SAVE10,,0,No,Wednesday
+CUST_93939,SESS_00077,2023-02-24,2,Q1,0,Mobile,Paid_Ad,Tier 2,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,73.03,7.5,4.0,2.64,0,17.0,net_banking,1,WELCOME,,0,No,Friday
+CUST_50404,SESS_00652,2024-03-24,3,Q1,1,Desktop,Email,Tier 3,Male,30.0,Sports,1,1,1,0,0,Checkout_Dropped,5.0,58.14,6.0,2.0,6.42,0,10.0,credit_card,1,SAVE10,,0,No,Sunday
+CUST_28182,SESS_00119,2023-03-26,3,Q1,1,Mobile,Paid_Ad,Tier 1,Male,34.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,76.07,30.1,6.0,2.64,1,1.0,upi,1,,,0,No,Sunday
+CUST_21460,SESS_00424,2023-10-20,10,Q4,0,Mobile,Organic,Tier 2,Male,40.0,Fashion,1,1,1,0,0,Checkout_Dropped,2.0,62.92,3.6,10.0,0.76,0,0.0,upi,0,,,0,No,Friday
+CUST_60519,SESS_00252,2023-06-27,6,Q2,0,Desktop,Email,Tier 2,Male,21.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,62.3,10.7,14.0,6.95,1,11.0,net_banking,0,,,1,No,Tuesday
+CUST_60964,SESS_00163,2023-05-01,5,Q2,0,Desktop,Organic,Tier 1,Female,34.0,Fashion,1,1,1,0,0,Checkout_Dropped,2.0,56.18,7.9,4.0,0.63,0,14.0,net_banking,0,,,1,No,Monday
+CUST_50922,SESS_00271,2023-07-08,7,Q3,1,Mobile,Organic,Tier 2,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,57.25,9.7,12.0,4.79,1,0.0,upi,1,SAVE10,,1,,Saturday
+CUST_47282,SESS_00826,2024-08-23,8,Q3,0,Mobile,Organic,Tier 2,Female,31.0,Electronics,1,1,1,1,1,Completed_Purchase,7.0,35.95,3.2,3.0,2.64,1,16.0,net_banking,1,,0,0,No,Friday
+CUST_80364,SESS_00567,2024-01-27,1,Q1,1,Desktop,Paid_Ad,Tier 1,Male,31.0,Toys,1,1,1,1,0,Payment_Dropped,6.0,19.8,4.5,4.0,2.45,0,0.0,upi,1,WELCOME,1,1,No,Saturday
+CUST_44774,SESS_00198,2023-05-20,5,Q2,1,Mobile,Paid_Ad,Tier 2,Male,54.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,7.0,197.66,4.2,1.0,2.64,0,0.0,upi,0,,,0,No,Saturday
+CUST_84656,SESS_00581,2024-02-07,2,Q1,0,Desktop,Paid_Ad,Tier 2,Female,22.0,Fashion,1,1,1,0,0,Checkout_Dropped,7.0,53.61,26.4,10.0,1.53,1,2.0,credit_card,0,,,0,No,Wednesday
+CUST_67700,SESS_00680,2024-04-18,4,Q2,0,Mobile,Paid_Ad,Tier 2,Male,30.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,100.63,14.1,12.0,2.01,1,4.0,debit_card,0,,,0,No,Thursday
+CUST_59192,SESS_00174,2023-05-10,5,Q2,0,Mobile,Referral,Tier 1,Male,27.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,520.75,3.8,9.0,2.64,1,11.0,upi,0,,,0,No,Wednesday
+CUST_83871,SESS_00605,2024-02-23,2,Q1,0,Desktop,Paid_Ad,Tier 1,Female,27.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,60.74,14.2,18.0,5.84,1,7.0,upi,0,,,1,No,Friday
+CUST_81190,SESS_00999,2024-12-30,12,Q4,0,Mobile,Email,Tier 2,Female,31.0,Books,1,1,0,0,0,Cart_Dropped,1.0,14.99,11.8,4.0,8.98,0,0.0,net_banking,0,,,1,No,Monday
+CUST_80143,SESS_00767,2024-07-01,7,Q3,0,Mobile,Email,Tier 1,Male,11.0,Sports,1,0,0,0,0,Browsed_Only,3.0,153.14,11.5,10.0,3.7,1,9.0,upi,1,WELCOME,,0,No,Monday
+CUST_17496,SESS_00164,2023-05-02,5,Q2,0,Mobile,Email,Tier 2,Male,32.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,22.57,12.8,8.0,8.56,0,0.0,credit_card,1,DIWALI30,,1,No,Tuesday
+CUST_37432,SESS_00319,2023-08-10,8,Q3,0,Desktop,Social,Tier 3,Male,26.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,220.53,6.7,10.0,2.96,0,0.0,net_banking,1,,,0,No,Thursday
+CUST_71266,SESS_00353,2023-08-29,8,Q3,0,Mobile,Paid_Ad,Tier 3,Female,42.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,14.33,14.9,1.0,2.64,1,5.0,debit_card,1,DIWALI30,,0,No,Tuesday
+CUST_55231,SESS_00757,2024-06-28,6,Q2,0,Desktop,Referral,Tier 3,Male,31.0,Electronics,1,1,1,1,0,Payment_Dropped,5.0,51.35,4.3,2.0,3.73,1,3.0,cash_on_delivery,1,FLASH50,0,0,No,Friday
+CUST_24692,SESS_00610,2024-02-27,2,Q1,0,Desktop,Organic,Tier 2,Female,27.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,44.55,8.7,17.0,2.7,1,6.0,upi,0,,,0,No,Tuesday
+CUST_12619,SESS_00954,2024-11-25,11,Q4,0,Mobile,Direct,Tier 3,Female,36.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,67.69,7.0,14.0,4.09,0,15.0,nan,0,,,0,No,Monday
+CUST_55451,SESS_00778,2024-07-15,7,Q3,0,Desktop,Email,Tier 2,Female,44.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,3.0,173.45,9.6,2.0,0.47,1,13.0,net_banking,1,SALE20,,0,No,Monday
+CUST_95470,SESS_00589,2024-02-13,2,Q1,0,Desktop,Referral,Tier 3,Male,33.0,Books,1,1,0,0,0,Cart_Dropped,6.0,28.63,28.4,15.0,0.68,0,9.0,credit_card,1,WELCOME,,1,No,Tuesday
+CUST_95011,SESS_00330,2023-08-16,8,Q3,0,Tablet,Paid_Ad,Tier 1,Female,42.0,Electronics,1,1,1,1,0,Payment_Dropped,3.0,197.71,14.2,13.0,6.17,1,9.0,debit_card,0,,1,1,Yes,Wednesday
+CUST_83250,SESS_00501,2023-12-11,12,Q4,0,Desktop,Social,Tier 3,Male,35.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,43.62,7.4,15.0,10.85,1,11.0,cash_on_delivery,1,SAVE10,,1,Yes,Monday
+CUST_28578,SESS_00307,2023-07-30,7,Q3,1,Tablet,Organic,Tier 3,Female,25.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,10000.0,15.0,18.0,1.48,0,1.0,cash_on_delivery,1,WELCOME,,0,No,Sunday
+CUST_25728,SESS_00903,2024-10-20,10,Q4,1,Mobile,Email,Tier 3,Male,34.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,88.29,5.9,6.0,0.68,0,0.0,wallet,0,,,1,No,Sunday
+CUST_68709,SESS_00952,2024-11-25,11,Q4,0,Mobile,Organic,Tier 3,Male,31.0,Electronics,1,1,1,1,0,Payment_Dropped,2.0,202.97,19.0,5.0,5.46,1,0.0,credit_card,0,,1,0,No,Monday
+CUST_43159,SESS_00853,2024-09-12,9,Q3,0,Mobile,Direct,Tier 2,Male,43.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,30.58,4.4,10.0,2.64,1,4.0,credit_card,0,,,0,No,Thursday
+CUST_64680,SESS_00546,2024-01-15,1,Q1,0,Mobile,Social,Tier 2,Male,23.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,56.81,10.1,7.0,2.72,nan,13.0,credit_card,0,,,0,No,Monday
+CUST_36120,SESS_00175,2023-05-11,5,Q2,0,Mobile,Email,Tier 3,Female,64.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,212.7,11.7,4.0,2.96,0,3.0,cash_on_delivery,1,SAVE10,0,0,No,Thursday
+CUST_66329,SESS_00772,2024-07-09,7,Q3,0,Tablet,Social,Tier 2,Male,26.0,Beauty,1,1,1,1,1,Completed_Purchase,2.0,220.91,6.2,9.0,5.26,1,9.0,cash_on_delivery,1,,0,0,No,Tuesday
+CUST_94931,SESS_00729,2024-06-07,6,Q2,0,Mobile,Social,Tier 3,Male,39.0,Sports,1,0,0,0,0,Browsed_Only,2.0,111.89,9.4,9.0,6.31,1,15.0,debit_card,1,SAVE10,,0,No,Friday
+CUST_86411,SESS_00635,2024-03-13,3,Q1,0,Mobile,Organic,Tier 2,Female,42.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,18.02,9.4,4.0,0.73,0,6.0,debit_card,0,,1,0,No,Wednesday
+CUST_75421,SESS_00117,2023-03-25,3,Q1,1,Tablet,Direct,Tier 1,Male,11.0,Electronics,1,1,1,1,1,Completed_Purchase,5.0,76.07,9.3,2.0,3.84,0,0.0,net_banking,1,WELCOME,0,0,No,Saturday
+CUST_32491,SESS_00400,2023-09-27,9,Q3,0,Desktop,Organic,Tier 2,Male,31.0,Books,1,1,0,0,0,Cart_Dropped,1.0,38.48,14.9,13.0,1.5,0,2.0,net_banking,0,,,1,No,Wednesday
+CUST_59366,SESS_00152,2023-04-23,4,Q2,1,Desktop,Organic,Tier 2,Female,34.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,18.19,5.9,10.0,0.36,1,9.0,upi,0,,,0,No,Sunday
+CUST_59020,SESS_00852,2024-09-12,9,Q3,0,Mobile,Direct,Tier 3,Female,33.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,104.07,10.9,18.0,2.64,1,7.0,upi,0,,0,0,No,Thursday
+CUST_50802,SESS_00494,2023-12-04,12,Q4,0,Tablet,Social,Tier 2,Male,19.0,Books,1,1,1,0,0,Checkout_Dropped,4.0,174.15,5.9,12.0,1.54,1,5.0,upi,0,,,1,Yes,Monday
+CUST_88897,SESS_00075,2023-02-21,2,Q1,0,Mobile,Paid_Ad,Tier 1,Female,19.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,66.74,16.2,17.0,4.28,1,17.0,wallet,0,,,0,No,Tuesday
+CUST_82374,SESS_00360,2023-09-05,9,Q3,0,Mobile,Social,Tier 3,Male,39.0,Fashion,1,0,0,0,0,Browsed_Only,4.0,280.36,20.2,9.0,3.35,1,8.0,credit_card,0,,,0,No,Tuesday
+CUST_80398,SESS_00921,2024-11-04,11,Q4,0,Mobile,Organic,Tier 3,Female,23.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,58.61,10.3,11.0,2.64,1,17.0,cash_on_delivery,0,,,1,No,Monday
+CUST_45289,SESS_00717,2024-05-28,5,Q2,0,Desktop,Paid_Ad,Tier 2,Female,41.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,161.46,9.3,15.0,2.29,1,10.0,upi,0,,,0,No,Tuesday
+CUST_49481,SESS_00022,2023-01-16,1,Q1,0,Mobile,Organic,Tier 3,Male,42.0,Books,1,1,0,0,0,Cart_Dropped,6.0,34.79,9.2,14.0,4.51,1,16.0,debit_card,0,,,0,No,Monday
+CUST_43645,SESS_00349,2023-08-27,8,Q3,1,Tablet,Paid_Ad,Tier 2,Male,33.0,Beauty,1,1,1,1,1,Completed_Purchase,4.0,80.45,13.9,19.0,7.19,0,6.0,credit_card,0,,0,0,No,Sunday
+CUST_57788,SESS_00926,2024-11-09,11,Q4,1,Desktop,Organic,Tier 2,Female,24.0,Sports,1,0,0,0,0,Browsed_Only,3.0,29.95,9.4,4.0,4.83,0,3.0,upi,0,,,0,No,Saturday
+CUST_26405,SESS_00899,2024-10-17,10,Q4,0,Desktop,Paid_Ad,Tier 3,Male,40.0,Electronics,1,1,0,0,0,Cart_Dropped,7.0,122.16,5.3,18.0,1.33,1,13.0,upi,1,,,1,No,Thursday
+CUST_16272,SESS_00776,2024-07-12,7,Q3,0,Mobile,Paid_Ad,Tier 2,Female,46.0,Electronics,1,1,1,1,0,Payment_Dropped,5.0,215.63,3.3,3.0,0.08,1,5.0,cash_on_delivery,1,DIWALI30,1,0,No,Friday
+CUST_96782,SESS_00312,2023-08-02,8,Q3,0,Mobile,Paid_Ad,Tier 2,Other,42.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,76.07,8.6,14.0,3.56,0,10.0,upi,1,SALE20,,0,No,Wednesday
+CUST_43204,SESS_00751,2024-06-25,6,Q2,0,Desktop,Paid_Ad,Tier 1,Male,13.0,Beauty,1,0,0,0,0,Browsed_Only,6.0,244.21,13.5,18.0,2.25,1,12.0,cash_on_delivery,0,,,0,No,Tuesday
+CUST_29214,SESS_00838,2024-09-01,9,Q3,1,Mobile,Email,Tier 1,Male,39.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,107.91,5.7,10.0,2.64,1,13.0,upi,1,FLASH50,0,0,No,Sunday
+CUST_29087,SESS_00104,2023-03-17,3,Q1,0,Desktop,Organic,Tier 3,Male,30.0,Fashion,1,1,0,0,0,Cart_Dropped,2.0,97.31,3.7,16.0,7.12,1,17.0,cash_on_delivery,1,DIWALI30,,1,Yes,Friday
+CUST_58684,SESS_00085,2023-03-04,3,Q1,1,Desktop,Referral,Tier 3,Male,37.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,76.07,5.7,9.0,0.87,1,17.0,credit_card,1,DIWALI30,,0,No,Saturday
+CUST_80584,SESS_00599,2024-02-18,2,Q1,1,Tablet,Organic,Tier 3,Female,36.0,Toys,1,1,0,0,0,Cart_Dropped,2.0,76.07,2.1,18.0,1.78,1,12.0,debit_card,1,SALE20,,1,No,Sunday
+CUST_47451,SESS_00949,2023-09-14,9,Q4,1,Desktop,Direct,Tier 2,Male,42.0,Beauty,1,0,0,0,0,Browsed_Only,1.0,26.0,14.8,11.0,0.97,0,0.0,credit_card,1,DIWALI30,,0,No,Thursday
+CUST_78197,SESS_00373,2023-09-14,9,Q3,0,Mobile,Social,Tier 1,Female,31.0,Beauty,1,1,1,1,1,Completed_Purchase,6.0,95.53,7.7,2.0,2.64,0,4.0,credit_card,0,,0,0,No,Thursday
+CUST_13180,SESS_00497,2023-12-09,12,Q4,1,Desktop,Email,Tier 2,Male,30.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,41.85,3.3,12.0,2.53,0,10.0,upi,0,DIWALI30,,0,No,Saturday
+CUST_92288,SESS_00405,2023-09-29,9,Q3,0,Desktop,Direct,Tier 3,Male,36.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,83.96,3.2,15.0,2.93,0,13.0,upi,1,DIWALI30,,0,No,Friday
+CUST_88091,SESS_00302,2023-07-27,7,Q3,0,Desktop,Email,Tier 3,Male,31.0,Sports,1,1,1,1,0,Payment_Dropped,1.0,374.48,7.1,6.0,4.77,0,0.0,upi,0,,1,0,No,Thursday
+CUST_98818,SESS_00730,2023-09-14,9,Q2,0,Mobile,Referral,Tier 2,Female,17.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,73.67,2.9,10.0,6.02,1,13.0,cash_on_delivery,1,,,1,No,Thursday
+CUST_33064,SESS_00638,2024-03-16,3,Q1,1,Desktop,Organic,Tier 1,Male,23.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,63.34,16.8,12.0,3.88,1,10.0,wallet,1,SAVE10,,0,No,Saturday
+CUST_44728,SESS_00866,2024-09-19,9,Q3,0,Desktop,Organic,Tier 1,Male,34.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,80.37,13.3,1.0,6.84,0,1.0,wallet,0,,,1,No,Thursday
+CUST_40783,SESS_00329,2023-09-14,9,Q3,0,Desktop,Email,Tier 2,Other,48.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,4.0,91.08,4.2,16.0,4.47,1,11.0,net_banking,1,SAVE10,1,1,No,Thursday
+CUST_56938,SESS_00083,2023-02-28,2,Q1,0,Tablet,Social,Tier 2,Female,38.0,Beauty,1,0,0,0,0,Browsed_Only,3.0,81.99,22.1,10.0,4.59,1,3.0,upi,0,,,0,No,Tuesday
+CUST_61437,SESS_00231,2023-06-15,6,Q2,0,Mobile,Paid_Ad,Tier 2,Female,26.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,105.36,14.4,15.0,2.64,0,0.0,credit_card,1,FLASH50,,0,No,Thursday
+CUST_30279,SESS_00127,2023-04-01,4,Q2,1,Mobile,Referral,Tier 2,Male,33.0,Electronics,1,1,1,1,0,Payment_Dropped,3.0,76.07,2.5,18.0,8.1,1,13.0,upi,0,,0,1,No,Saturday
+CUST_77757,SESS_00615,2024-03-02,3,Q1,1,Mobile,Organic,Tier 3,Female,33.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,7.0,76.07,11.1,5.0,10.35,0,0.0,nan,1,WELCOME,,1,No,Saturday
+CUST_58636,SESS_00057,2023-02-07,2,Q1,0,Mobile,Paid_Ad,Tier 1,Female,3.0,Toys,1,1,0,0,0,Cart_Dropped,7.0,76.07,10.9,13.0,2.64,1,11.0,credit_card,0,,,0,No,Tuesday
+CUST_39320,SESS_00067,2023-02-14,2,Q1,0,Mobile,Paid_Ad,Tier 1,Male,27.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,1.0,186.99,12.3,7.0,0.66,0,8.0,credit_card,0,,1,0,No,Tuesday
+CUST_41360,SESS_00270,2023-07-07,7,Q3,0,Desktop,Referral,Tier 2,Other,31.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,138.39,17.5,16.0,3.87,1,5.0,cash_on_delivery,0,,,1,No,Friday
+CUST_25643,SESS_00443,2023-10-30,10,Q4,0,Mobile,Social,Tier 2,Male,25.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,41.5,18.0,5.0,3.42,1,13.0,credit_card,0,,1,1,No,Monday
+CUST_60173,SESS_00001,2023-01-01,1,Q1,1,Mobile,Paid_Ad,Tier 3,Female,31.0,Toys,1,1,1,0,0,Checkout_Dropped,2.0,40.4,14.2,12.0,1.98,1,13.0,upi,1,SALE20,,1,Yes,Sunday
+CUST_13783,SESS_00849,2024-09-11,9,Q3,0,Mobile,Email,Tier 2,Female,28.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,113.91,10.0,4.0,3.22,0,12.0,upi,0,,,1,No,Wednesday
+CUST_42527,SESS_00998,2024-12-30,12,Q4,0,Mobile,Paid_Ad,Tier 2,Female,34.0,Fashion,1,1,0,0,0,Cart_Dropped,3.0,85.26,17.2,1.0,2.64,0,0.0,credit_card,1,SUMMER15,,1,Yes,Monday
+CUST_39490,SESS_00698,2024-05-10,5,Q2,0,Desktop,Email,Tier 3,Male,43.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,17.58,3.1,6.0,1.59,0,2.0,upi,1,SAVE10,,0,No,Friday
+CUST_71988,SESS_00544,2024-01-14,1,Q1,1,Desktop,Email,Tier 1,Female,38.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,150.4,22.1,10.0,0.94,0,10.0,credit_card,1,,,1,No,Sunday
+CUST_24439,SESS_00282,2023-09-14,9,Q3,0,Desktop,Organic,Tier 3,Female,42.0,Sports,1,1,0,0,0,Cart_Dropped,3.0,65.55,7.6,15.0,9.57,0,0.0,upi,1,SAVE10,,0,No,Thursday
+CUST_73969,SESS_00935,2024-11-13,11,Q4,0,Mobile,Organic,Tier 1,Female,45.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,81.46,14.2,2.0,1.01,1,9.0,credit_card,0,,,0,No,Wednesday
+CUST_65329,SESS_00658,2023-09-14,9,Q1,0,Desktop,Organic,Tier 3,Male,29.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,76.07,1.5,3.0,2.0,0,0.0,upi,0,,,0,No,Thursday
+CUST_90212,SESS_00233,2023-06-17,6,Q2,1,Tablet,Paid_Ad,Tier 2,Female,32.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,35.56,15.5,14.0,2.54,0,0.0,wallet,0,,,0,No,Saturday
+CUST_16749,SESS_00915,2024-11-01,11,Q4,0,Desktop,Email,Tier 3,Female,24.0,Beauty,1,1,1,1,1,Completed_Purchase,7.0,82.87,7.9,9.0,5.34,0,0.0,net_banking,1,,0,0,No,Friday
+CUST_86884,SESS_00249,2023-06-27,6,Q2,0,Desktop,Paid_Ad,Tier 1,Male,42.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,3.0,76.07,3.4,16.0,1.39,0,0.0,credit_card,0,FLASH50,0,0,No,Tuesday
+CUST_10396,SESS_00608,2024-02-24,2,Q1,1,Desktop,Paid_Ad,Tier 2,Male,27.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,140.52,12.4,15.0,5.75,0,0.0,credit_card,0,,,1,No,Saturday
+CUST_24596,SESS_00811,2024-08-09,8,Q3,0,Desktop,Direct,Tier 1,Male,28.0,Sports,1,1,0,0,0,Cart_Dropped,1.0,47.45,5.3,15.0,4.96,1,6.0,net_banking,0,,,0,No,Friday
+CUST_87000,SESS_00508,2023-12-16,12,Q4,1,Desktop,Organic,Tier 2,Male,30.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,178.91,4.9,7.0,1.39,1,0.0,upi,1,DIWALI30,,0,No,Saturday
+CUST_27800,SESS_00230,2023-06-15,6,Q2,0,Desktop,Email,Tier 1,Male,33.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,32.2,16.8,12.0,2.6,1,10.0,credit_card,1,DIWALI30,,1,No,Thursday
+CUST_96035,SESS_00456,2023-11-07,11,Q4,0,Mobile,Social,Tier 3,Male,27.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,381.57,10.7,3.0,2.64,0,0.0,upi,1,DIWALI30,,0,No,Tuesday
+CUST_10950,SESS_00530,2023-12-30,12,Q4,1,Mobile,Social,Tier 1,Female,24.0,Toys,1,0,0,0,0,Browsed_Only,5.0,93.51,16.0,4.0,2.64,0,3.0,credit_card,0,,,0,No,Saturday
+CUST_23494,SESS_00090,2023-03-09,3,Q1,0,Desktop,Organic,Tier 3,Female,40.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,279.65,10.2,7.0,3.0,1,11.0,credit_card,1,,,0,No,Thursday
+CUST_46463,SESS_00571,2024-01-29,1,Q1,0,Mobile,Social,Tier 1,Female,38.0,Sports,1,1,1,1,1,Completed_Purchase,2.0,23.37,32.1,10.0,5.21,1,10.0,upi,0,,0,0,No,Monday
+CUST_10417,SESS_00055,2023-02-05,2,Q1,1,Mobile,Organic,Tier 3,Female,39.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,26.24,12.1,8.0,2.64,0,15.0,upi,0,,,0,No,Sunday
+CUST_69041,SESS_00469,2023-11-15,11,Q4,0,Desktop,Paid_Ad,Tier 2,Female,18.0,Home & Kitchen,1,1,1,1,1,Completed_Purchase,1.0,180.23,11.6,1.0,1.73,0,12.0,upi,0,,0,0,No,Wednesday
+CUST_49069,SESS_00871,2024-09-24,9,Q3,0,Mobile,Paid_Ad,Tier 2,Female,34.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,39.73,3.7,17.0,1.51,1,15.0,wallet,0,SALE20,,0,No,Tuesday
+CUST_33116,SESS_00309,2023-08-01,8,Q3,0,Mobile,Email,Tier 3,Male,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,56.28,1.6,16.0,7.34,0,0.0,credit_card,1,WELCOME,,1,No,Tuesday
+CUST_51896,SESS_00929,2024-11-11,11,Q4,0,Desktop,Direct,Tier 1,Male,26.0,Sports,1,1,1,1,1,Completed_Purchase,1.0,195.22,9.6,16.0,6.96,1,4.0,cash_on_delivery,0,,0,0,No,Monday
+CUST_22544,SESS_00480,2023-11-24,11,Q4,0,Tablet,Organic,Tier 2,Male,42.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,65.94,2.3,12.0,6.44,0,14.0,upi,1,,,0,No,Friday
+CUST_11924,SESS_00257,2023-06-30,6,Q2,0,Mobile,Social,Tier 1,Male,42.0,Electronics,1,1,1,1,0,Payment_Dropped,6.0,187.18,5.9,19.0,5.53,1,14.0,upi,0,,1,1,No,Friday
+CUST_38186,SESS_00120,2023-03-27,3,Q1,0,Tablet,Organic,Tier 1,Other,42.0,Electronics,1,1,1,1,1,Completed_Purchase,3.0,31.36,1.2,15.0,4.35,1,14.0,wallet,0,,0,0,No,Monday
+CUST_23997,SESS_00705,2023-09-14,9,Q2,0,Desktop,Direct,Tier 1,Female,28.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,91.78,6.0,5.0,5.19,0,0.0,upi,0,SALE20,,1,Yes,Thursday
+CUST_36990,SESS_00220,2023-06-11,6,Q2,1,Mobile,Social,Tier 1,Male,32.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,60.56,10.2,14.0,2.64,1,5.0,credit_card,1,DIWALI30,0,0,No,Sunday
+CUST_57742,SESS_00989,2024-12-21,12,Q4,1,Tablet,Email,Tier 2,Male,24.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,111.27,6.6,16.0,3.62,nan,2.0,upi,0,,0,0,No,Saturday
+CUST_29211,SESS_00944,2024-11-20,11,Q4,0,Mobile,Social,Tier 1,Other,31.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,95.85,8.0,6.0,0.67,1,6.0,credit_card,0,,,0,No,Wednesday
+CUST_22617,SESS_00761,2024-06-30,6,Q2,1,Mobile,Paid_Ad,Tier 2,Male,35.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,97.12,2.1,15.0,2.64,0,9.0,cash_on_delivery,1,SUMMER15,,0,No,Sunday
+CUST_79762,SESS_00466,2023-11-14,11,Q4,0,Mobile,Paid_Ad,Tier 2,Female,25.0,Electronics,1,0,0,0,0,Browsed_Only,3.0,61.38,14.6,16.0,3.51,0,0.0,upi,1,SUMMER15,,0,No,Tuesday
+CUST_62495,SESS_00672,2024-04-13,4,Q2,1,Mobile,Paid_Ad,Tier 2,Male,28.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,37.21,0.0,15.0,2.1,0,12.0,upi,0,,,0,No,Saturday
+CUST_39716,SESS_00157,2023-04-27,4,Q2,0,Mobile,Paid_Ad,Tier 2,Female,43.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,56.79,7.1,18.0,3.59,0,6.0,net_banking,1,SUMMER15,,0,No,Thursday
+CUST_79496,SESS_00893,2023-09-14,9,Q4,0,Tablet,Paid_Ad,Tier 1,Female,38.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,38.05,20.4,18.0,3.91,1,1.0,debit_card,1,SUMMER15,,1,Yes,Thursday
+CUST_10004,SESS_00005,2023-01-04,1,Q1,0,Desktop,Email,Tier 1,Female,33.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,27.76,6.6,2.0,1.38,1,17.0,net_banking,0,,,0,No,Wednesday
+CUST_65936,SESS_00363,2023-09-07,9,Q3,0,Tablet,Email,Tier 1,Male,45.0,Fashion,1,1,0,0,0,Cart_Dropped,1.0,14.04,3.3,5.0,4.68,1,17.0,upi,1,SAVE10,,1,No,Thursday
+CUST_68241,SESS_00745,2024-06-20,6,Q2,0,Desktop,Organic,Tier 1,Male,28.0,Beauty,1,0,0,0,0,Browsed_Only,2.0,43.56,10.9,15.0,1.84,1,0.0,upi,1,FLASH50,,0,No,Thursday
+CUST_13297,SESS_00253,2023-06-28,6,Q2,0,Desktop,Paid_Ad,Tier 2,Male,17.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,7.0,64.47,31.8,9.0,2.0,1,14.0,debit_card,1,,0,0,No,Wednesday
+CUST_20147,SESS_00281,2023-07-14,7,Q3,0,Mobile,Direct,Tier 2,Male,16.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,81.05,14.7,2.0,0.74,1,12.0,wallet,1,SALE20,,1,Yes,Friday
+CUST_43038,SESS_00404,2023-09-29,9,Q3,0,Desktop,Social,Tier 2,Female,24.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,42.74,15.4,7.0,4.08,1,12.0,upi,0,,,1,,Friday
+CUST_90745,SESS_00335,2023-08-21,8,Q3,0,Mobile,Paid_Ad,Tier 2,Female,44.0,Beauty,1,1,1,1,1,Completed_Purchase,6.0,99.67,3.2,10.0,0.87,0,11.0,net_banking,1,SUMMER15,0,0,No,Monday
+CUST_66330,SESS_00486,2023-11-28,11,Q4,0,Mobile,Organic,Tier 2,Other,15.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,196.9,4.3,3.0,4.15,0,7.0,nan,0,,,0,No,Tuesday
+CUST_29650,SESS_00942,2024-11-19,11,Q4,0,Mobile,Social,Tier 2,Male,26.0,Beauty,1,1,1,1,1,Completed_Purchase,7.0,25.98,10.3,19.0,2.64,1,10.0,credit_card,0,,0,0,No,Tuesday
+CUST_81772,SESS_00674,2024-04-14,4,Q2,1,Desktop,Referral,Tier 1,Other,31.0,Books,1,1,1,1,0,Payment_Dropped,4.0,125.21,3.3,12.0,3.88,1,6.0,credit_card,0,,0,1,Yes,Sunday
+CUST_59099,SESS_00322,2023-08-10,8,Q3,0,Tablet,Organic,Tier 1,Male,44.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,85.94,1.9,13.0,0.18,0,0.0,upi,1,SUMMER15,,0,No,Thursday
+CUST_91584,SESS_00186,2023-05-14,5,Q2,1,Mobile,Email,Tier 2,Male,45.0,Sports,1,1,1,1,0,Payment_Dropped,3.0,260.33,10.9,17.0,2.64,1,12.0,credit_card,1,SAVE10,0,0,No,Sunday
+CUST_47885,SESS_00244,2023-06-25,6,Q2,1,Mobile,Referral,Tier 1,Male,34.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,18.75,31.1,4.0,0.8,0,10.0,credit_card,1,WELCOME,,1,No,Sunday
+CUST_81251,SESS_00454,2023-11-05,11,Q4,1,Mobile,Email,Tier 1,Female,33.0,Toys,1,1,0,0,0,Cart_Dropped,1.0,219.8,8.0,8.0,0.67,0,10.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_56067,SESS_00990,2024-12-22,12,Q4,1,Mobile,Organic,Tier 2,Female,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,135.81,19.2,10.0,4.43,0,17.0,upi,0,,,0,No,Sunday
+CUST_16593,SESS_00490,2023-12-01,12,Q4,0,Desktop,Organic,Tier 3,Male,13.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,167.08,12.5,18.0,1.61,1,3.0,wallet,0,,,0,No,Friday
+CUST_97563,SESS_00823,2024-08-19,8,Q3,0,Desktop,Social,Tier 2,Male,40.0,Electronics,1,1,0,0,0,Cart_Dropped,4.0,77.02,1.0,8.0,2.03,0,15.0,upi,0,,,0,No,Monday
+CUST_59108,SESS_00398,2023-09-26,9,Q3,0,Mobile,Paid_Ad,Tier 3,Male,32.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,65.18,5.7,13.0,2.64,1,16.0,cash_on_delivery,0,SAVE10,,0,No,Tuesday
+CUST_61220,SESS_00089,2023-03-08,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,31.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,7.0,69.92,3.1,5.0,3.32,0,0.0,credit_card,1,WELCOME,0,1,No,Wednesday
+CUST_62292,SESS_00627,2024-03-09,3,Q1,1,Mobile,Social,Tier 3,Male,27.0,Fashion,1,1,1,1,0,Payment_Dropped,2.0,421.43,14.7,6.0,2.02,1,14.0,debit_card,1,WELCOME,1,1,Yes,Saturday
+CUST_25256,SESS_00675,2024-04-15,4,Q2,0,Desktop,Paid_Ad,Tier 1,Female,25.0,Home & Kitchen,1,1,1,0,0,Checkout_Dropped,1.0,16.08,1.3,15.0,15.02,0,9.0,credit_card,0,,,1,No,Monday
+CUST_75546,SESS_00919,2024-11-03,11,Q4,1,Mobile,Organic,Tier 2,Female,47.0,Electronics,1,1,1,0,0,Checkout_Dropped,3.0,456.77,1.0,10.0,2.64,nan,5.0,credit_card,0,,,1,Yes,Sunday
+CUST_46881,SESS_00423,2023-09-14,9,Q4,0,Mobile,Social,Tier 3,Male,34.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,126.37,8.0,10.0,1.93,0,5.0,upi,1,SALE20,,0,No,Thursday
+CUST_43364,SESS_00789,2024-07-24,7,Q3,0,Mobile,Organic,Tier 2,Female,31.0,Beauty,1,1,1,1,1,Completed_Purchase,5.0,116.37,3.7,5.0,4.18,0,5.0,upi,0,,0,0,No,Wednesday
+CUST_44648,SESS_00279,2023-07-13,7,Q3,0,Desktop,Social,Tier 2,Male,28.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,49.09,7.5,13.0,3.15,1,0.0,upi,0,,,1,No,Thursday
+CUST_57852,SESS_00206,2023-05-29,5,Q2,0,Mobile,Organic,Tier 2,Other,21.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,3.0,76.07,6.4,2.0,3.72,0,0.0,cash_on_delivery,0,,,0,No,Monday
+CUST_78486,SESS_00760,2024-06-30,6,Q2,1,Mobile,Organic,Tier 2,Female,31.0,Toys,1,1,1,1,0,Payment_Dropped,6.0,76.07,14.1,19.0,3.89,0,16.0,cash_on_delivery,1,,1,0,No,Sunday
+CUST_76731,SESS_00578,2024-02-04,2,Q1,1,Mobile,Paid_Ad,Tier 2,Male,25.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,238.19,16.4,19.0,3.98,nan,10.0,cash_on_delivery,1,,,0,No,Sunday
+CUST_37923,SESS_00246,2023-06-26,6,Q2,0,Tablet,Social,Tier 2,Male,35.0,Books,1,0,0,0,0,Browsed_Only,5.0,14.5,11.3,18.0,1.49,0,2.0,cash_on_delivery,0,SALE20,,0,No,Monday
+CUST_27087,SESS_00707,2024-05-22,5,Q2,0,Mobile,Email,Tier 2,Male,44.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,170.96,10.1,16.0,6.82,0,12.0,cash_on_delivery,1,DIWALI30,0,0,No,Wednesday
+CUST_18218,SESS_00815,2024-08-10,8,Q3,1,Mobile,Organic,Tier 1,Female,18.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,299.82,5.6,1.0,2.64,1,11.0,net_banking,1,,,0,No,Saturday
+CUST_64106,SESS_00740,2024-06-18,6,Q2,0,Tablet,Social,Tier 2,Female,30.0,Electronics,1,1,1,0,0,Checkout_Dropped,1.0,13.14,5.5,17.0,6.63,0,6.0,credit_card,1,SAVE10,,0,No,Tuesday
+CUST_30759,SESS_00618,2024-03-03,3,Q1,1,Mobile,Paid_Ad,Tier 1,Female,31.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,24.68,7.8,14.0,3.6,0,17.0,credit_card,1,,,0,No,Sunday
+CUST_48753,SESS_00308,2023-08-01,8,Q3,0,Mobile,Organic,Tier 2,Female,51.0,Beauty,1,0,0,0,0,Browsed_Only,4.0,23.29,6.0,19.0,1.95,1,8.0,wallet,1,WELCOME,,0,No,Tuesday
+CUST_45278,SESS_00706,2024-05-21,5,Q2,0,Mobile,Social,Tier 1,Male,23.0,Books,1,1,1,1,0,Payment_Dropped,7.0,39.88,35.7,16.0,2.08,1,5.0,net_banking,1,WELCOME,1,1,No,Tuesday
+CUST_33051,SESS_00040,2023-01-28,1,Q1,1,Mobile,Organic,Tier 2,Female,39.0,Fashion,1,1,1,1,1,Completed_Purchase,6.0,23.7,18.7,1.0,9.55,1,9.0,credit_card,1,WELCOME,0,0,No,Saturday
+CUST_44542,SESS_00388,2023-09-21,9,Q3,0,Desktop,Organic,Tier 2,Male,31.0,Books,1,1,1,1,1,Completed_Purchase,5.0,92.9,2.6,7.0,5.34,0,12.0,credit_card,0,,0,0,No,Thursday
+CUST_68590,SESS_00224,2023-06-13,6,Q2,0,Mobile,Referral,Tier 1,Male,51.0,Electronics,1,1,1,0,0,Checkout_Dropped,2.0,156.09,13.8,1.0,4.13,1,8.0,credit_card,0,,,1,No,Tuesday
+CUST_69926,SESS_00895,2024-10-12,10,Q4,1,Mobile,Social,Tier 1,Female,31.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,42.9,2.8,6.0,0.97,1,14.0,upi,1,FLASH50,,0,No,Saturday
+CUST_26705,SESS_00129,2023-04-02,4,Q2,1,Mobile,Organic,Tier 2,Female,31.0,Beauty,1,1,1,0,0,Checkout_Dropped,4.0,16.0,22.7,10.0,6.0,0,0.0,credit_card,0,,,0,No,Sunday
+CUST_76232,SESS_00178,2023-05-12,5,Q2,0,Mobile,Direct,Tier 1,Male,31.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,166.68,15.5,8.0,6.6,1,0.0,net_banking,0,,,0,No,Friday
+CUST_61728,SESS_00184,2023-05-13,5,Q2,1,Desktop,Email,Tier 1,Female,23.0,Fashion,1,1,0,0,0,Cart_Dropped,4.0,76.07,8.7,10.0,11.87,1,4.0,upi,1,SUMMER15,,1,Yes,Saturday
+CUST_32103,SESS_00522,2023-12-24,12,Q4,1,Desktop,Organic,Tier 2,Male,33.0,Electronics,1,1,1,0,0,Checkout_Dropped,4.0,63.33,7.9,8.0,2.7,1,0.0,net_banking,0,,,0,No,Sunday
+CUST_40414,SESS_00195,2023-05-19,5,Q2,0,Desktop,Paid_Ad,Tier 1,Female,40.0,Fashion,1,0,0,0,0,Browsed_Only,5.0,113.48,6.2,13.0,1.19,1,14.0,net_banking,0,,,0,No,Friday
+CUST_14103,SESS_00536,2024-01-04,1,Q1,0,Desktop,Organic,Tier 2,Female,33.0,Beauty,1,0,0,0,0,Browsed_Only,1.0,40.69,9.7,15.0,9.72,1,15.0,upi,0,,,0,No,Thursday
+CUST_64944,SESS_00782,2024-07-19,7,Q3,0,Desktop,Social,Tier 1,Male,51.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,56.27,7.5,16.0,4.16,0,0.0,credit_card,0,,,1,No,Friday
+CUST_88090,SESS_00830,2024-08-25,8,Q3,1,Desktop,Email,Tier 3,Male,39.0,Electronics,1,0,0,0,0,Browsed_Only,1.0,157.68,21.6,6.0,2.34,1,6.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_10463,SESS_00291,2023-07-22,7,Q3,1,Mobile,Paid_Ad,Tier 2,Female,27.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,12.58,28.0,4.0,2.64,1,3.0,upi,1,SUMMER15,,0,No,Saturday
+CUST_10113,SESS_00043,2023-01-30,1,Q1,0,Mobile,Paid_Ad,Tier 2,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,6.0,82.1,6.4,11.0,2.54,0,0.0,cash_on_delivery,0,,,0,No,Monday
+CUST_41681,SESS_00430,2023-10-22,10,Q4,1,Desktop,Email,Tier 2,Male,22.0,Sports,1,1,1,1,1,Completed_Purchase,4.0,60.56,19.6,13.0,0.95,0,3.0,upi,1,,0,0,No,Sunday
+CUST_78170,SESS_00833,2024-08-29,8,Q3,0,Mobile,Paid_Ad,Tier 2,Female,43.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,45.56,9.0,18.0,2.42,1,15.0,debit_card,0,,,0,No,Thursday
+CUST_19445,SESS_00110,2023-03-22,3,Q1,0,Mobile,Social,Tier 2,Female,22.0,Sports,1,1,1,1,0,Payment_Dropped,5.0,101.36,10.9,8.0,4.79,1,12.0,upi,0,,1,1,Yes,Wednesday
+CUST_49005,SESS_00765,2024-07-01,7,Q3,0,Mobile,Organic,Tier 1,Female,31.0,Books,1,0,0,0,0,Browsed_Only,3.0,22.77,9.6,7.0,6.0,0,0.0,debit_card,0,,,0,No,Monday
+CUST_33297,SESS_00557,2024-01-21,1,Q1,1,Desktop,Paid_Ad,Tier 3,Male,21.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,4.0,70.29,15.3,18.0,0.94,1,7.0,nan,0,,,0,No,Sunday
+CUST_43691,SESS_00774,2024-07-11,7,Q3,0,Desktop,Direct,Tier 2,Female,31.0,Books,1,1,1,1,1,Completed_Purchase,5.0,246.35,10.6,12.0,1.97,1,11.0,upi,1,,0,0,No,Thursday
+CUST_25899,SESS_00968,2024-12-08,12,Q4,1,Tablet,Organic,Tier 3,Male,44.0,Toys,1,1,0,0,0,Cart_Dropped,2.0,209.33,9.6,2.0,4.18,1,1.0,net_banking,0,,,1,Yes,Sunday
+CUST_92643,SESS_00303,2023-07-27,7,Q3,0,Mobile,Social,Tier 2,Other,28.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,150.77,11.2,14.0,5.72,0,0.0,nan,0,DIWALI30,,0,No,Thursday
+CUST_34991,SESS_00801,2024-07-28,7,Q3,1,Mobile,Direct,Tier 3,Male,40.0,Books,1,0,0,0,0,Browsed_Only,2.0,29.93,32.1,12.0,1.55,0,0.0,net_banking,0,,,0,No,Sunday
+CUST_55697,SESS_00315,2023-08-06,8,Q3,1,Tablet,Email,Tier 3,Female,22.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,27.28,10.8,2.0,5.83,1,17.0,upi,1,SALE20,,0,No,Sunday
+CUST_66869,SESS_00867,2024-09-20,9,Q3,0,Mobile,Social,Tier 3,Male,33.0,Fashion,1,1,1,1,0,Payment_Dropped,7.0,76.07,2.9,9.0,2.64,0,0.0,debit_card,0,,1,1,No,Friday
+CUST_66621,SESS_00317,2023-08-06,8,Q3,1,Mobile,Social,Tier 1,Female,20.0,Fashion,1,1,0,0,0,Cart_Dropped,5.0,97.99,8.2,19.0,1.2,0,0.0,upi,0,,,1,No,Sunday
+CUST_44191,SESS_00074,2023-02-18,2,Q1,1,Desktop,Paid_Ad,Tier 1,Other,16.0,Toys,1,1,1,1,0,Payment_Dropped,2.0,62.75,12.0,6.0,7.03,nan,7.0,net_banking,1,SAVE10,1,1,No,Saturday
+CUST_70701,SESS_00131,2023-04-04,4,Q2,0,Desktop,Paid_Ad,Tier 2,Male,31.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,154.43,10.3,12.0,3.8,1,12.0,debit_card,0,,,0,No,Tuesday
+CUST_67508,SESS_00887,2024-10-06,10,Q4,1,Mobile,Organic,Tier 1,Female,38.0,Books,1,1,1,0,0,Checkout_Dropped,1.0,91.6,7.1,13.0,2.64,1,11.0,credit_card,0,,,0,No,Sunday
+CUST_72512,SESS_00601,2024-02-20,2,Q1,0,Mobile,Organic,Tier 3,Male,31.0,Fashion,1,1,0,0,0,Cart_Dropped,7.0,100.96,11.0,10.0,2.64,1,9.0,upi,0,,,0,No,Tuesday
+CUST_94446,SESS_00212,2023-06-03,6,Q2,1,Desktop,Paid_Ad,Tier 1,Female,35.0,Electronics,1,1,1,0,0,Checkout_Dropped,2.0,195.45,6.5,7.0,1.7,1,3.0,upi,0,,,1,Yes,Saturday
+CUST_55183,SESS_00875,2024-09-27,9,Q3,0,Tablet,Paid_Ad,Tier 2,Female,18.0,Fashion,1,1,1,1,1,Completed_Purchase,2.0,85.15,9.6,3.0,5.53,0,0.0,upi,1,,0,0,No,Friday
+CUST_25562,SESS_00793,2024-07-25,7,Q3,0,Desktop,Email,Tier 2,Male,29.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,5.0,125.2,9.3,10.0,0.55,nan,0.0,upi,1,,,0,No,Thursday
+CUST_33434,SESS_00145,2023-04-18,4,Q2,0,Tablet,Organic,Tier 2,Male,32.0,Fashion,1,0,0,0,0,Browsed_Only,7.0,76.07,9.6,4.0,3.22,1,7.0,cash_on_delivery,1,FLASH50,,0,No,Tuesday
+CUST_33158,SESS_00524,2023-12-29,12,Q4,0,Tablet,Organic,Tier 2,Female,48.0,Home & Kitchen,1,1,1,1,0,Payment_Dropped,2.0,93.88,5.2,19.0,1.49,1,7.0,upi,0,,0,1,No,Friday
+CUST_67281,SESS_00021,2023-01-16,1,Q1,0,Mobile,Paid_Ad,Tier 1,Female,29.0,Toys,1,0,0,0,0,Browsed_Only,2.0,165.2,7.4,13.0,0.45,0,12.0,debit_card,1,,,0,No,Monday
+CUST_26012,SESS_00616,2024-03-02,3,Q1,1,Desktop,Organic,Tier 2,Male,45.0,Sports,1,1,0,0,0,Cart_Dropped,6.0,82.17,36.2,3.0,4.67,0,2.0,credit_card,0,,,1,No,Saturday
+CUST_86790,SESS_00391,2023-09-23,9,Q3,1,Desktop,Social,Tier 2,Female,39.0,Sports,1,0,0,0,0,Browsed_Only,6.0,294.04,7.8,10.0,2.78,1,17.0,debit_card,0,,,0,No,Saturday
+CUST_40498,SESS_00141,2023-09-14,9,Q2,0,Mobile,Social,Tier 1,Other,24.0,Electronics,1,1,1,1,1,Completed_Purchase,7.0,28.26,10.6,7.0,2.64,0,0.0,credit_card,0,,0,0,No,Thursday
+CUST_50218,SESS_00964,2024-12-04,12,Q4,0,Mobile,Social,Tier 3,Male,36.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,127.16,12.0,9.0,4.42,1,15.0,credit_card,1,SUMMER15,,1,Yes,Wednesday
+CUST_54820,SESS_00691,2024-05-03,5,Q2,0,Desktop,Organic,Tier 2,Female,31.0,Books,1,1,1,1,0,Payment_Dropped,3.0,21.01,5.7,16.0,0.2,0,0.0,net_banking,1,SUMMER15,0,1,No,Friday
+CUST_35939,SESS_00931,2024-11-11,11,Q4,0,Desktop,Organic,Tier 1,Female,36.0,Electronics,1,1,1,1,1,Completed_Purchase,6.0,14.04,10.2,13.0,2.56,0,10.0,net_banking,0,,0,0,No,Monday
+CUST_68105,SESS_00539,2024-01-07,1,Q1,1,Tablet,Paid_Ad,Tier 2,Female,29.0,Sports,1,0,0,0,0,Browsed_Only,4.0,203.43,4.5,14.0,3.93,1,4.0,credit_card,0,,,0,No,Sunday
+CUST_48198,SESS_00477,2023-11-22,11,Q4,0,Tablet,Paid_Ad,Tier 1,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,6.0,54.44,23.2,4.0,3.34,1,0.0,net_banking,1,DIWALI30,,1,No,Wednesday
+CUST_55138,SESS_00036,2023-01-22,1,Q1,1,Tablet,Organic,Tier 1,Male,18.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,47.78,13.8,11.0,6.09,1,9.0,credit_card,0,,,0,No,Sunday
+CUST_24551,SESS_00228,2023-06-14,6,Q2,0,Mobile,Paid_Ad,Tier 1,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,1.0,27.93,18.2,10.0,2.64,0,0.0,net_banking,0,,,1,No,Wednesday
+CUST_33776,SESS_00474,2023-11-19,11,Q4,1,Desktop,Referral,Tier 2,Female,39.0,Beauty,1,1,0,0,0,Cart_Dropped,1.0,58.6,5.7,11.0,1.17,0,16.0,upi,1,SUMMER15,,1,No,Sunday
+CUST_98902,SESS_00885,2024-10-05,10,Q4,1,Mobile,Referral,Tier 1,Male,43.0,Electronics,1,1,0,0,0,Cart_Dropped,5.0,76.07,20.1,1.0,2.64,0,1.0,net_banking,0,,,0,No,Saturday
+CUST_33814,SESS_00788,2024-07-23,7,Q3,0,Desktop,Social,Tier 1,Female,31.0,Books,1,1,0,0,0,Cart_Dropped,7.0,166.95,23.1,5.0,5.28,0,0.0,upi,1,FLASH50,,1,No,Tuesday
+CUST_25277,SESS_00460,2023-11-10,11,Q4,0,Desktop,Social,Tier 3,Male,34.0,Books,1,1,1,1,1,Completed_Purchase,1.0,229.96,11.8,10.0,1.73,0,6.0,upi,0,,0,0,No,Friday
+CUST_92554,SESS_00704,2024-05-19,5,Q2,1,Desktop,Paid_Ad,Tier 1,Female,30.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,98.63,19.7,14.0,6.07,0,0.0,credit_card,1,SUMMER15,,1,No,Sunday
+CUST_10993,SESS_00584,2023-09-14,9,Q1,0,Mobile,Organic,Tier 1,Male,48.0,Electronics,1,1,1,0,0,Checkout_Dropped,2.0,171.06,4.6,14.0,2.77,1,9.0,upi,0,,,1,No,Thursday
+CUST_73527,SESS_00177,2023-05-12,5,Q2,0,Desktop,Social,Tier 3,Male,25.0,Sports,1,1,1,1,1,Completed_Purchase,7.0,245.56,18.2,15.0,9.19,nan,12.0,cash_on_delivery,0,DIWALI30,0,0,No,Friday
+CUST_98562,SESS_00305,2023-07-28,7,Q3,0,Mobile,Paid_Ad,Tier 2,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,13.0,0.4,17.0,3.86,0,14.0,net_banking,0,,,0,No,Friday
+CUST_39607,SESS_00514,2023-12-19,12,Q4,0,Desktop,Email,Tier 3,Male,31.0,Electronics,1,1,0,0,0,Cart_Dropped,3.0,79.55,8.8,16.0,3.64,1,0.0,net_banking,1,DIWALI30,,1,No,Tuesday
+CUST_34823,SESS_00714,2024-05-27,5,Q2,0,Desktop,Organic,Tier 3,Male,12.0,Toys,1,1,0,0,0,Cart_Dropped,5.0,117.62,17.5,8.0,3.61,1,11.0,upi,1,,,0,No,Monday
+CUST_70701,SESS_00622,2024-03-05,3,Q1,0,Desktop,Email,Tier 2,Female,25.0,Beauty,1,1,1,0,0,Checkout_Dropped,1.0,34.73,16.4,18.0,3.09,1,10.0,upi,1,SALE20,,1,No,Tuesday
+CUST_25955,SESS_00440,2023-10-28,10,Q4,1,Mobile,Paid_Ad,Tier 1,Male,38.0,Toys,1,0,0,0,0,Browsed_Only,4.0,93.03,2.0,2.0,1.29,1,9.0,debit_card,1,SALE20,,0,No,Saturday
+CUST_40348,SESS_00091,2023-03-11,3,Q1,1,Desktop,Organic,Tier 1,Female,29.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,147.4,13.1,11.0,0.54,1,17.0,upi,0,,,0,No,Saturday
+CUST_52704,SESS_00026,2023-01-19,1,Q1,0,Mobile,Social,Tier 2,Male,34.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,53.67,13.9,16.0,6.66,0,0.0,credit_card,1,WELCOME,,1,No,Thursday
+CUST_17066,SESS_00063,2023-02-11,2,Q1,1,Tablet,Paid_Ad,Tier 2,Female,65.0,Beauty,1,1,1,0,0,Checkout_Dropped,7.0,59.41,5.0,18.0,1.05,0,0.0,nan,1,FLASH50,,1,No,Saturday
+CUST_11716,SESS_00891,2024-10-10,10,Q4,0,Tablet,Email,Tier 3,Male,43.0,Sports,1,0,0,0,0,Browsed_Only,6.0,206.4,15.2,14.0,1.31,0,11.0,upi,1,WELCOME,,0,No,Thursday
+CUST_59729,SESS_00966,2024-12-05,12,Q4,0,Desktop,Referral,Tier 2,Male,18.0,Fashion,1,1,1,1,1,Completed_Purchase,1.0,38.47,1.3,13.0,1.48,1,14.0,upi,0,,0,0,No,Thursday
+CUST_12936,SESS_00435,2023-10-25,10,Q4,0,Tablet,Paid_Ad,Tier 3,Male,30.0,Fashion,1,1,1,1,1,Completed_Purchase,3.0,48.7,23.6,9.0,5.73,1,0.0,debit_card,1,SUMMER15,0,0,No,Wednesday
+CUST_67016,SESS_00008,2023-01-05,1,Q1,0,Desktop,Email,Tier 2,Male,33.0,Books,1,1,0,0,0,Cart_Dropped,3.0,33.74,27.7,6.0,1.23,1,6.0,cash_on_delivery,0,,,1,No,Thursday
+CUST_63928,SESS_00969,2024-12-08,12,Q4,1,Mobile,Paid_Ad,Tier 2,Other,38.0,Electronics,1,1,1,1,1,Completed_Purchase,2.0,35.57,9.2,4.0,4.0,0,0.0,upi,0,,0,0,No,Sunday
+CUST_27878,SESS_00572,2024-01-31,1,Q1,0,Mobile,Social,Tier 1,Male,33.0,Sports,1,1,1,1,1,Completed_Purchase,6.0,191.02,17.5,2.0,12.73,0,17.0,credit_card,1,WELCOME,0,0,No,Wednesday
+CUST_95438,SESS_00049,2023-02-03,2,Q1,0,Mobile,Direct,Tier 1,Male,27.0,Beauty,1,0,0,0,0,Browsed_Only,7.0,13.7,13.3,2.0,4.07,0,0.0,credit_card,1,,,0,No,Friday
+CUST_31814,SESS_00818,2024-08-14,8,Q3,0,Desktop,Organic,Tier 2,Female,28.0,Beauty,1,1,1,1,0,Payment_Dropped,3.0,30.55,9.6,6.0,4.7,0,0.0,upi,0,,0,1,,Wednesday
+CUST_70838,SESS_00851,2024-09-12,9,Q3,0,Tablet,Referral,Tier 2,Female,34.0,Fashion,1,1,1,1,1,Completed_Purchase,4.0,76.07,10.2,14.0,2.64,1,15.0,upi,0,,0,0,No,Thursday
+CUST_80345,SESS_00746,2024-06-20,6,Q2,0,Desktop,Organic,Tier 3,Male,33.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,5.0,89.79,18.5,4.0,3.3,1,12.0,credit_card,0,,,0,No,Thursday
+CUST_42014,SESS_00283,2023-07-16,7,Q3,1,Desktop,Organic,Tier 2,Female,34.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,6.0,155.04,28.0,4.0,6.37,0,14.0,cash_on_delivery,0,,,0,No,Sunday
+CUST_87299,SESS_00568,2024-01-28,1,Q1,1,Mobile,Organic,Tier 1,Female,32.0,Electronics,1,0,0,0,0,Browsed_Only,4.0,279.82,11.0,19.0,4.23,1,0.0,net_banking,0,,,0,No,Sunday
+CUST_85440,SESS_00653,2024-03-25,3,Q1,0,Mobile,Paid_Ad,Tier 2,Female,23.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,4.0,84.41,10.4,5.0,1.99,0,10.0,net_banking,0,,,0,No,Monday
+CUST_24511,SESS_00377,2023-09-16,9,Q3,1,Desktop,Organic,Tier 2,Female,40.0,Beauty,1,1,0,0,0,Cart_Dropped,3.0,257.17,4.2,11.0,3.43,0,0.0,credit_card,1,SAVE10,,1,No,Saturday
+CUST_32103,SESS_00950,2024-11-24,11,Q4,1,Mobile,Organic,Tier 3,Male,38.0,Beauty,1,1,0,0,0,Cart_Dropped,2.0,33.11,7.7,4.0,0.92,1,12.0,nan,0,,,1,Yes,Sunday
+CUST_16235,SESS_00044,2023-01-31,1,Q1,0,Desktop,Referral,Tier 2,Female,15.0,Sports,1,1,0,0,0,Cart_Dropped,6.0,63.97,8.7,16.0,1.31,1,15.0,wallet,1,WELCOME,,1,No,Tuesday
+CUST_16907,SESS_00002,2023-01-01,1,Q1,1,Mobile,Direct,Tier 1,Female,41.0,Electronics,1,1,1,1,1,Completed_Purchase,4.0,96.05,4.7,15.0,2.64,0,0.0,wallet,1,,0,0,No,Sunday
+CUST_13001,SESS_00984,2024-12-19,12,Q4,0,Mobile,Direct,Tier 1,Male,31.0,Sports,1,1,1,1,1,Completed_Purchase,7.0,39.4,15.7,8.0,0.35,1,6.0,credit_card,0,SUMMER15,0,0,No,Thursday
+CUST_47050,SESS_00389,2023-09-21,9,Q3,0,Mobile,Referral,Tier 1,Male,25.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,6.0,121.78,0.7,15.0,0.61,0,0.0,cash_on_delivery,0,,,0,No,Thursday
+CUST_29065,SESS_00829,2024-08-25,8,Q3,1,Desktop,Paid_Ad,Tier 1,Male,31.0,Fashion,1,0,0,0,0,Browsed_Only,3.0,43.3,8.6,2.0,0.2,0,0.0,credit_card,0,,,0,No,Sunday
+CUST_73582,SESS_00032,2023-01-21,1,Q1,1,Mobile,Paid_Ad,Tier 3,Female,60.0,Fashion,1,1,1,0,0,Checkout_Dropped,2.0,54.93,16.4,3.0,4.14,0,7.0,credit_card,1,SAVE10,,1,No,Saturday
+CUST_13805,SESS_00433,2023-10-24,10,Q4,0,Desktop,Email,Tier 2,Male,8.0,Sports,1,0,0,0,0,Browsed_Only,4.0,48.79,19.8,10.0,7.78,1,16.0,wallet,0,,,0,No,Tuesday
+CUST_53283,SESS_00229,2023-06-14,6,Q2,0,Desktop,Organic,Tier 2,Female,28.0,Fashion,1,1,1,0,0,Checkout_Dropped,1.0,29.84,12.9,19.0,3.54,1,7.0,credit_card,0,,,0,No,Wednesday
+CUST_41440,SESS_00237,2023-06-20,6,Q2,0,Desktop,Organic,Tier 1,Female,33.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,1.0,161.07,15.0,1.0,1.54,0,0.0,upi,0,,,0,No,Tuesday
+CUST_66113,SESS_00273,2023-07-08,7,Q3,1,Desktop,Organic,Tier 3,Male,23.0,Beauty,1,1,1,1,1,Completed_Purchase,5.0,65.63,18.0,17.0,1.76,1,14.0,credit_card,1,WELCOME,0,0,No,Saturday
+CUST_34506,SESS_00030,2023-01-19,1,Q1,0,Desktop,Paid_Ad,Tier 3,Male,31.0,Fashion,1,1,1,0,0,Checkout_Dropped,4.0,72.64,14.7,14.0,4.4,0,10.0,credit_card,0,,,0,No,Thursday
+CUST_20932,SESS_00697,2024-05-06,5,Q2,0,Mobile,Organic,Tier 1,Male,16.0,Beauty,1,1,1,1,1,Completed_Purchase,3.0,16.88,17.6,15.0,1.08,0,17.0,cash_on_delivery,0,,0,0,No,Monday
+CUST_55364,SESS_00809,2024-08-06,8,Q3,0,Desktop,Social,Tier 1,Male,43.0,Sports,1,1,1,0,0,Checkout_Dropped,2.0,224.06,15.3,16.0,0.78,nan,3.0,credit_card,0,,,0,No,Tuesday
+CUST_82422,SESS_00166,2023-05-05,5,Q2,0,Mobile,Direct,Tier 3,Female,53.0,Fashion,1,0,0,0,0,Browsed_Only,2.0,76.07,23.4,19.0,2.64,0,8.0,cash_on_delivery,0,,,0,No,Friday
+CUST_73131,SESS_00262,2023-07-01,7,Q3,1,Desktop,Email,Tier 1,Male,22.0,Toys,1,0,0,0,0,Browsed_Only,2.0,202.5,6.6,16.0,9.68,1,7.0,debit_card,0,,,0,No,Saturday
+CUST_34826,SESS_00831,2024-08-26,8,Q3,0,Mobile,Social,Tier 1,Female,35.0,Books,1,1,1,0,0,Checkout_Dropped,4.0,73.31,5.2,13.0,0.08,1,5.0,credit_card,1,SALE20,,0,No,Monday
+CUST_37965,SESS_00643,2024-03-21,3,Q1,0,Desktop,Direct,Tier 1,Female,29.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,117.17,14.4,6.0,8.64,1,1.0,credit_card,0,,,1,No,Thursday
+CUST_57092,SESS_00482,2023-11-25,11,Q4,1,Mobile,Organic,Tier 2,Male,31.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,5.0,18.56,16.7,16.0,2.83,1,5.0,upi,0,,,0,No,Saturday
+CUST_93300,SESS_00696,2024-05-05,5,Q2,1,Mobile,Paid_Ad,Tier 3,Male,33.0,Sports,1,1,0,0,0,Cart_Dropped,4.0,104.16,24.4,10.0,1.03,1,15.0,credit_card,1,DIWALI30,,0,No,Sunday
+CUST_51325,SESS_00041,2023-01-28,1,Q1,1,Desktop,Paid_Ad,Tier 1,Male,24.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,70.76,11.9,17.0,3.75,0,1.0,debit_card,0,,,1,No,Saturday
+CUST_29426,SESS_00017,2023-01-12,1,Q1,0,Mobile,Social,Tier 2,Female,33.0,Electronics,1,1,1,0,0,Checkout_Dropped,2.0,50.8,16.0,17.0,8.83,1,2.0,upi,0,,,1,No,Thursday
+CUST_16353,SESS_00750,2024-06-25,6,Q2,0,Mobile,Organic,Tier 3,Male,25.0,Electronics,1,1,1,0,0,Checkout_Dropped,5.0,169.91,12.1,6.0,1.42,1,9.0,net_banking,1,DIWALI30,,0,No,Tuesday
+CUST_54716,SESS_00897,2024-10-17,10,Q4,0,Desktop,Referral,Tier 2,Male,18.0,Fashion,1,1,0,0,0,Cart_Dropped,6.0,76.07,11.5,4.0,5.82,1,11.0,nan,1,SAVE10,,1,No,Thursday
+CUST_58684,SESS_00519,2023-12-22,12,Q4,0,Desktop,Direct,Tier 1,Other,39.0,Home & Kitchen,1,0,0,0,0,Browsed_Only,7.0,67.04,19.7,15.0,1.83,1,2.0,upi,0,,,0,No,Friday
+CUST_70666,SESS_00940,2023-09-14,9,Q4,0,Tablet,Paid_Ad,Tier 2,Male,25.0,Electronics,1,0,0,0,0,Browsed_Only,6.0,114.31,4.7,12.0,4.2,1,11.0,credit_card,0,,,0,No,Thursday
+CUST_97382,SESS_00468,2023-11-14,11,Q4,0,Tablet,Organic,Tier 1,Other,31.0,Fashion,1,0,0,0,0,Browsed_Only,1.0,107.58,4.7,7.0,6.49,0,11.0,credit_card,0,,,0,No,Tuesday
+CUST_40854,SESS_00551,2024-01-18,1,Q1,0,Desktop,Direct,Tier 3,Male,41.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,185.6,21.6,2.0,0.01,1,8.0,debit_card,0,,,1,No,Thursday
+CUST_95850,SESS_00324,2023-08-12,8,Q3,1,Desktop,Social,Tier 1,Female,5.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,2.0,296.98,10.1,13.0,3.26,1,16.0,cash_on_delivery,1,SALE20,,0,No,Saturday
+CUST_81078,SESS_00031,2023-01-21,1,Q1,1,Mobile,Paid_Ad,Tier 2,Male,33.0,Fashion,1,1,1,0,0,Checkout_Dropped,3.0,130.52,7.5,3.0,2.64,0,15.0,wallet,0,,,0,No,Saturday
+CUST_68798,SESS_00278,2023-07-13,7,Q3,0,Mobile,Social,Tier 1,Female,33.0,Books,1,0,0,0,0,Browsed_Only,5.0,70.12,13.8,10.0,2.64,1,17.0,debit_card,0,,,0,No,Thursday
+CUST_73012,SESS_00941,2024-11-19,11,Q4,0,Desktop,Email,Tier 2,Female,37.0,Electronics,1,1,1,1,1,Completed_Purchase,1.0,39.4,13.6,3.0,0.7,0,0.0,credit_card,0,SUMMER15,0,0,No,Tuesday
+CUST_22235,SESS_00752,2023-09-14,9,Q2,0,Desktop,Email,Tier 1,Female,46.0,Fashion,1,1,1,1,0,Payment_Dropped,4.0,45.51,6.8,9.0,0.7,1,17.0,upi,1,,0,1,Yes,Thursday
+CUST_94890,SESS_00313,2023-08-05,8,Q3,1,Desktop,Email,Tier 1,Male,38.0,Books,1,1,0,0,0,Cart_Dropped,3.0,24.71,6.9,7.0,0.6,0,0.0,credit_card,1,WELCOME,,0,No,Saturday
+CUST_31050,SESS_00406,2023-10-01,10,Q4,1,Desktop,Referral,Tier 3,Male,31.0,Toys,1,1,1,1,1,Completed_Purchase,5.0,21.75,3.1,17.0,2.7,1,8.0,upi,1,SAVE10,0,0,No,Sunday
+CUST_77854,SESS_00390,2023-09-22,9,Q3,0,Desktop,Paid_Ad,Tier 2,Male,32.0,Electronics,1,0,0,0,0,Browsed_Only,7.0,158.59,4.2,3.0,5.01,0,3.0,credit_card,1,WELCOME,,0,No,Friday
+CUST_57047,SESS_00143,2023-04-13,4,Q2,0,Mobile,Social,Tier 3,Male,20.0,Electronics,1,1,0,0,0,Cart_Dropped,2.0,66.83,9.6,7.0,1.48,1,14.0,cash_on_delivery,0,,,1,Yes,Thursday
+CUST_71681,SESS_00241,2023-06-23,6,Q2,0,Desktop,Paid_Ad,Tier 1,Male,41.0,Toys,1,1,1,1,1,Completed_Purchase,4.0,109.94,9.6,15.0,1.76,1,9.0,nan,0,,0,0,No,Friday
+CUST_73019,SESS_00623,2024-03-07,3,Q1,0,Mobile,Organic,Tier 2,Male,22.0,Home & Kitchen,1,1,0,0,0,Cart_Dropped,1.0,104.45,3.2,12.0,7.06,1,5.0,net_banking,0,,,0,No,Thursday
